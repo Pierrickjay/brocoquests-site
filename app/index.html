@@ -91,7 +91,9 @@ p{color:#4a5646;margin-bottom:28px;line-height:1.5}
     });
     const request = fetch(POSTHOG_CAPTURE_URL, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      // text/plain keeps this a CORS "simple request": no preflight, which keepalive
+      // requests may not survive once the page navigates to the store
+      headers: { 'Content-Type': 'text/plain' },
       body: body,
       keepalive: true
     }).catch(function () {});

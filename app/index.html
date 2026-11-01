@@ -15,7 +15,9 @@ const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.pierri
 const APP_STORE_PROVIDER_TOKEN = '128326724';
 const POSTHOG_KEY = 'phc_owuPeNxGRzCZDEUvaTn9exK3oXoRn8LgAQxGD8W6HvHP';
 const POSTHOG_CAPTURE_URL = 'https://eu.i.posthog.com/i/v0/e/';
-const TRACKING_TIMEOUT_MS = 500;
+// The redirect normally fires as soon as PostHog answers; this is only the upper bound.
+// Android drops the request (CORS preflight + POST) if the page leaves for the Play Store first
+const TRACKING_TIMEOUT_MS = 2000;
 </script>
 
 <style>
@@ -91,9 +93,7 @@ p{color:#4a5646;margin-bottom:28px;line-height:1.5}
     });
     const request = fetch(POSTHOG_CAPTURE_URL, {
       method: 'POST',
-      // text/plain keeps this a CORS "simple request": no preflight, which keepalive
-      // requests may not survive once the page navigates to the store
-      headers: { 'Content-Type': 'text/plain' },
+      headers: { 'Content-Type': 'application/json' },
       body: body,
       keepalive: true
     }).catch(function () {});

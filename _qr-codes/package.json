@@ -1,0 +1,12 @@
+{
+  "name": "brocoquests-qr-codes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "sharp": "^0.34.4"
+  }
+}

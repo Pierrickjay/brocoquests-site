@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Télécharger BrocoQuests</title>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="180x180" href="/apple-touch-icon.png">
+
+<script>
+const APP_STORE_URL = 'https://apps.apple.com/fr/app/orthographe-cultureg-broco/id6755903795';
+const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.pierrickjaysidequest.brocoquests';
+// App Store Connect > Analytics > Sources > "Générer un lien de campagne"
+const APP_STORE_PROVIDER_TOKEN = '128326724';
+const POSTHOG_KEY = 'phc_owuPeNxGRzCZDEUvaTn9exK3oXoRn8LgAQxGD8W6HvHP';
+const POSTHOG_CAPTURE_URL = 'https://eu.i.posthog.com/i/v0/e/';
+const TRACKING_TIMEOUT_MS = 500;
+</script>
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Nunito',-apple-system,system-ui,sans-serif;color:#1a2417;background:#efe9dd;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:6vh 16px;text-align:center}
+main{max-width:420px;width:100%}
+.logo{width:96px;height:96px;border-radius:22px;margin:0 auto 20px;display:block}
+h1{font-size:1.6rem;font-weight:900;margin-bottom:8px}
+p{color:#4a5646;margin-bottom:28px;line-height:1.5}
+.stores{display:flex;flex-direction:column;gap:12px}
+.store{display:block;padding:14px 20px;border-radius:14px;background:#1a2417;color:#fff;text-decoration:none;font-weight:800;font-size:1.05rem}
+.store small{display:block;font-weight:600;font-size:.75rem;opacity:.75}
+.store:hover{background:#3d8b2f}
+.home{display:inline-block;margin-top:24px;color:#3d8b2f;font-weight:700}
+</style>
+</head>
+<body>
+<main>
+<img src="/apple-touch-icon.png" alt="BrocoQuests" class="logo" width="96" height="96">
+<h1>BrocoQuests</h1>
+<p>Apprends. Joue. Progresse.<br>Télécharge l'application gratuitement.</p>
+<div class="stores">
+<a id="ios-link" class="store" href="https://apps.apple.com/fr/app/orthographe-cultureg-broco/id6755903795"><small>Télécharger dans l'</small>App Store</a>
+<a id="android-link" class="store" href="https://play.google.com/store/apps/details?id=com.pierrickjaysidequest.brocoquests"><small>Disponible sur</small>Google Play</a>
+</div>
+<a class="home" href="/">Découvrir BrocoQuests →</a>
+</main>
+
+<script>
+(function () {
+  const params = new URLSearchParams(location.search);
+  const src = params.get('src') || 'direct';
+  const camp = params.get('camp') || '';
+
+  function detectPlatform() {
+    const ua = navigator.userAgent;
+    // iPadOS presents itself as a desktop Mac; only touch support gives it away
+    const isIPadOS = /Macintosh/.test(ua) && navigator.maxTouchPoints > 1;
+    if (/iPhone|iPad|iPod/.test(ua) || isIPadOS)
+      return 'ios';
+    if (/Android/.test(ua))
+      return 'android';
+    return 'desktop';
+  }
+
+  function buildAppStoreUrl() {
+    if (!APP_STORE_PROVIDER_TOKEN)
+      return APP_STORE_URL;
+    const query = new URLSearchParams({ pt: APP_STORE_PROVIDER_TOKEN, ct: src, mt: '8' });
+    return APP_STORE_URL + '?' + query.toString();
+  }
+
+  function buildPlayStoreUrl() {
+    const referrer = new URLSearchParams({ utm_source: src, utm_medium: 'qr_ou_lien' });
+    if (camp)
+      referrer.set('utm_campaign', camp);
+    return PLAY_STORE_URL + '&referrer=' + encodeURIComponent(referrer.toString());
+  }
+
+  function track(platform, destination) {
+    const body = JSON.stringify({
+      api_key: POSTHOG_KEY,
+      event: 'app_link_visited',
+      distinct_id: crypto.randomUUID(),
+      properties: {
+        src: src,
+        camp: camp || null,
+        platform: platform,
+        destination: destination,
+        $process_person_profile: false,
+        $geoip_disable: true
+      }
+    });
+    const request = fetch(POSTHOG_CAPTURE_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: body,
+      keepalive: true
+    }).catch(function () {});
+    const timeout = new Promise(function (resolve) { setTimeout(resolve, TRACKING_TIMEOUT_MS); });
+    return Promise.race([request, timeout]);
+  }
+
+  const iosUrl = buildAppStoreUrl();
+  const androidUrl = buildPlayStoreUrl();
+  document.getElementById('ios-link').href = iosUrl;
+  document.getElementById('android-link').href = androidUrl;
+
+  const platform = detectPlatform();
+  const destination = { ios: 'app_store', android: 'google_play', desktop: 'store_badges' }[platform];
+  const redirectUrl = { ios: iosUrl, android: androidUrl }[platform];
+
+  track(platform, destination).then(function () {
+    if (redirectUrl)
+      location.replace(redirectUrl);
+  });
+})();
+</script>
+</body>
+</html>

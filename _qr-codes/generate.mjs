@@ -13,6 +13,7 @@ const LOGO_PATH = path.join(HERE, '..', 'icon.png');
 const PNG_WIDTH = 2048;
 // Share of the QR surface covered by the logo and its white pad; level H tolerates ~30 % damage, 20 % is the cap
 const LOGO_AREA_RATIO = 0.15;
+const CORNER_RADIUS_RATIO = 0.2;
 
 function parseArgs(argv) {
   const url = argv.find((arg) => !arg.startsWith('--'));
@@ -23,6 +24,15 @@ function parseArgs(argv) {
   const nameIndex = argv.indexOf('--name');
   const name = nameIndex !== -1 ? argv[nameIndex + 1] : new URL(url).searchParams.get('src') || 'qr';
   return { url, name, withLogo: argv.includes('--logo') };
+}
+
+async function roundCorners(logoBuffer, side) {
+  const mask = Buffer.from(`<svg width="${side}" height="${side}"><rect width="${side}" height="${side}" rx="${side * CORNER_RADIUS_RATIO}" fill="#fff"/></svg>`);
+  return sharp(logoBuffer)
+    .resize(side, side)
+    .composite([{ input: mask, blend: 'dest-in' }])
+    .png()
+    .toBuffer();
 }
 
 function logoBox(size) {
@@ -37,9 +47,11 @@ async function buildSvg(url, logoSource) {
   const logoBase64 = (await sharp(logoSource).resize(400).jpeg({ quality: 85 }).toBuffer()).toString('base64');
   const size = Number(svg.match(/viewBox="0 0 (\d+) \d+"/)[1]);
   const { side, offset, padding } = logoBox(size);
+  const logoSide = side - 2 * padding;
   const overlay =
-    `<rect x="${offset}" y="${offset}" width="${side}" height="${side}" rx="${side * 0.2}" fill="#fff"/>` +
-    `<image x="${offset + padding}" y="${offset + padding}" width="${side - 2 * padding}" height="${side - 2 * padding}" href="data:image/jpeg;base64,${logoBase64}"/>`;
+    `<rect x="${offset}" y="${offset}" width="${side}" height="${side}" rx="${side * CORNER_RADIUS_RATIO}" fill="#fff"/>` +
+    `<clipPath id="logo-clip"><rect x="${offset + padding}" y="${offset + padding}" width="${logoSide}" height="${logoSide}" rx="${logoSide * CORNER_RADIUS_RATIO}"/></clipPath>` +
+    `<image x="${offset + padding}" y="${offset + padding}" width="${logoSide}" height="${logoSide}" clip-path="url(#logo-clip)" href="data:image/jpeg;base64,${logoBase64}"/>`;
   return svg.replace('</svg>', `${overlay}</svg>`);
 }
 
@@ -49,8 +61,8 @@ async function buildPng(url, logoBuffer) {
     return qr;
   const size = (await sharp(qr).metadata()).width;
   const { side, offset, padding } = logoBox(size);
-  const pad = Buffer.from(`<svg width="${side}" height="${side}"><rect width="${side}" height="${side}" rx="${side * 0.2}" fill="#fff"/></svg>`);
-  const logo = await sharp(logoBuffer).resize(side - 2 * padding, side - 2 * padding).png().toBuffer();
+  const pad = Buffer.from(`<svg width="${side}" height="${side}"><rect width="${side}" height="${side}" rx="${side * CORNER_RADIUS_RATIO}" fill="#fff"/></svg>`);
+  const logo = await roundCorners(logoBuffer, side - 2 * padding);
   return sharp(qr)
     .composite([
       { input: pad, top: offset, left: offset },

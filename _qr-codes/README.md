@@ -19,7 +19,7 @@ node generate.mjs <url> [--logo] [--name <nom>]
 
 | Option | Effet |
 |---|---|
-| `--logo` | Ajoute le logo (`../icon.png`) au centre, sur un fond blanc arrondi (environ 15 % de la surface) |
+| `--logo` | Ajoute le logo (`../icon.png`, coins arrondis) au centre, sur un fond blanc arrondi (environ 15 % de la surface) |
 | `--name <nom>` | Nom des fichiers générés. Par défaut : la valeur du paramètre `src` de l'URL, sinon `qr` |
 
 Les fichiers sont écrits dans `output/` : `<nom>.svg` et `<nom>.png`, ou `<nom>-logo.svg` et `<nom>-logo.png` avec `--logo`.

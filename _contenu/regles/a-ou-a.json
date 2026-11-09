@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "miseAJour": "2026-11-09",
+  "h1": "« a » ou « à » : comment ne plus se tromper ?",
+  "title": "a ou à : la règle et l'astuce pour ne plus se tromper",
+  "description": "a ou à ? Remplace par « avait » : si ça marche, pas d'accent. La règle expliquée simplement, les pièges (il y a, À majuscule) et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>a</strong> sans accent quand on peut le remplacer par <strong>avait</strong> : c'est le verbe avoir (<em class=\"ex\">il a faim</em> → <em class=\"ex\">il avait faim</em>). Sinon, c'est la préposition <strong>à</strong>, avec un accent grave (<em class=\"ex\">je vais à Paris</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">a</p><p>Verbe <strong>avoir</strong> conjugué : il, elle, on <mark>a</mark>.</p><p><em class=\"ex\">Elle a un chat</em> → <em class=\"ex\">elle avait un chat</em> ✓</p></div><div><p class=\"big\">à</p><p><strong>Préposition</strong> : lieu, temps, but, appartenance, moyen.</p><p><em class=\"ex\">Un verre à pied</em> → <em class=\"ex\">un verre avait pied</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Il y a » : toujours sans accent</h3><p>C'est le verbe avoir : <em class=\"ex\">il y a du monde</em> → <em class=\"ex\">il y avait du monde</em>. On n'écrit jamais « il y à ».</p><h3>« a » et « à » dans la même phrase</h3><p>Avec <em>avoir à</em> + infinitif, les deux se suivent : <em class=\"ex\">il a à travailler</em> (il avait à travailler). Teste chaque mot séparément.</p><h3>La question « a-t-il »</h3><p>Dans une question inversée, c'est encore le verbe avoir : <em class=\"ex\">a-t-il fini ?</em> → <em class=\"ex\">avait-il fini ?</em></p><h3>Le À majuscule garde son accent</h3><p>L'Académie française recommande de conserver les accents sur les majuscules : on écrit <em class=\"ex\">À demain !</em> et non « A demain ! ».</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il y à du monde.", "correct": "Il y a du monde.", "explication": "On peut dire « il y avait du monde » : c'est le verbe avoir." },
+    { "faux": "Il a mangé a la cantine.", "correct": "Il a mangé à la cantine.", "explication": "« Il a mangé avait la cantine » ne veut rien dire : c'est la préposition." },
+    { "faux": "Il à faim ce matin.", "correct": "Il a faim ce matin.", "explication": "« Il avait faim ce matin » fonctionne : pas d'accent." },
+    { "faux": "A demain !", "correct": "À demain !", "explication": "La majuscule ne fait pas disparaître l'accent de la préposition." }
+  ],
+  "quiz": [
+    { "phrase": "Elle ___ oublié son parapluie.", "options": ["a", "à"], "reponse": "a", "explication": "« Elle avait oublié » fonctionne : c'est le verbe avoir." },
+    { "phrase": "Nous partons ___ Lyon demain.", "options": ["a", "à"], "reponse": "à", "explication": "« Nous partons avait Lyon » ne veut rien dire : préposition de lieu." },
+    { "phrase": "Il y ___ du soleil aujourd'hui.", "options": ["a", "à"], "reponse": "a", "explication": "« Il y avait du soleil » : « il y a » s'écrit toujours sans accent." },
+    { "phrase": "C'est une machine ___ laver.", "options": ["a", "à"], "reponse": "à", "explication": "Ici « à » indique l'usage de l'objet : c'est la préposition." },
+    { "phrase": "Le train de 8 h ___-t-il du retard ?", "options": ["a", "à"], "reponse": "a", "explication": "« Avait-il du retard ? » : c'est le verbe avoir dans une question." },
+    { "phrase": "___ quelle heure commence le film ?", "options": ["A", "À"], "reponse": "À", "explication": "C'est la préposition, et elle garde son accent même en majuscule." }
+  ],
+  "faq": [
+    { "q": "Faut-il mettre un accent sur le A majuscule ?", "r": "Oui quand c'est la préposition. L'Académie française recommande de garder les accents sur les majuscules : « À bientôt », « À Paris »." },
+    { "q": "On écrit « il y a » ou « il y à » ?", "r": "Toujours « il y a », sans accent : c'est le verbe avoir. On peut d'ailleurs dire « il y avait »." },
+    { "q": "« A priori » prend-il un accent ?", "r": "Traditionnellement non : c'est une locution latine, écrite « a priori ». Les rectifications orthographiques de 1990 admettent aussi « à priori ». Les deux sont acceptés." },
+    { "q": "Comment savoir rapidement s'il faut un accent sur « a » ?", "r": "Remplace le mot par « avait ». Si la phrase garde son sens, c'est « a » sans accent. Sinon, c'est « à »." }
+  ],
+  "liees": ["ou-ou-ou", "est-ou-et", "on-ou-ont", "la-ou-la-ou-l-a"]
+}

@@ -136,6 +136,11 @@ section{max-width:960px;margin:0 auto 76px}
 
 /* ── FAQ ── */
 .faq-section{max-width:720px}
+.fiches-section{max-width:720px;text-align:center}
+.fiches-links{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-bottom:22px}
+.fiches-links a{background:#fffdf7;border:1.5px solid #e3d8bf;border-radius:100px;padding:9px 18px;font-weight:800;color:#1d4d18;text-decoration:none;font-size:.92em}
+.fiches-links a:hover{border-color:#3d8b2f}
+.fiches-all{font-weight:800}
 .faq-item{background:#fffdf7;border:1px solid #e3d8bf;border-radius:16px;margin-bottom:12px;overflow:hidden}
 .faq-item summary{list-style:none;cursor:pointer;padding:18px 22px;font-weight:800;color:#1d4d18;font-size:0.98em;display:flex;justify-content:space-between;align-items:center;gap:12px}
 .faq-item summary::-webkit-details-marker{display:none}
@@ -298,6 +303,18 @@ footer a{font-weight:700}
 </div>
 </section>
 
+<section class="fiches-section" data-screen-label="fiches">
+<h2 class="section-title">Fiches de révision gratuites</h2>
+<p class="section-sub">Les règles d'orthographe qui piègent tout le monde, expliquées en 2 minutes avec un quiz.</p>
+<div class="fiches-links">
+<!-- fiches:start (généré par _contenu/build.mjs, ne pas modifier à la main) -->
+<a href="/orthographe/a-ou-a/">a ou à</a>
+<a href="/orthographe/ou-ou-ou/">ou ou où</a>
+<!-- fiches:end -->
+</div>
+<a href="/orthographe/" class="fiches-all">Toutes les fiches d'orthographe →</a>
+</section>
+
 <section class="faq-section" data-screen-label="faq">
 <h2 class="section-title">Questions fréquentes</h2>
 <p class="section-sub">Tout ce qu'il faut savoir avant de se lancer.</p>
@@ -348,6 +365,7 @@ footer a{font-weight:700}
 </main>
 
 <footer>
+<p><a href="/orthographe/">Fiches d'orthographe</a> · <a href="legal.html">Documents légaux</a></p>
 <p>Questions ? <a href="mailto:brocoquests@gmail.com">brocoquests@gmail.com</a></p>
 </footer>
 <script>

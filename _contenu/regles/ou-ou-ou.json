@@ -1,0 +1,35 @@
+{
+  "id": 5,
+  "miseAJour": "2026-11-09",
+  "h1": "« ou » ou « où » : la règle pour ne plus hésiter",
+  "title": "ou ou où : la règle et l'astuce pour ne plus se tromper",
+  "description": "ou ou où ? Si tu peux dire « ou bien », pas d'accent. Sinon, « où » indique le lieu ou le temps. Règle, exemples, pièges et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>ou</strong> sans accent quand on peut le remplacer par <strong>ou bien</strong> : il propose un choix (<em class=\"ex\">thé ou café ?</em>). Sinon, c'est <strong>où</strong>, avec un accent grave, qui indique un lieu ou un moment (<em class=\"ex\">où vas-tu ?</em>, <em class=\"ex\">le jour où</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ou</p><p>Conjonction : un <strong>choix</strong> entre deux éléments.</p><p><em class=\"ex\">Rouge ou bleu</em> → <em class=\"ex\">rouge ou bien bleu</em> ✓</p></div><div><p class=\"big\">où</p><p>Pronom ou adverbe : le <strong>lieu</strong> ou le <strong>temps</strong>.</p><p><em class=\"ex\">Où es-tu ?</em> → <em class=\"ex\">ou bien es-tu ?</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Où » marque aussi le temps</h3><p>On pense souvent au lieu, mais « où » sert aussi pour un moment : <em class=\"ex\">le jour où</em>, <em class=\"ex\">l'année où</em>, <em class=\"ex\">au moment où</em>. Le test « ou bien » ne marche pas, donc accent.</p><h3>Les expressions avec « où »</h3><p><em class=\"ex\">d'où</em>, <em class=\"ex\">par où</em>, <em class=\"ex\">là où</em>, <em class=\"ex\">partout où</em>, <em class=\"ex\">où que tu ailles</em> : toutes prennent l'accent.</p><h3>« Ou… ou… » pour une alternative</h3><p>Répété, « ou » reste sans accent : <em class=\"ex\">ou tu viens, ou tu restes</em>.</p><h3>Le saviez-vous ?</h3><p>« Où » est le seul mot de la langue française qui s'écrit avec un ù. La touche existe sur ton clavier presque uniquement pour lui !</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Le jour ou il est parti.", "correct": "Le jour où il est parti.", "explication": "« Où » exprime ici le temps : « le jour ou bien il est parti » ne veut rien dire." },
+    { "faux": "Tu viens où tu restes ?", "correct": "Tu viens ou tu restes ?", "explication": "On peut dire « tu viens ou bien tu restes » : c'est un choix, donc pas d'accent." },
+    { "faux": "Je ne sais pas ou il est parti.", "correct": "Je ne sais pas où il est parti.", "explication": "On parle d'un lieu : accent grave." },
+    { "faux": "D'ou viens-tu ?", "correct": "D'où viens-tu ?", "explication": "« D'où » interroge sur l'origine, un lieu : accent." }
+  ],
+  "quiz": [
+    { "phrase": "Tu préfères la mer ___ la montagne ?", "options": ["ou", "où"], "reponse": "ou", "explication": "« La mer ou bien la montagne » : c'est un choix, pas d'accent." },
+    { "phrase": "Je ne sais plus ___ j'ai posé mes clés.", "options": ["ou", "où"], "reponse": "où", "explication": "On cherche un lieu : « où », avec accent." },
+    { "phrase": "C'était l'année ___ nous avons déménagé.", "options": ["ou", "où"], "reponse": "où", "explication": "« Où » exprime aussi le temps. « Ou bien » ne marche pas." },
+    { "phrase": "Appelle-moi ce soir ___ demain matin.", "options": ["ou", "où"], "reponse": "ou", "explication": "« Ce soir ou bien demain matin » : c'est une alternative." },
+    { "phrase": "Par ___ faut-il passer pour aller à la gare ?", "options": ["ou", "où"], "reponse": "où", "explication": "« Par où » interroge sur un chemin, donc un lieu : accent." },
+    { "phrase": "Rouge ___ bleu, choisis vite !", "options": ["ou", "où"], "reponse": "ou", "explication": "« Rouge ou bien bleu » : pas d'accent." }
+  ],
+  "faq": [
+    { "q": "Pourquoi « où » prend-il un accent ?", "r": "Pour le distinguer à l'écrit de la conjonction « ou », qui se prononce pareil. C'est d'ailleurs le seul mot français qui s'écrit avec un ù." },
+    { "q": "On écrit « le jour ou » ou « le jour où » ?", "r": "« Le jour où », avec accent : « où » exprime ici un moment. Le test « ou bien » ne fonctionne pas." },
+    { "q": "« Où que » ou « ou que » ?", "r": "« Où que tu ailles » s'écrit avec un accent : l'expression signifie « en quelque lieu que ». Elle est suivie du subjonctif." }
+  ],
+  "liees": ["a-ou-a", "la-ou-la-ou-l-a", "est-ou-et", "quand-ou-quant-ou-qu-en"]
+}

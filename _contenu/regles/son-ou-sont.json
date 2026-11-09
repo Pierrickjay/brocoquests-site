@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "slug": "son-ou-sont",
+  "miseAJour": "2026-11-09",
+  "h1": "« son » ou « sont » : comment ne plus se tromper ?",
+  "title": "son ou sont : la règle et l'astuce pour ne plus se tromper",
+  "description": "son ou sont ? Remplace par « étaient » : si ça marche, écris « sont » avec un t. Sinon, c'est le possessif « son ». Pièges et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>sont</strong> quand on peut le remplacer par <strong>étaient</strong> : c'est le verbe être (<em class=\"ex\">ils sont partis</em> → <em class=\"ex\">ils étaient partis</em>). Sinon, c'est le possessif <strong>son</strong>, placé devant un nom, qu'on peut remplacer par « mon » ou « ton » (<em class=\"ex\">son sac</em> → <em class=\"ex\">mon sac</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">sont</p><p>Verbe <strong>être</strong> au pluriel : ils, elles son<mark>t</mark>.</p><p><em class=\"ex\">Ils sont prêts</em> → <em class=\"ex\">ils étaient prêts</em> ✓</p></div><div><p class=\"big\">son</p><p><strong>Possessif</strong> devant un nom : à lui, à elle.</p><p><em class=\"ex\">Son vélo</em> → <em class=\"ex\">mon vélo</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Son » devant un nom féminin</h3><p>Devant un nom féminin qui commence par une voyelle ou un h muet, on dit « son » et non « sa » : <em class=\"ex\">son amie</em>, <em class=\"ex\">son école</em>, <em class=\"ex\">son histoire</em>. Le test « mon » marche toujours : <em class=\"ex\">mon amie</em>.</p><h3>« Sont » dans les questions</h3><p>Le sujet peut être après le verbe : <em class=\"ex\">Où sont tes clés ?</em> → <em class=\"ex\">Où étaient tes clés ?</em>, <em class=\"ex\">Sont-ils arrivés ?</em> → <em class=\"ex\">Étaient-ils arrivés ?</em></p><h3>« Sont » devant un participe passé</h3><p>Au passé composé avec être : <em class=\"ex\">elles sont venues</em>, <em class=\"ex\">ils sont tombés</em>. « Étaient venues » fonctionne : il faut le t.</p><h3>Le saviez-vous ?</h3><p>« Son » est aussi un nom : <em class=\"ex\">le son d'une guitare</em>, ou l'enveloppe des céréales (<em class=\"ex\">du pain au son</em>). Même orthographe, et jamais de t.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Le chien mange sont repas.", "correct": "Le chien mange son repas.", "explication": "« Le chien mange mon repas » marche, pas « étaient repas » : c'est le possessif." },
+    { "faux": "Ils son partis tôt ce matin.", "correct": "Ils sont partis tôt ce matin.", "explication": "« Ils étaient partis » fonctionne : verbe être, avec un t." },
+    { "faux": "Sont amie est venue.", "correct": "Son amie est venue.", "explication": "On peut dire « mon amie » : c'est le possessif, qui reste « son » devant une voyelle." },
+    { "faux": "Où son tes clés ?", "correct": "Où sont tes clés ?", "explication": "« Où étaient tes clés ? » fonctionne : c'est le verbe être." }
+  ],
+  "quiz": [
+    { "phrase": "Elle range ___ manteau dans l'armoire.", "options": ["son", "sont"], "reponse": "son", "explication": "« Elle range mon manteau » fonctionne : c'est le possessif." },
+    { "phrase": "Les joueurs ___ épuisés après le match.", "options": ["son", "sont"], "reponse": "sont", "explication": "« Les joueurs étaient épuisés » : verbe être, avec un t." },
+    { "phrase": "Elle a prêté ___ appareil photo à sa cousine.", "options": ["son", "sont"], "reponse": "son", "explication": "« Étaient appareil photo » ne veut rien dire : c'est le possessif devant le nom." },
+    { "phrase": "Les résultats ___ affichés dans le couloir principal.", "options": ["son", "sont"], "reponse": "sont", "explication": "« Les résultats étaient affichés » fonctionne : c'est « sont »." },
+    { "phrase": "Il a raté ___ train à cause des embouteillages.", "options": ["son", "sont"], "reponse": "son", "explication": "« Il a raté mon train » fonctionne : possessif, sans t." }
+  ],
+  "faq": [
+    { "q": "On écrit « ils son » ou « ils sont » ?", "r": "Toujours « ils sont », avec un t : c'est le verbe être. On peut dire « ils étaient »." },
+    { "q": "Pourquoi dit-on « son amie » et pas « sa amie » ?", "r": "Pour éviter la rencontre de deux voyelles, « sa » devient « son » devant un nom féminin qui commence par une voyelle ou un h muet : son amie, son histoire." },
+    { "q": "Quelle différence entre « son » et « ses » ?", "r": "« Son » s'emploie devant un nom au singulier (son livre), « ses » devant un nom au pluriel (ses livres). On peut les remplacer par « mon » et « mes »." }
+  ],
+  "liees": ["on-ou-ont", "et-ou-est", "ces-ses-c-est-s-est", "leur-ou-leurs"]
+}

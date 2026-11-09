@@ -1,0 +1,34 @@
+{
+  "id": 6,
+  "slug": "ce-ou-se",
+  "miseAJour": "2026-11-09",
+  "h1": "« ce » ou « se » : comment ne plus se tromper ?",
+  "title": "ce ou se : la règle et l'astuce pour ne plus se tromper",
+  "description": "ce ou se ? Si tu peux dire « me » à la place, écris « se ». Sinon, c'est « ce ». La règle simple, les pièges fréquents et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>se</strong> quand on peut le remplacer par <strong>me</strong> en changeant la personne : il accompagne un verbe pronominal (<em class=\"ex\">il se lève</em> → <em class=\"ex\">je me lève</em>). Sinon, c'est <strong>ce</strong>, qui désigne quelque chose : devant un nom (<em class=\"ex\">ce livre</em>) ou dans <em class=\"ex\">c'est</em>, <em class=\"ex\">ce qui</em>, <em class=\"ex\">ce que</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">se</p><p>Pronom devant un <strong>verbe</strong> pronominal : <mark>s</mark>e laver, <mark>s</mark>e taire.</p><p><em class=\"ex\">Elle se coiffe</em> → <em class=\"ex\">je me coiffe</em> ✓</p></div><div><p class=\"big\">ce</p><p><strong>Démonstratif</strong> : devant un nom, ou dans « ce qui », « ce que », « c'est ».</p><p><em class=\"ex\">Ce matin</em> → <em class=\"ex\">me matin</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Ce qui », « ce que » : toujours avec un c</h3><p>Ici, « ce » veut dire « la chose » : <em class=\"ex\">je sais ce que tu penses</em>. Les deux formes peuvent se suivre : <em class=\"ex\">elle se demande ce qui se passe</em>.</p><h3>« Ce » devant le verbe être</h3><p>Dans <em class=\"ex\">ce sera</em>, <em class=\"ex\">ce fut</em>, <em class=\"ex\">ce doit être</em>, « ce » signifie « cela » : <em class=\"ex\">ce sera difficile</em> → <em class=\"ex\">cela sera difficile</em>. Devant une voyelle, il devient « c' » : <em class=\"ex\">c'est</em>, <em class=\"ex\">c'était</em>.</p><h3>« Se » devant un infinitif</h3><p>Le pronom reste devant le verbe, même à l'infinitif : <em class=\"ex\">elle aime se promener</em> → <em class=\"ex\">j'aime me promener</em>. Le test fonctionne.</p><h3>« Ce » ou « cet » ?</h3><p>Devant un nom masculin qui commence par une voyelle ou un h muet, « ce » devient « cet » : <em class=\"ex\">cet arbre</em>, <em class=\"ex\">cet hôtel</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il ce lève tôt chaque matin.", "correct": "Il se lève tôt chaque matin.", "explication": "« Je me lève tôt » fonctionne : c'est le pronom « se »." },
+    { "faux": "Se gâteau est délicieux.", "correct": "Ce gâteau est délicieux.", "explication": "« Me gâteau » ne veut rien dire : devant un nom, c'est « ce »." },
+    { "faux": "Elle ce demande ce qui se passe.", "correct": "Elle se demande ce qui se passe.", "explication": "« Je me demande » marche, donc « se » ; « ce qui », lui, s'écrit toujours avec un c." },
+    { "faux": "Se sera difficile.", "correct": "Ce sera difficile.", "explication": "On peut dire « cela sera difficile » : devant le verbe être, c'est « ce »." }
+  ],
+  "quiz": [
+    { "phrase": "___ vélo appartient à mon voisin du dessus.", "options": ["Ce", "Se"], "reponse": "Ce", "explication": "« Me vélo » ne veut rien dire : devant un nom, c'est « ce »." },
+    { "phrase": "Il ___ lève toujours avant le lever du soleil.", "options": ["ce", "se"], "reponse": "se", "explication": "« Je me lève » fonctionne : c'est le verbe pronominal « se lever »." },
+    { "phrase": "___ chien aboie dès que quelqu'un sonne à la porte.", "options": ["Ce", "Se"], "reponse": "Ce", "explication": "« Chien » est un nom : on écrit le démonstratif « ce »." },
+    { "phrase": "Elle ___ prépare tranquillement pour son entretien.", "options": ["ce", "se"], "reponse": "se", "explication": "« Je me prépare » fonctionne : c'est « se »." }
+  ],
+  "faq": [
+    { "q": "Comment savoir s'il faut écrire « ce » ou « se » ?", "r": "Remplace par « me » en changeant la personne. Si ça marche (il se lave → je me lave), écris « se ». Sinon, c'est « ce »." },
+    { "q": "On écrit « ce que » ou « se que » ?", "r": "Toujours « ce que » (et « ce qui ») : « ce » y désigne une chose. « Se que » n'existe pas." },
+    { "q": "Quand écrire « cet » au lieu de « ce » ?", "r": "Devant un nom masculin qui commence par une voyelle ou un h muet : cet ami, cet hôtel. Devant une consonne, c'est « ce » : ce garçon." }
+  ],
+  "liees": ["ces-ses-c-est-s-est", "son-ou-sont", "la-la-l-a", "et-ou-est"]
+}

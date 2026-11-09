@@ -1,0 +1,35 @@
+{
+  "id": 10,
+  "slug": "la-la-l-a",
+  "miseAJour": "2026-11-09",
+  "h1": "« la », « là » ou « l'a » : comment choisir ?",
+  "title": "la, là ou l'a : la règle et l'astuce pour bien choisir",
+  "description": "la, là ou l'a ? Si « l'avait » marche, écris « l'a ». Si « ici » marche, c'est « là ». Sinon, « la ». La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>l'a</strong> quand on peut dire <strong>l'avait</strong> (<em class=\"ex\">il l'a vue</em> → <em class=\"ex\">il l'avait vue</em>). On écrit <strong>là</strong>, avec un accent, quand on peut dire <strong>ici</strong> ou <strong>là-bas</strong> (<em class=\"ex\">pose-le là</em>). Dans tous les autres cas, c'est <strong>la</strong> : un article devant un nom ou un pronom devant un verbe (<em class=\"ex\">la maison</em>, <em class=\"ex\">je la vois</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">l'a</p><p><strong>le</strong> ou <strong>la</strong> + verbe <strong>avoir</strong> : l<mark>'a</mark>.</p><p><em class=\"ex\">Il l'a appelée</em> → <em class=\"ex\">il l'avait appelée</em> ✓</p></div><div><p class=\"big\">là</p><p>Adverbe de <strong>lieu</strong> (parfois de moment) : l<mark>à</mark>.</p><p><em class=\"ex\">Reste là</em> → <em class=\"ex\">reste ici</em> ✓</p></div><div><p class=\"big\">la</p><p><strong>Article</strong> (la porte) ou <strong>pronom</strong> (je la ferme).</p><p><em class=\"ex\">Je la connais</em> : ni « l'avait » ni « ici » ne marchent.</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Il la regarde » ou « il l'a regardée » ?</h3><p>Tout dépend du temps. Au présent, c'est le pronom : <em class=\"ex\">il la regarde</em>. Au passé composé, c'est « l'a » : <em class=\"ex\">il l'a regardée</em> → <em class=\"ex\">il l'avait regardée</em>. Le participe s'accorde alors avec « l' » s'il remplace un nom féminin.</p><h3>« Là » dans les mots composés</h3><p>L'accent reste dans <em class=\"ex\">là-bas</em>, <em class=\"ex\">là-haut</em>, <em class=\"ex\">celui-là</em>, <em class=\"ex\">ce jour-là</em> et <em class=\"ex\">voilà</em>. Avec un nom précédé de « ce », on met un trait d'union : <em class=\"ex\">cette fois-là</em>.</p><h3>« Cela » sans accent, « celle-là » avec</h3><p>C'est le piège classique : <em class=\"ex\">cela</em> ne prend jamais d'accent. Seuls les mots où « là » est relié par un trait d'union le gardent : <em class=\"ex\">celle-là</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Pose-le la.", "correct": "Pose-le là.", "explication": "On peut dire « pose-le ici » : c'est le lieu, avec un accent." },
+    { "faux": "Je là connais.", "correct": "Je la connais.", "explication": "Ni « ici » ni « l'avait » ne marchent : c'est le pronom « la », sans accent." },
+    { "faux": "Il la vue hier.", "correct": "Il l'a vue hier.", "explication": "« Il l'avait vue hier » fonctionne : c'est « l'a », avec le verbe avoir." },
+    { "faux": "Celà me convient.", "correct": "Cela me convient.", "explication": "« Cela » ne prend jamais d'accent, contrairement à « celle-là »." }
+  ],
+  "quiz": [
+    { "phrase": "Il ___ rencontrée lors d'un voyage à Lyon.", "options": ["la", "là", "l'a"], "reponse": "l'a", "explication": "« Il l'avait rencontrée » fonctionne : c'est « l'a »." },
+    { "phrase": "Reste ___, je reviens dans cinq minutes.", "options": ["la", "là", "l'a"], "reponse": "là", "explication": "« Reste ici » fonctionne : c'est le lieu, avec un accent." },
+    { "phrase": "Tu as vu ___ nouvelle affiche dans le couloir ?", "options": ["la", "là", "l'a"], "reponse": "la", "explication": "Ni « ici » ni « l'avait » ne marchent : c'est l'article devant le nom." },
+    { "phrase": "Mon responsable ___ convoquée pour un entretien demain.", "options": ["la", "là", "l'a"], "reponse": "l'a", "explication": "« Mon responsable l'avait convoquée » fonctionne : c'est « l'a »." },
+    { "phrase": "Tu connais ___ nouvelle stagiaire du service comptable ?", "options": ["la", "là", "l'a"], "reponse": "la", "explication": "Devant le nom « stagiaire », c'est l'article « la »." }
+  ],
+  "faq": [
+    { "q": "Quand mettre un accent sur « là » ?", "r": "Quand on peut le remplacer par « ici » ou « là-bas » : il indique un lieu, ou un moment comme dans « ce jour-là »." },
+    { "q": "On écrit « cela » ou « celà » ?", "r": "« Cela », sans accent. En revanche, « celle-là », « celui-là » et « voilà » en prennent un." },
+    { "q": "On écrit « ce jour-là » ou « ce jour là » ?", "r": "Avec un trait d'union : « ce jour-là », « cette fois-là ». « Là » se relie par un trait d'union au nom précédé de « ce »." }
+  ],
+  "liees": ["a-ou-a", "ou-ou-ou", "ce-ou-se", "ces-ses-c-est-s-est"]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "slug": "on-ou-ont",
+  "miseAJour": "2026-11-09",
+  "h1": "« on » ou « ont » : comment ne plus se tromper ?",
+  "title": "on ou ont : la règle et l'astuce pour ne plus se tromper",
+  "description": "on ou ont ? Remplace par « avaient » : si ça marche, écris « ont » avec un t. Sinon, c'est le pronom « on ». Règle, pièges courants et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>ont</strong> quand on peut le remplacer par <strong>avaient</strong> : c'est le verbe avoir (<em class=\"ex\">ils ont fini</em> → <em class=\"ex\">ils avaient fini</em>). Sinon, c'est le pronom <strong>on</strong>, sujet du verbe, qu'on peut remplacer par « il » (<em class=\"ex\">on part demain</em> → <em class=\"ex\">il part demain</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ont</p><p>Verbe <strong>avoir</strong> au pluriel : ils, elles on<mark>t</mark>.</p><p><em class=\"ex\">Elles ont gagné</em> → <em class=\"ex\">elles avaient gagné</em> ✓</p></div><div><p class=\"big\">on</p><p><strong>Pronom sujet</strong> : quelqu'un, les gens, ou « nous ».</p><p><em class=\"ex\">On chante</em> → <em class=\"ex\">il chante</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« On a », jamais « on ont »</h3><p>Même quand il désigne plusieurs personnes, « on » se conjugue comme « il » : <em class=\"ex\">on a</em>, <em class=\"ex\">on est</em>, <em class=\"ex\">on fait</em>. Le verbe reste au singulier.</p><h3>« Ont » suit toujours un sujet pluriel</h3><p><em class=\"ex\">Ils ont</em>, <em class=\"ex\">les enfants ont</em>, <em class=\"ex\">mes amis ont</em>. Dans une question, le sujet passe après : <em class=\"ex\">Ont-ils compris ?</em> → <em class=\"ex\">Avaient-ils compris ?</em></p><h3>La négation cachée : « on n'a »</h3><p>À l'oral, la liaison masque le « n' » : on entend « on a rien vu ». À l'écrit, il faut <em class=\"ex\">on n'a rien vu</em>. Pour vérifier, remplace par « nous » : <em class=\"ex\">nous n'avons rien vu</em>.</p><h3>Le saviez-vous ?</h3><p>« On » vient du latin « homo », « homme ». C'est pour cela qu'on rencontre aussi « l'on » dans un style soutenu : <em class=\"ex\">si l'on veut</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Ils on mangé.", "correct": "Ils ont mangé.", "explication": "« Ils avaient mangé » fonctionne : c'est le verbe avoir, avec un t." },
+    { "faux": "Ont part demain.", "correct": "On part demain.", "explication": "« Avaient part demain » ne veut rien dire, mais « il part demain » marche : c'est le pronom." },
+    { "faux": "On ont gagné le match.", "correct": "On a gagné le match.", "explication": "« On » se conjugue comme « il » : on a, jamais on ont." },
+    { "faux": "On a rien vu.", "correct": "On n'a rien vu.", "explication": "Avec « nous », on dirait « nous n'avons rien vu » : le « n' » de la négation est obligatoire." }
+  ],
+  "quiz": [
+    { "phrase": "Les enfants ___ joué dans le jardin toute la journée.", "options": ["on", "ont"], "reponse": "ont", "explication": "« Les enfants avaient joué » fonctionne : verbe avoir, avec un t." },
+    { "phrase": "___ ne sait pas encore qui viendra ce soir.", "options": ["On", "Ont"], "reponse": "On", "explication": "« Il ne sait pas encore » fonctionne : c'est le pronom sujet." },
+    { "phrase": "Mes collègues ___ fini le rapport ce matin.", "options": ["on", "ont"], "reponse": "ont", "explication": "« Mes collègues avaient fini » : c'est le verbe avoir." },
+    { "phrase": "___ espère avoir de bonnes nouvelles rapidement.", "options": ["On", "Ont"], "reponse": "On", "explication": "« Avaient espère » ne veut rien dire : c'est le pronom « on »." },
+    { "phrase": "Elles ___ commandé leurs billets sur Internet.", "options": ["on", "ont"], "reponse": "ont", "explication": "« Elles avaient commandé » fonctionne : « ont », avec un t." }
+  ],
+  "faq": [
+    { "q": "On écrit « ils on » ou « ils ont » ?", "r": "Toujours « ils ont », avec un t : c'est le verbe avoir. On peut d'ailleurs dire « ils avaient »." },
+    { "q": "« On a » ou « on ont » ?", "r": "« On a ». Même s'il désigne plusieurs personnes, « on » se conjugue au singulier, comme « il »." },
+    { "q": "Avec « on », faut-il accorder l'adjectif ?", "r": "Quand « on » désigne clairement plusieurs personnes ou une femme, l'accord est admis : « on est contents », « on est arrivées ». Le verbe, lui, reste au singulier." }
+  ],
+  "liees": ["son-ou-sont", "et-ou-est", "a-ou-a", "on-n-negation"]
+}

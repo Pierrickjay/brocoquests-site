@@ -31,5 +31,5 @@
     { "q": "On écrit « le jour ou » ou « le jour où » ?", "r": "« Le jour où », avec accent : « où » exprime ici un moment. Le test « ou bien » ne fonctionne pas." },
     { "q": "« Où que » ou « ou que » ?", "r": "« Où que tu ailles » s'écrit avec un accent : l'expression signifie « en quelque lieu que ». Elle est suivie du subjonctif." }
   ],
-  "liees": ["a-ou-a", "la-ou-la-ou-l-a", "est-ou-et", "quand-ou-quant-ou-qu-en"]
+  "liees": ["a-ou-a", "la-la-l-a", "et-ou-est", "quand-quant-qu-en"]
 }

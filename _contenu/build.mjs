@@ -165,7 +165,7 @@ ${r.pieges?.length ? `<section><h2>Les pièges à éviter</h2><ul class="traps">
 </section>
 <aside class="app-cta">
 <img src="/icon.png" alt="Broco, la mascotte de BrocoQuests" width="72" height="72" loading="lazy">
-<div><p class="app-cta-title">${esc(r.cta || 'Ancre la règle pour de bon avec Broco')}</p><p>5 minutes par jour. L'algorithme te repropose les règles que tu maîtrises le moins, au bon moment.</p>
+<div><p class="app-cta-title">${esc(r.cta || 'Ancre la règle pour de bon avec BrocoQuests')}</p><p>5 minutes par jour. L'algorithme te repropose les règles que tu maîtrises le moins, au bon moment.</p>
 <a href="${ctaUrl(camp)}" class="btn">Télécharger gratuitement →</a></div>
 </aside>
 ${r.faq?.length ? `<section class="faq"><h2>Questions fréquentes</h2>${r.faq.map(f => `<details><summary>${esc(f.q)}</summary><div>${f.r}</div></details>`).join('')}</section>` : ''}

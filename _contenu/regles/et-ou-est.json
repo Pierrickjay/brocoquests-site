@@ -7,12 +7,6 @@
   "description": "et ou est ? Remplace par « était » : si ça marche, écris « est ». Sinon, c'est « et ». La règle simple, les pièges fréquents et un quiz express.",
   "reponseCourte": "<p>On écrit <strong>est</strong> quand on peut le remplacer par <strong>était</strong> : c'est le verbe être (<em class=\"ex\">il est fatigué</em> → <em class=\"ex\">il était fatigué</em>). Sinon, c'est la conjonction <strong>et</strong>, qui relie deux mots ou deux idées et peut se remplacer par « et puis » (<em class=\"ex\">du pain et du fromage</em>).</p>",
   "complementRegle": "<div class=\"compare\"><div><p class=\"big\">est</p><p>Verbe <strong>être</strong> conjugué : il, elle, on e<mark>s</mark>t.</p><p><em class=\"ex\">La soupe est chaude</em> → <em class=\"ex\">la soupe était chaude</em> ✓</p></div><div><p class=\"big\">et</p><p><strong>Conjonction</strong> : elle ajoute, elle relie.</p><p><em class=\"ex\">Le chat et le chien</em> → <em class=\"ex\">le chat était le chien</em> ✗</p></div></div>",
-  "sections": [
-    {
-      "titre": "Les cas qui font hésiter",
-      "html": "<h3>Devant un participe passé, c'est souvent « est »</h3><p>Au passé composé, beaucoup de verbes se conjuguent avec être : <em class=\"ex\">elle est partie</em>, <em class=\"ex\">il est tombé</em>. Le test marche toujours : <em class=\"ex\">elle était partie</em>.</p><h3>« Est-ce que » s'écrit toujours avec un s</h3><p>C'est le verbe être suivi de « ce ». On n'écrit jamais « et-ce que ». Même chose dans les questions : <em class=\"ex\">Où est ta veste ?</em> → <em class=\"ex\">Où était ta veste ?</em></p><h3>Commence par « était », pas par « et puis »</h3><p>« Et puis » sonne parfois bizarre, même quand c'est bien « et » (<em class=\"ex\">blanc et noir</em>). Le test « était » est plus fiable : s'il échoue, écris « et ».</p><h3>Le saviez-vous ?</h3><p>« Est » est aussi un nom : le point cardinal (<em class=\"ex\">l'est de la France</em>). Là, on prononce le s et le t.</p>"
-    }
-  ],
   "pieges": [
     { "faux": "Il et fatigué.", "correct": "Il est fatigué.", "explication": "« Il était fatigué » fonctionne : c'est le verbe être." },
     { "faux": "Le chat est le chien dorment.", "correct": "Le chat et le chien dorment.", "explication": "« Le chat était le chien dorment » ne veut rien dire : c'est la conjonction qui relie les deux animaux." },

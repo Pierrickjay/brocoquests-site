@@ -5,7 +5,7 @@
   "h1": "« ce » ou « se » : comment ne plus se tromper ?",
   "title": "ce ou se : la règle et l'astuce pour ne plus se tromper",
   "description": "ce ou se ? Si tu peux dire « me » à la place, écris « se ». Sinon, c'est « ce ». La règle simple, les pièges fréquents et un quiz express.",
-  "reponseCourte": "<p>On écrit <strong>se</strong> quand on peut le remplacer par <strong>me</strong> en changeant la personne : il accompagne un verbe pronominal (<em class=\"ex\">il se lève</em> → <em class=\"ex\">je me lève</em>). Sinon, c'est <strong>ce</strong>, qui désigne quelque chose : devant un nom (<em class=\"ex\">ce livre</em>) ou dans <em class=\"ex\">c'est</em>, <em class=\"ex\">ce qui</em>, <em class=\"ex\">ce que</em>.</p>",
+  "reponseCourte": "<p>On écrit <strong>se</strong> devant un verbe, quand il devient <strong>me</strong> si tu parles de toi : <em class=\"ex\">il se lève</em> → <em class=\"ex\">je me lève</em>. Sinon, c'est <strong>ce</strong>, qui sert à montrer quelque chose : devant un nom (<em class=\"ex\">ce livre</em>) ou dans <em class=\"ex\">c'est</em>, <em class=\"ex\">ce qui</em> et <em class=\"ex\">ce que</em>.</p>",
   "complementRegle": "<div class=\"compare\"><div><p class=\"big\">se</p><p>Pronom devant un <strong>verbe</strong> pronominal : <mark>s</mark>e laver, <mark>s</mark>e taire.</p><p><em class=\"ex\">Elle se coiffe</em> → <em class=\"ex\">je me coiffe</em> ✓</p></div><div><p class=\"big\">ce</p><p><strong>Démonstratif</strong> : devant un nom, ou dans « ce qui », « ce que », « c'est ».</p><p><em class=\"ex\">Ce matin</em> → <em class=\"ex\">me matin</em> ✗</p></div></div>",
   "sections": [
     {

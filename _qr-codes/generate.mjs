@@ -11,9 +11,11 @@ const HERE = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(HERE, 'output');
 const LOGO_PATH = path.join(HERE, '..', 'icon.png');
 const PNG_WIDTH = 2048;
-// Share of the QR surface covered by the logo and its white pad; level H tolerates ~30 % damage, 20 % is the cap
+const QR_MARGIN = 4;
+// Share of the QR surface (quiet zone excluded) covered by the logo and its white pad; level H tolerates ~30 % damage, 20 % is the cap
 const LOGO_AREA_RATIO = 0.15;
 const CORNER_RADIUS_RATIO = 0.2;
+const LOGO_PADDING_RATIO = 0.06;
 
 function parseArgs(argv) {
   const url = argv.find((arg) => !arg.startsWith('--'));
@@ -35,18 +37,20 @@ async function roundCorners(logoBuffer, side) {
     .toBuffer();
 }
 
-function logoBox(size) {
-  const side = Math.round(size * Math.sqrt(LOGO_AREA_RATIO));
-  return { side, offset: Math.round((size - side) / 2), padding: Math.round(side * 0.08) };
+function logoBox(size, url) {
+  const moduleCount = QRCode.create(url, { errorCorrectionLevel: 'H' }).modules.size;
+  const qrSide = (size * moduleCount) / (moduleCount + 2 * QR_MARGIN);
+  const side = qrSide * Math.sqrt(LOGO_AREA_RATIO);
+  return { side, offset: (size - side) / 2, padding: side * LOGO_PADDING_RATIO };
 }
 
 async function buildSvg(url, logoSource) {
-  const svg = await QRCode.toString(url, { type: 'svg', errorCorrectionLevel: 'H', margin: 4 });
+  const svg = await QRCode.toString(url, { type: 'svg', errorCorrectionLevel: 'H', margin: QR_MARGIN });
   if (!logoSource)
     return svg;
   const logoBase64 = (await sharp(logoSource).resize(400).jpeg({ quality: 85 }).toBuffer()).toString('base64');
   const size = Number(svg.match(/viewBox="0 0 (\d+) \d+"/)[1]);
-  const { side, offset, padding } = logoBox(size);
+  const { side, offset, padding } = logoBox(size, url);
   const logoSide = side - 2 * padding;
   const overlay =
     `<rect x="${offset}" y="${offset}" width="${side}" height="${side}" rx="${side * CORNER_RADIUS_RATIO}" fill="#fff"/>` +
@@ -56,11 +60,14 @@ async function buildSvg(url, logoSource) {
 }
 
 async function buildPng(url, logoBuffer) {
-  const qr = await QRCode.toBuffer(url, { type: 'png', errorCorrectionLevel: 'H', margin: 4, width: PNG_WIDTH });
+  const qr = await QRCode.toBuffer(url, { type: 'png', errorCorrectionLevel: 'H', margin: QR_MARGIN, width: PNG_WIDTH });
   if (!logoBuffer)
     return qr;
   const size = (await sharp(qr).metadata()).width;
-  const { side, offset, padding } = logoBox(size);
+  const box = logoBox(size, url);
+  const side = Math.round(box.side);
+  const offset = Math.round(box.offset);
+  const padding = Math.round(box.padding);
   const pad = Buffer.from(`<svg width="${side}" height="${side}"><rect width="${side}" height="${side}" rx="${side * CORNER_RADIUS_RATIO}" fill="#fff"/></svg>`);
   const logo = await roundCorners(logoBuffer, side - 2 * padding);
   return sharp(qr)

@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "slug": "leur-ou-leurs",
+  "miseAJour": "2026-11-10",
+  "h1": "« leur » ou « leurs » : quand faut-il un s ?",
+  "title": "leur ou leurs : la règle et l'astuce pour ne plus se tromper",
+  "description": "leur ou leurs ? Devant un verbe, jamais de s. Devant un nom, leurs prend un s si le nom est au pluriel. La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p>Devant un verbe, <strong>leur</strong> est un pronom qui veut dire « à eux, à elles » : il ne prend <strong>jamais</strong> de s (<em class=\"ex\">je leur parle</em> → <em class=\"ex\">je lui parle</em>). Devant un nom, il s'accorde avec ce nom : <strong>leur</strong> au singulier (<em class=\"ex\">leur maison</em>), <strong>leurs</strong> au pluriel (<em class=\"ex\">leurs enfants</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">leur</p><p>Devant un <strong>verbe</strong> (à eux) ou un nom <strong>singulier</strong>.</p><p><em class=\"ex\">Je leur écris</em> → <em class=\"ex\">je lui écris</em> ✓</p></div><div><p class=\"big\">leur<mark>s</mark></p><p>Devant un nom <strong>pluriel</strong>, et seulement là.</p><p><em class=\"ex\">Leurs vélos</em> → <em class=\"ex\">leur vélo</em> au singulier ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Le test « lui » pour le pronom</h3><p>Si tu peux remplacer par « lui », c'est le pronom, toujours sans s : <em class=\"ex\">je leur ai dit</em> → <em class=\"ex\">je lui ai dit</em>. Le pluriel est déjà dans le mot : « leurs » n'existe jamais devant un verbe.</p><h3>Ne te laisse pas piéger par les pluriels autour</h3><p>Dans <em class=\"ex\">je leur donne des livres</em>, « leur » complète le verbe « donne », pas « livres ». Il reste invariable, même entouré de pluriels.</p><h3>Un objet chacun : singulier ou pluriel ?</h3><p>Quand chaque personne possède un seul objet, les deux sont admis : <em class=\"ex\">ils ont enlevé leur casquette</em> (une chacun) ou <em class=\"ex\">leurs casquettes</em> (l'ensemble). Choisis selon ce que tu veux mettre en avant.</p><h3>« Le leur », « les leurs »</h3><p>Précédé d'un article, c'est un pronom possessif qui s'accorde : <em class=\"ex\">nos idées et les leurs</em>, <em class=\"ex\">notre jardin et le leur</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Je leurs parle tous les jours.", "correct": "Je leur parle tous les jours.", "explication": "« Je lui parle » fonctionne : c'est le pronom, jamais de s." },
+    { "faux": "Leur enfants jouent dehors.", "correct": "Leurs enfants jouent dehors.", "explication": "« Enfants » est au pluriel : le déterminant prend un s." },
+    { "faux": "Leurs chat dort sur le canapé.", "correct": "Leur chat dort sur le canapé.", "explication": "Un seul chat : « leur » reste au singulier." },
+    { "faux": "Je leurs ai rendu leurs cadeaux.", "correct": "Je leur ai rendu leurs cadeaux.", "explication": "Le premier se remplace par « lui » (pronom, sans s), le second précède « cadeaux » au pluriel." }
+  ],
+  "quiz": [
+    { "phrase": "Il faut ___ dire la vérité sans tarder.", "options": ["leur", "leurs"], "reponse": "leur", "explication": "« Il faut lui dire » fonctionne : pronom, donc sans s." },
+    { "phrase": "Ils ont vendu ___ maison de campagne cet été.", "options": ["leur", "leurs"], "reponse": "leur", "explication": "« Maison » est au singulier : « leur » aussi." },
+    { "phrase": "___ enfants rentrent toujours à pied de l'école.", "options": ["Leur", "Leurs"], "reponse": "Leurs", "explication": "« Enfants » est au pluriel : le déterminant prend un s." },
+    { "phrase": "Il faut ___ expliquer les nouvelles règles du jeu.", "options": ["leur", "leurs"], "reponse": "leur", "explication": "« Il faut lui expliquer » marche : pronom invariable, malgré « les règles »." },
+    { "phrase": "Ils ont rangé ___ affaires dans le vestiaire.", "options": ["leur", "leurs"], "reponse": "leurs", "explication": "« Affaires » est au pluriel : « leurs » avec un s." }
+  ],
+  "faq": [
+    { "q": "« Leur » prend-il un s devant un verbe ?", "r": "Jamais. Devant un verbe, « leur » est un pronom qui veut dire « à eux » : je leur parle, je leur ai écrit." },
+    { "q": "Pourquoi « leur » pronom ne prend-il jamais de s ?", "r": "Parce qu'il est déjà le pluriel de « lui » : je lui parle, je leur parle. Il ne s'accorde donc pas." },
+    { "q": "On écrit « ils ont pris leur voiture » ou « leurs voitures » ?", "r": "Ça dépend du sens : « leur voiture » s'ils en partagent une, « leurs voitures » s'ils en ont plusieurs. Si chacun a la sienne, les deux sont admis." }
+  ],
+  "liees": ["son-ou-sont", "ces-ses-c-est-s-est", "mes-ou-mais", "on-ou-ont"]
+}

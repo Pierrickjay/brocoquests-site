@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "slug": "ces-ses-c-est-s-est",
+  "miseAJour": "2026-11-10",
+  "h1": "« ces », « ses », « c'est » ou « s'est » : comment choisir ?",
+  "title": "ces, ses, c'est ou s'est : la règle et l'astuce simple",
+  "description": "ces, ses, c'est ou s'est ? Ces montre, ses appartient, c'est veut dire « cela est », s'est va avec un verbe pronominal. Pièges et quiz express.",
+  "reponseCourte": "<p>Écris <strong>ces</strong> quand tu montres (<em class=\"ex\">ces livres-là</em>) et <strong>ses</strong> quand ça appartient à quelqu'un (<em class=\"ex\">ses livres</em> = les siens). <strong>C'est</strong> veut dire « cela est » (<em class=\"ex\">c'est joli</em>). <strong>S'est</strong> se place devant un participe passé, avec un verbe pronominal, et devient « me suis » avec « je » (<em class=\"ex\">il s'est levé</em> → <em class=\"ex\">je me suis levé</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ces</p><p>Démonstratif : on <strong>montre</strong>.</p><p><em class=\"ex\">Ces fleurs</em> → <em class=\"ex\">ces fleurs-là</em> ✓</p></div><div><p class=\"big\">ses</p><p>Possessif : à <strong>lui</strong> ou à <strong>elle</strong>.</p><p><em class=\"ex\">Ses clés</em> → <em class=\"ex\">les siennes</em> ✓</p></div><div><p class=\"big\">c'est</p><p><strong>Cela est</strong>, devant un mot ou un groupe.</p><p><em class=\"ex\">C'est facile</em> → <em class=\"ex\">cela est facile</em> ✓</p></div><div><p class=\"big\">s'est</p><p>Verbe <strong>pronominal</strong> au passé composé.</p><p><em class=\"ex\">Il s'est trompé</em> → <em class=\"ex\">je me suis trompé</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Ces » ou « ses » : pose la question « à qui ? »</h3><p>Les deux se placent devant un nom pluriel. Si les choses appartiennent à quelqu'un (les siennes), écris « ses » : <em class=\"ex\">chacun range ses affaires</em>. Si tu les désignes, et que tu peux ajouter « -là » après le nom, écris « ces » : <em class=\"ex\">ces nuages-là</em>.</p><h3>« C'est fait » ou « il s'est fait » ?</h3><p>Les deux peuvent précéder un participe passé. Sans sujet devant, c'est « cela est » : <em class=\"ex\">c'est fait</em>. Avec un sujet (il, elle, le chat…), passe à « je » : <em class=\"ex\">il s'est fait mal</em> → <em class=\"ex\">je me suis fait mal</em>, donc « s'est ».</p><h3>« C'est » ou « ce sont » ?</h3><p>Devant un nom pluriel, l'écrit soigné préfère « ce sont » : <em class=\"ex\">ce sont mes amis</em>. « C'est mes amis » se dit beaucoup, mais reste familier.</p><h3>Et « sait », « sais » ?</h3><p>Même son, autre mot : le verbe savoir. <em class=\"ex\">Il sait nager</em> → <em class=\"ex\">il savait nager</em>. Si « savait » marche, ce n'est aucune des quatre formes.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il c'est trompé de route.", "correct": "Il s'est trompé de route.", "explication": "Avec « je », on dirait « je me suis trompé » : c'est le verbe pronominal." },
+    { "faux": "S'est joli chez toi.", "correct": "C'est joli chez toi.", "explication": "« Cela est joli chez toi » fonctionne : c'est « c'est »." },
+    { "faux": "Chacun range ces affaires.", "correct": "Chacun range ses affaires.", "explication": "Les affaires sont à lui, les siennes : c'est le possessif." },
+    { "faux": "Regarde ses nuages, là-bas !", "correct": "Regarde ces nuages, là-bas !", "explication": "On montre les nuages, ils n'appartiennent à personne : c'est le démonstratif." }
+  ],
+  "quiz": [
+    { "phrase": "___ chaussures-là sont trop petites pour moi.", "options": ["Ces", "Ses", "C'est", "S'est"], "reponse": "Ces", "explication": "On désigne des chaussures précises (« -là ») : c'est le démonstratif." },
+    { "phrase": "Elle a rangé ___ affaires avant de partir.", "options": ["ces", "ses", "c'est", "s'est"], "reponse": "ses", "explication": "Ce sont ses affaires à elle, les siennes : possessif." },
+    { "phrase": "Il ___ levé très tôt pour prendre son train.", "options": ["ces", "ses", "c'est", "s'est"], "reponse": "s'est", "explication": "« Je me suis levé » fonctionne : verbe pronominal au passé composé." },
+    { "phrase": "Il ___ blessé en jouant au football dimanche dernier.", "options": ["ces", "ses", "c'est", "s'est"], "reponse": "s'est", "explication": "On dirait « je me suis blessé » : c'est « s'est »." },
+    { "phrase": "Elle a retrouvé ___ clés sous le canapé du salon.", "options": ["ces", "ses", "c'est", "s'est"], "reponse": "ses", "explication": "Les clés sont à elle : c'est le possessif." },
+    { "phrase": "___ le moment de partir, dépêche-toi !", "options": ["Ces", "Ses", "C'est", "S'est"], "reponse": "C'est", "explication": "« Cela est le moment de partir » a du sens : c'est « c'est »." }
+  ],
+  "faq": [
+    { "q": "Comment savoir si on écrit « ces » ou « ses » ?", "r": "Demande-toi « à qui ? ». Si les choses sont à lui ou à elle (les siennes), écris « ses ». Si tu les montres, écris « ces »." },
+    { "q": "On écrit « c'est » ou « s'est » ?", "r": "« C'est » veut dire « cela est » : c'est beau. « S'est » est suivi d'un participe passé et devient « me suis » avec « je » : il s'est levé, je me suis levé." },
+    { "q": "Faut-il dire « c'est » ou « ce sont » devant un pluriel ?", "r": "À l'écrit soigné, « ce sont » : ce sont mes amis. « C'est mes amis » est très courant à l'oral, mais familier." }
+  ],
+  "liees": ["ce-ou-se", "son-ou-sont", "mes-ou-mais", "et-ou-est"]
+}

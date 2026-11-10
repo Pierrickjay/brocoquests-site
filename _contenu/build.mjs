@@ -200,7 +200,7 @@ function pageHub() {
   const html = `${head({ title: `${MODULE.titre} | BrocoQuests`, description: 'Homophones, accords, conjugaison : toutes les règles d\'orthographe expliquées simplement, avec exemples, pièges et un quiz pour vérifier que tu as compris.', path, ogTitle: MODULE.titre })}
 <main class="fiche hub">
 <nav class="crumbs" aria-label="Fil d'Ariane"><a href="/">Accueil</a> › <span>${MODULE.nom}</span></nav>
-<h1>Règles d'orthographe : les fiches de Broco</h1>
+<h1>Règles d'orthographe : les fiches de BrocoQuests</h1>
 <p class="lead">Chaque fiche explique une règle en clair, avec une astuce pour ne plus hésiter, les pièges les plus fréquents et un quiz express. Gratuit, sans inscription.</p>
 ${cats.map(c => `<section><h2>${esc(c)}</h2><ul class="cards">${regles.filter(r => r.categorie === c).map(r => `<li><a href="/${MODULE.slug}/${r.slug}/"><span class="card-title">${esc(r.h1)}</span><span class="card-desc">${esc(resume(strip(r.reponseCourte)))}</span></a></li>`).join('')}</ul></section>`).join('\n')}
 <aside class="app-cta">

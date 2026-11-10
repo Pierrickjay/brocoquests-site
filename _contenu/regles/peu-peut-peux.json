@@ -1,0 +1,36 @@
+{
+  "id": 12,
+  "slug": "peu-peut-peux",
+  "miseAJour": "2026-11-10",
+  "h1": "« peu », « peut » ou « peux » : comment choisir ?",
+  "title": "peu, peut ou peux : la règle et l'astuce pour bien choisir",
+  "description": "peu, peut ou peux ? Si « beaucoup » marche, c'est « peu ». Si « pouvait » marche, c'est pouvoir : peux avec je et tu, peut avec il. Pièges et quiz.",
+  "reponseCourte": "<p>Écris <strong>peu</strong> quand tu peux le remplacer par <strong>beaucoup</strong> : c'est une quantité (<em class=\"ex\">il dort peu</em> → <em class=\"ex\">il dort beaucoup</em>). Si c'est <strong>pouvait</strong> qui marche, c'est le verbe pouvoir : <strong>peux</strong> avec « je » et « tu », <strong>peut</strong> avec « il », « elle » et « on » (<em class=\"ex\">je peux venir</em>, <em class=\"ex\">elle peut venir</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">peu</p><p>Adverbe : une <strong>petite quantité</strong>.</p><p><em class=\"ex\">Il mange peu</em> → <em class=\"ex\">il mange beaucoup</em> ✓</p></div><div><p class=\"big\">peu<mark>x</mark></p><p>Pouvoir avec <strong>je</strong> et <strong>tu</strong>.</p><p><em class=\"ex\">Tu peux sortir</em> → <em class=\"ex\">tu pouvais sortir</em> ✓</p></div><div><p class=\"big\">peu<mark>t</mark></p><p>Pouvoir avec <strong>il, elle, on</strong> ou un nom.</p><p><em class=\"ex\">On peut partir</em> → <em class=\"ex\">on pouvait partir</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Peut-être » ou « peut être » ?</h3><p>Avec un trait d'union, c'est l'adverbe qui veut dire « sans doute » : <em class=\"ex\">il viendra peut-être</em>. Sans trait d'union, c'est le verbe pouvoir suivi de « être », qu'on remplace par « pourrait être » : <em class=\"ex\">ce colis peut être livré demain</em> → <em class=\"ex\">pourrait être livré</em>.</p><h3>« Je peux », jamais « je peut »</h3><p>Le t est réservé à la 3e personne. Pense à vouloir, qui marche pareil : <em class=\"ex\">je veux, tu veux, il veut</em>, donc <em class=\"ex\">je peux, tu peux, il peut</em>.</p><h3>« Peu » dans les expressions</h3><p><em class=\"ex\">un peu</em>, <em class=\"ex\">peu à peu</em>, <em class=\"ex\">à peu près</em>, <em class=\"ex\">sous peu</em>, <em class=\"ex\">depuis peu</em> : toujours sans t ni x.</p><h3>Le saviez-vous ?</h3><p>Dans une question où « je » passe après le verbe, on n'écrit pas « peux-je » mais <em class=\"ex\">puis-je</em> : <em class=\"ex\">Puis-je entrer ?</em></p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il dort peut depuis une semaine.", "correct": "Il dort peu depuis une semaine.", "explication": "« Il dort beaucoup » fonctionne : c'est une quantité, donc « peu »." },
+    { "faux": "Il peu venir demain.", "correct": "Il peut venir demain.", "explication": "« Il pouvait venir » fonctionne, et le sujet est « il » : « peut »." },
+    { "faux": "Je peut t'aider si tu veux.", "correct": "Je peux t'aider si tu veux.", "explication": "Avec « je », le verbe pouvoir prend un x : je peux." },
+    { "faux": "Peut être qu'il viendra.", "correct": "Peut-être qu'il viendra.", "explication": "Ici, c'est « sans doute » : l'adverbe prend un trait d'union." }
+  ],
+  "quiz": [
+    { "phrase": "Il dort ___ depuis qu'il a changé de poste.", "options": ["peu", "peut", "peux"], "reponse": "peu", "explication": "« Il dort beaucoup » fonctionne : c'est une quantité." },
+    { "phrase": "Elle ___ finir ce rapport avant midi facilement.", "options": ["peu", "peut", "peux"], "reponse": "peut", "explication": "« Elle pouvait finir » marche, avec « elle » : « peut »." },
+    { "phrase": "Je ___ te rappeler dans une heure si tu veux.", "options": ["peu", "peut", "peux"], "reponse": "peux", "explication": "Verbe pouvoir avec « je » : « peux », avec un x." },
+    { "phrase": "Tu ___ prendre ma veste si tu as froid.", "options": ["peu", "peut", "peux"], "reponse": "peux", "explication": "« Tu pouvais prendre » fonctionne, avec « tu » : « peux »." },
+    { "phrase": "Elle travaille ___ le soir pour mieux se reposer.", "options": ["peu", "peut", "peux"], "reponse": "peu", "explication": "« Elle travaille beaucoup le soir » a du sens : c'est l'adverbe." },
+    { "phrase": "Il ___ nous rejoindre après sa réunion de midi.", "options": ["peu", "peut", "peux"], "reponse": "peut", "explication": "« Il pouvait nous rejoindre » fonctionne : 3e personne, donc « peut »." }
+  ],
+  "faq": [
+    { "q": "On écrit « je peux » ou « je peut » ?", "r": "Toujours « je peux », avec un x, comme « tu peux ». Le t ne s'emploie qu'avec il, elle, on : il peut." },
+    { "q": "« Peut-être » ou « peut être » ?", "r": "« Peut-être », avec un trait d'union, quand ça veut dire « sans doute ». « Peut être », sans trait d'union, quand on peut dire « pourrait être »." },
+    { "q": "On dit « peux-je » ou « puis-je » ?", "r": "« Puis-je », dans une question inversée : « Puis-je vous aider ? ». « Peux-je » ne s'emploie pas." }
+  ],
+  "liees": ["mes-ou-mais", "quand-quant-qu-en", "on-ou-ont", "pres-ou-pret"]
+}

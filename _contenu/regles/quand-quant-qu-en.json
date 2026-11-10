@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "slug": "quand-quant-qu-en",
+  "miseAJour": "2026-11-10",
+  "h1": "« quand », « quant » ou « qu'en » : comment choisir ?",
+  "title": "quand, quant ou qu'en : la règle et l'astuce pour choisir",
+  "description": "quand, quant ou qu'en ? Quand = lorsque, quant ne s'emploie que dans « quant à », qu'en = que + en. La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p>Écris <strong>quand</strong> pour parler du temps : tu peux le remplacer par <strong>lorsque</strong> ou « à quel moment » (<em class=\"ex\">quand il pleut</em>, <em class=\"ex\">quand pars-tu ?</em>). <strong>Quant</strong> ne s'emploie que dans <strong>quant à</strong>, qui veut dire « en ce qui concerne » (<em class=\"ex\">quant à moi</em>). <strong>Qu'en</strong>, c'est « que » + « en » (<em class=\"ex\">qu'en penses-tu ?</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">quan<mark>d</mark></p><p>Le <strong>temps</strong> : lorsque, à quel moment.</p><p><em class=\"ex\">Quand il fait beau</em> → <em class=\"ex\">lorsqu'il fait beau</em> ✓</p></div><div><p class=\"big\">quan<mark>t</mark></p><p>Seulement dans <strong>quant à</strong> : en ce qui concerne.</p><p><em class=\"ex\">Quant à lui</em> → <em class=\"ex\">en ce qui le concerne</em> ✓</p></div><div><p class=\"big\">qu'en</p><p><strong>Que</strong> + <strong>en</strong>.</p><p><em class=\"ex\">Qu'en dis-tu ?</em> → <em class=\"ex\">que dis-tu de cela ?</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Quant à », « quant au », « quant aux »</h3><p>Le « à » se contracte devant « le » et « les » : <em class=\"ex\">quant au résultat</em>, <em class=\"ex\">quant aux enfants</em>. Le t reste : on n'écrit jamais « quand au ».</p><h3>« Quand même » et « quand bien même »</h3><p>Ces expressions prennent toujours un d : <em class=\"ex\">il est venu quand même</em>, <em class=\"ex\">quand bien même il pleuvrait</em>.</p><h3>« Qu'en » avec « ne… que »</h3><p>On trouve aussi « qu'en » dans <em class=\"ex\">ce n'est qu'en pratiquant qu'on progresse</em> : c'est « ne… que » suivi de « en pratiquant ». Le test « lorsque » échoue, donc pas de d.</p><h3>Le saviez-vous ?</h3><p>Devant une voyelle, « quand » se lie avec un son [t] : <em class=\"ex\">quand il arrive</em> se prononce « quan-t-il ». C'est ce son qui pousse à écrire « quant » par erreur.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Quant pars-tu en vacances ?", "correct": "Quand pars-tu en vacances ?", "explication": "On demande « à quel moment » : c'est le temps, donc « quand »." },
+    { "faux": "Quand à moi, je reste.", "correct": "Quant à moi, je reste.", "explication": "« En ce qui me concerne, je reste » : c'est « quant à »." },
+    { "faux": "Ce film, quand penses-tu ?", "correct": "Ce film, qu'en penses-tu ?", "explication": "On dirait « que penses-tu de cela » : c'est « que » + « en »." },
+    { "faux": "Il est venu quant même.", "correct": "Il est venu quand même.", "explication": "« Quand même » s'écrit toujours avec un d." }
+  ],
+  "quiz": [
+    { "phrase": "Cette nouvelle organisation, ___ penses-tu ?", "options": ["quand", "quant", "qu'en"], "reponse": "qu'en", "explication": "« Que penses-tu de cela ? » : c'est « que » + « en »." },
+    { "phrase": "___ il fait beau, ils vont courir dans le bois.", "options": ["Quand", "Quant", "Qu'en"], "reponse": "Quand", "explication": "« Lorsqu'il fait beau » fonctionne : c'est le temps." },
+    { "phrase": "___ à lui, il n'a pas encore pris de décision.", "options": ["Quand", "Quant", "Qu'en"], "reponse": "Quant", "explication": "« En ce qui le concerne » : c'est « quant à »." },
+    { "phrase": "___ à notre directeur, il sera absent toute la semaine.", "options": ["Quand", "Quant", "Qu'en"], "reponse": "Quant", "explication": "« En ce qui concerne notre directeur » : « quant à », avec un t." },
+    { "phrase": "___ reviendras-tu de ton voyage en Asie ?", "options": ["Quand", "Quant", "Qu'en"], "reponse": "Quand", "explication": "On demande « à quel moment » : c'est « quand »." },
+    { "phrase": "___ as-tu pensé après avoir vu ce reportage ?", "options": ["Quand", "Quant", "Qu'en"], "reponse": "Qu'en", "explication": "« Qu'as-tu pensé de cela ? » : « que » + « en »." }
+  ],
+  "faq": [
+    { "q": "On écrit « quant à moi » ou « quand à moi » ?", "r": "« Quant à moi », avec un t : l'expression veut dire « en ce qui me concerne ». « Quand à » n'existe pas." },
+    { "q": "Quelle est la différence entre « quand » et « quant » ?", "r": "« Quand » parle du temps et se remplace par « lorsque ». « Quant » ne s'utilise que dans « quant à », au sens de « en ce qui concerne »." },
+    { "q": "On écrit « qu'en penses-tu » ou « quand penses-tu » ?", "r": "« Qu'en penses-tu ? » : on demande ce que tu penses de quelque chose, pas à quel moment. C'est « que » + « en »." }
+  ],
+  "liees": ["ou-ou-ou", "peu-peut-peux", "quoique-ou-quoi-que", "quelque-ou-quel-que"]
+}

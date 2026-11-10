@@ -1,0 +1,35 @@
+{
+  "id": 11,
+  "slug": "mes-ou-mais",
+  "miseAJour": "2026-11-10",
+  "h1": "« mes » ou « mais » : comment ne plus se tromper ?",
+  "title": "mes ou mais : la règle et l'astuce pour ne plus se tromper",
+  "description": "mes ou mais ? Si tu peux dire « cependant », écris « mais ». Devant un nom pluriel qui est à toi, c'est « mes ». Règle, pièges et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>mais</strong> quand on peut le remplacer par <strong>cependant</strong> : il marque une opposition (<em class=\"ex\">je veux venir, mais je suis fatigué</em>). Sinon, c'est <strong>mes</strong>, le pluriel de « mon » et « ma », toujours placé devant un nom (<em class=\"ex\">mes amis</em> → <em class=\"ex\">mon ami</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">mais</p><p>Conjonction : une <strong>opposition</strong>.</p><p><em class=\"ex\">Il pleut, mais il fait doux</em> → <em class=\"ex\">il pleut, cependant il fait doux</em> ✓</p></div><div><p class=\"big\">mes</p><p>Possessif pluriel : <strong>à moi</strong>, devant un nom.</p><p><em class=\"ex\">Mes clés</em> → <em class=\"ex\">ma clé</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Le test du singulier pour « mes »</h3><p>Mets le nom au singulier : <em class=\"ex\">mes livres</em> → <em class=\"ex\">mon livre</em>, <em class=\"ex\">mes notes</em> → <em class=\"ex\">ma note</em>. Si « mon » ou « ma » marche, c'est « mes ».</p><h3>« Mais » dans une exclamation</h3><p><em class=\"ex\">Mais oui !</em>, <em class=\"ex\">mais enfin !</em>, <em class=\"ex\">mais si !</em> : ici « cependant » sonne mal, car « mais » renforce la réponse. Aucun nom ne suit, donc ce n'est jamais « mes ».</p><h3>Attention à « met » et « mets »</h3><p>Même son, autre mot : le verbe mettre. <em class=\"ex\">Je mets mon manteau</em> → <em class=\"ex\">je mettais mon manteau</em>. Et « un mets », c'est un plat cuisiné.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Je prends mais affaires.", "correct": "Je prends mes affaires.", "explication": "On peut dire « mon affaire » au singulier : c'est le possessif." },
+    { "faux": "Je veux venir, mes je suis fatigué.", "correct": "Je veux venir, mais je suis fatigué.", "explication": "« Je veux venir, cependant je suis fatigué » fonctionne : c'est l'opposition." },
+    { "faux": "Mais parents arrivent ce soir.", "correct": "Mes parents arrivent ce soir.", "explication": "Les parents sont à moi, et « mon parent » marche au singulier : possessif." },
+    { "faux": "Je mais mon manteau.", "correct": "Je mets mon manteau.", "explication": "« Je mettais mon manteau » fonctionne : c'est le verbe mettre." }
+  ],
+  "quiz": [
+    { "phrase": "Elle aime la nature, ___ elle déteste la pluie.", "options": ["mes", "mais"], "reponse": "mais", "explication": "« Cependant elle déteste la pluie » fonctionne : opposition." },
+    { "phrase": "J'ai retrouvé ___ notes de cours dans le tiroir.", "options": ["mes", "mais"], "reponse": "mes", "explication": "Au singulier, on dirait « ma note » : possessif." },
+    { "phrase": "Je veux venir, ___ j'ai une réunion ce soir.", "options": ["mes", "mais"], "reponse": "mais", "explication": "« Cependant j'ai une réunion » a du sens : c'est « mais »." },
+    { "phrase": "J'ai retrouvé ___ anciennes photos dans le grenier.", "options": ["mes", "mais"], "reponse": "mes", "explication": "Les photos sont à moi, « ma photo » au singulier : possessif." },
+    { "phrase": "Il fait froid, ___ le soleil est quand même présent.", "options": ["mes", "mais"], "reponse": "mais", "explication": "« Cependant le soleil est présent » fonctionne : opposition." }
+  ],
+  "faq": [
+    { "q": "Comment savoir si on écrit « mes » ou « mais » ?", "r": "Remplace par « cependant ». Si la phrase garde son sens, écris « mais ». Si un nom suit et que « mon » ou « ma » marche au singulier, c'est « mes »." },
+    { "q": "Peut-on commencer une phrase par « mais » ?", "r": "Oui, c'est correct : « Mais il n'a rien dit. » Évite seulement de le faire à chaque phrase." },
+    { "q": "Faut-il une virgule avant « mais » ?", "r": "Le plus souvent, oui, quand « mais » relie deux propositions : « Je veux venir, mais je suis fatigué. » Entre deux mots courts, on peut s'en passer : « petit mais costaud »." }
+  ],
+  "liees": ["ces-ses-c-est-s-est", "leur-ou-leurs", "et-ou-est", "son-ou-sont"]
+}

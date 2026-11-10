@@ -57,8 +57,8 @@
       res.className = 'quiz-result';
       var perfect = score === questions.length;
       res.innerHTML = '<p class="quiz-score">' + score + ' / ' + questions.length + '</p>' +
-        '<p>' + (perfect ? 'Sans faute ! Reste à ne pas l\'oublier dans 3 semaines : c\'est le rôle de Broco.'
-          : 'Encore quelques hésitations. Dans l\'app, Broco te repropose cette règle jusqu\'à ce qu\'elle soit acquise.') + '</p>' +
+        '<p>' + (perfect ? 'Sans faute ! Reste à ne pas l\'oublier dans 3 semaines, et pour ça il y a une solution.'
+          : 'Encore quelques hésitations. Dans l\'app, cette règle revient jusqu\'à ce qu\'elle devienne naturelle pour toi.') + '</p>' +
         '<a class="btn" href="/app/?src=site&camp=' + encodeURIComponent(camp + '-quiz') + '">Continuer dans l\'app →</a>';
       box.appendChild(res);
     }

@@ -236,7 +236,7 @@ const homePath = join(ROOT, 'index.html');
 const vedettes = (regles.some(r => r.accueil) ? regles.filter(r => r.accueil) : regles).slice(0, 8);
 const home = readFileSync(homePath, 'utf8').replace(
   /(<!-- fiches:start[^>]*-->)[\s\S]*?(<!-- fiches:end -->)/,
-  (_, a, b) => `${a}\n${vedettes.map(r => `<a href="/${MODULE.slug}/${r.slug}/">${esc(r.lien || r.item.replace(/\s*\/\s*/g, ' ou '))}</a>`).join('\n')}\n${b}`);
+  (_, a, b) => `${a}\n${vedettes.map(r => `<a href="/${MODULE.slug}/${r.slug}/">${esc(r.lien || r.item.split(/\s*\/\s*/).map(m => `« ${m} »`).join(' ou '))}</a>`).join('\n')}\n${b}`);
 writeFileSync(homePath, home);
 
 // Sitemap : l'accueil + les pages générées

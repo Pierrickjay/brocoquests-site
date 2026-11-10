@@ -19,12 +19,16 @@
 <meta property="og:image" content="https://brocoquests.fr/icon.png">
 <meta property="og:locale" content="fr_FR">
 <style>
-.supports{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:16px}
-.support{display:flex;flex-direction:column;background:#fffdf7;border:1px solid #e3d8bf;border-radius:18px;padding:16px}
-.support img{width:100%;aspect-ratio:3/4;object-fit:contain;background:#efe9dd;border-radius:12px;margin-bottom:14px}
+.supports{list-style:none;display:flex;flex-direction:column;gap:16px}
+.support{display:flex;gap:20px;align-items:center;background:#fffdf7;border:1px solid #e3d8bf;border-radius:18px;padding:16px}
+.support img{width:30%;max-width:180px;aspect-ratio:3/4;object-fit:contain;background:#efe9dd;border-radius:12px;flex-shrink:0}
 .support h2{font-size:1.1em;margin:0 0 2px}
 .support p{font-size:.86em;color:#8a8068;margin-bottom:14px}
-.support .btn{margin-top:auto;justify-content:center}
+@media (max-width:600px){
+.support{flex-direction:column;align-items:stretch}
+.support img{width:100%;max-width:none}
+.support .btn{justify-content:center}
+}
 </style>
 </head>
 <body>
@@ -35,22 +39,28 @@
 <p class="lead">Tu veux faire découvrir BrocoQuests autour de toi ? Télécharge nos affiches et notre autocollant, prêts à imprimer.</p>
 <ul class="supports">
 <li class="support">
-<img src="apercu-affiche-A3.jpg" alt="Aperçu de l'affiche BrocoQuests au format A3" width="424" height="600" loading="lazy">
-<h2>Affiche A3</h2>
-<p>PDF · 4 Mo</p>
-<a href="brocoquests-affiche-A3.pdf" class="btn" download>Télécharger</a>
-</li>
-<li class="support">
 <img src="apercu-affiche-A4.jpg" alt="Aperçu de l'affiche BrocoQuests au format A4" width="424" height="600" loading="lazy">
+<div>
 <h2>Affiche A4</h2>
 <p>PDF · 2,5 Mo</p>
 <a href="brocoquests-affiche-A4.pdf" class="btn" download>Télécharger</a>
+</div>
+</li>
+<li class="support">
+<img src="apercu-affiche-A3.jpg" alt="Aperçu de l'affiche BrocoQuests au format A3" width="424" height="600" loading="lazy">
+<div>
+<h2>Affiche A3</h2>
+<p>PDF · 4 Mo</p>
+<a href="brocoquests-affiche-A3.pdf" class="btn" download>Télécharger</a>
+</div>
 </li>
 <li class="support">
 <img src="apercu-autocollant.jpg" alt="Aperçu de l'autocollant rond BrocoQuests avec QR code" width="600" height="600" loading="lazy">
+<div>
 <h2>Autocollant</h2>
 <p>PDF · 10 × 10 cm</p>
 <a href="brocoquests-autocollant.pdf" class="btn" download>Télécharger</a>
+</div>
 </li>
 </ul>
 </main>

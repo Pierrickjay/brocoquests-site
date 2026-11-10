@@ -242,6 +242,7 @@ writeFileSync(homePath, home);
 // Sitemap : l'accueil + les pages générées
 const urls = [
   { loc: '/', freq: 'weekly', prio: '1.0' },
+  { loc: '/supports/', freq: 'monthly', prio: '0.5' },
   { loc: `/${MODULE.slug}/`, freq: 'weekly', prio: '0.8' },
   ...regles.map(r => ({ loc: `/${MODULE.slug}/${r.slug}/`, freq: 'monthly', prio: '0.7', mod: r.miseAJour })),
 ];

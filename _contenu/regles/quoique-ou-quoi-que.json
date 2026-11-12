@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "slug": "quoique-ou-quoi-que",
+  "miseAJour": "2026-11-12",
+  "h1": "« quoique » ou « quoi que » : comment ne plus se tromper ?",
+  "title": "quoique ou quoi que : la règle et l'astuce pour bien écrire",
+  "description": "quoique ou quoi que ? Si tu peux dire « bien que », c'est quoique en un mot. Sinon, quoi que veut dire « peu importe ce que ». Pièges et quiz.",
+  "reponseCourte": "<p>On écrit <strong>quoique</strong> en un mot quand on peut le remplacer par <strong>bien que</strong> : <em class=\"ex\">quoiqu'il soit tard, il travaille</em>. On écrit <strong>quoi que</strong> en deux mots quand il signifie <strong>peu importe ce que</strong> : <em class=\"ex\">quoi que tu fasses, je t'aiderai</em>. Les deux sont suivis du subjonctif.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">quoique</p><p>Conjonction : <strong>bien que</strong>, même si.</p><p><em class=\"ex\">Quoique fatigué, il continue</em> → <em class=\"ex\">bien que fatigué</em> ✓</p></div><div><p class=\"big\">quoi que</p><p>Pronom : <strong>peu importe ce que</strong>, quelle que soit la chose que.</p><p><em class=\"ex\">Quoi que tu dises</em> → <em class=\"ex\">bien que tu dises</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Quoi qu'il en soit » : toujours en deux mots</h3><p>L'expression veut dire « peu importe ce qu'il en est ». « Bien qu'il en soit » ne veut rien dire, donc deux mots : <em class=\"ex\">quoi qu'il en soit</em>. Même chose pour <em class=\"ex\">quoi qu'il arrive</em> et <em class=\"ex\">quoi que ce soit</em>.</p><h3>Quand mettre l'apostrophe ?</h3><p>Quoique perd son e devant il, elle, on, un, une : <em class=\"ex\">quoiqu'il</em>, <em class=\"ex\">quoiqu'elle</em>. Quoi que l'élide aussi : <em class=\"ex\">quoi qu'il dise</em>. L'apostrophe ne tranche donc rien : seul le test « bien que » te dit s'il faut un ou deux mots.</p><h3>Toujours le subjonctif</h3><p>Après quoique comme après quoi que, le verbe se met au subjonctif : <em class=\"ex\">quoiqu'il soit malade</em>, <em class=\"ex\">quoi que tu fasses</em>. On évite « quoiqu'il est malade ».</p><h3>« Quoique » sans verbe</h3><p>Quoique peut être suivi directement d'un adjectif ou d'un participe : <em class=\"ex\">quoique malade, elle est venue</em>. À l'oral, on l'entend aussi en fin de phrase pour nuancer : <em class=\"ex\">c'est cher, quoique…</em></p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Quoiqu'il en soit, on avance.", "correct": "Quoi qu'il en soit, on avance.", "explication": "« Bien qu'il en soit » ne veut rien dire : c'est quoi que, en deux mots." },
+    { "faux": "Quoique tu en penses, c'est décidé.", "correct": "Quoi que tu en penses, c'est décidé.", "explication": "On veut dire « peu importe ce que tu en penses » : deux mots." },
+    { "faux": "Quoi qu'elle soit malade, elle est venue.", "correct": "Quoiqu'elle soit malade, elle est venue.", "explication": "« Bien qu'elle soit malade » fonctionne : un seul mot." }
+  ],
+  "quiz": [
+    { "phrase": "___ il arrive, il reste calme.", "options": ["Quoiqu'", "Quoi qu'"], "reponse": "Quoi qu'", "explication": "On veut dire « peu importe ce qui arrive » : « bien qu'il arrive » ne marche pas, donc deux mots." },
+    { "phrase": "___ il soit occupé, il répond toujours.", "options": ["Quoiqu'", "Quoi qu'"], "reponse": "Quoiqu'", "explication": "« Bien qu'il soit occupé » fonctionne : un seul mot." },
+    { "phrase": "___ tu dises, personne ne te croit.", "options": ["Quoique", "Quoi que"], "reponse": "Quoi que", "explication": "« Peu importe ce que tu dises » : deux mots." },
+    { "phrase": "___ timide, elle a pris la parole.", "options": ["Quoique", "Quoi que"], "reponse": "Quoique", "explication": "« Bien que timide » fonctionne : un seul mot." }
+  ],
+  "faq": [
+    { "q": "On écrit « quoi qu'il en soit » ou « quoiqu'il en soit » ?", "r": "« Quoi qu'il en soit », en deux mots : l'expression veut dire « peu importe ce qu'il en est »." },
+    { "q": "Quoique est-il suivi du subjonctif ?", "r": "Oui, comme « bien que » : quoiqu'il fasse froid. « Quoi que » est lui aussi suivi du subjonctif : quoi que tu fasses." },
+    { "q": "Comment savoir s'il faut écrire quoique en un ou deux mots ?", "r": "Remplace par « bien que ». Si la phrase garde son sens, c'est quoique en un mot. Sinon, c'est quoi que en deux mots." },
+    { "q": "« Quoi que ce soit » s'écrit en deux mots ?", "r": "Oui : l'expression signifie « n'importe quelle chose », comme dans « si tu as besoin de quoi que ce soit »." }
+  ],
+  "liees": ["quelque-ou-quel-que", "il-faut-que-subjonctif", "davantage-ou-d-avantage", "quand-quant-qu-en"]
+}

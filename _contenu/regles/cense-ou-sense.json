@@ -1,0 +1,35 @@
+{
+  "id": 14,
+  "slug": "cense-ou-sense",
+  "miseAJour": "2026-11-12",
+  "h1": "« censé » ou « sensé » : comment ne plus se tromper ?",
+  "title": "censé ou sensé : la règle et l'astuce pour bien choisir",
+  "description": "censé ou sensé ? Si tu peux dire « supposé », écris censé. Sinon, sensé veut dire raisonnable. La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>censé</strong>, avec un c, quand on peut le remplacer par <strong>supposé</strong> : <em class=\"ex\">tu es censé arriver à 9 h</em> (tu es supposé arriver). On écrit <strong>sensé</strong>, avec un s, quand on veut dire <strong>raisonnable</strong>, qui a du bon sens : <em class=\"ex\">une décision sensée</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">censé</p><p>Adjectif : <strong>supposé</strong>, considéré comme. Presque toujours suivi d'un infinitif.</p><p><em class=\"ex\">Il est censé venir</em> → <em class=\"ex\">il est supposé venir</em> ✓</p></div><div><p class=\"big\">sensé</p><p>Adjectif : <strong>raisonnable</strong>, plein de bon <mark>s</mark>ens.</p><p><em class=\"ex\">Un avis sensé</em> → <em class=\"ex\">un avis supposé</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Un infinitif juste après ? Pense à « censé »</h3><p>On est censé <strong>faire</strong> quelque chose : <em class=\"ex\">censé savoir</em>, <em class=\"ex\">censé payer</em>, <em class=\"ex\">censé être là</em>. Quand un verbe à l'infinitif suit, c'est presque toujours censé. Vérifie quand même avec « supposé ».</p><h3>Les deux s'accordent</h3><p>Ce sont des adjectifs : ils prennent la marque du féminin et du pluriel. <em class=\"ex\">Elles sont censées venir</em>, <em class=\"ex\">des remarques sensées</em>.</p><h3>Sensé et insensé</h3><p>Le contraire de sensé, c'est <strong>insensé</strong> : <em class=\"ex\">une idée insensée</em>. Si « insensé » donne bien le contraire de ta phrase, c'est sensé avec un s.</p><h3>Le saviez-vous ?</h3><p>« Censé » vient du latin <em>censere</em>, « estimer, juger ». On retrouve cette famille dans <em class=\"ex\">recensement</em> et <em class=\"ex\">censeur</em>. « Sensé », lui, vient tout simplement de « sens ».</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Tu es sensé arriver à l'heure.", "correct": "Tu es censé arriver à l'heure.", "explication": "« Tu es supposé arriver à l'heure » fonctionne : c'est censé." },
+    { "faux": "C'est une remarque censée.", "correct": "C'est une remarque sensée.", "explication": "« Une remarque supposée » change le sens : on parle de bon sens, donc sensée." },
+    { "faux": "Elles sont censé venir demain.", "correct": "Elles sont censées venir demain.", "explication": "« Censé » s'accorde avec le sujet : censées, au féminin pluriel." },
+    { "faux": "Nul n'est sensé ignorer la loi.", "correct": "Nul n'est censé ignorer la loi.", "explication": "« Nul n'est supposé ignorer la loi » : c'est censé, avec un c." }
+  ],
+  "quiz": [
+    { "phrase": "Elle est ___ arriver à 9 heures.", "options": ["censée", "sensée"], "reponse": "censée", "explication": "« Elle est supposée arriver » fonctionne : censée, avec un c." },
+    { "phrase": "Son argument est tout à fait ___.", "options": ["censé", "sensé"], "reponse": "sensé", "explication": "Un argument raisonnable, qui a du sens : sensé, avec un s." },
+    { "phrase": "Elle est ___ rapporter les clés demain.", "options": ["censée", "sensée"], "reponse": "censée", "explication": "« Elle est supposée rapporter les clés » : c'est censée." },
+    { "phrase": "Votre proposition est ___ et bien argumentée.", "options": ["censée", "sensée"], "reponse": "sensée", "explication": "Une proposition raisonnable : sensée, accordé au féminin." }
+  ],
+  "faq": [
+    { "q": "On écrit « censé être » ou « sensé être » ?", "r": "« Censé être », avec un c : on peut dire « supposé être »." },
+    { "q": "Quelle est la différence entre censé et sensé ?", "r": "« Censé » veut dire supposé, considéré comme. « Sensé » veut dire raisonnable, qui a du bon sens." },
+    { "q": "Comment retenir l'orthographe de « sensé » ?", "r": "Sensé vient de « sens » : une personne sensée a du bon sens. C'est le même s." },
+    { "q": "On écrit « nul n'est censé ignorer la loi » ?", "r": "Oui, avec un c : personne n'est supposé ignorer la loi." }
+  ],
+  "liees": ["pres-ou-pret", "quelque-ou-quel-que", "davantage-ou-d-avantage", "quoique-ou-quoi-que"]
+}

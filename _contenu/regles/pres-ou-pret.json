@@ -1,0 +1,35 @@
+{
+  "id": 13,
+  "slug": "pres-ou-pret",
+  "miseAJour": "2026-11-12",
+  "h1": "« près » ou « prêt » : comment ne plus se tromper ?",
+  "title": "près ou prêt : la règle et l'astuce pour ne plus se tromper",
+  "description": "près ou prêt ? Si tu peux dire « loin », c'est près. Sinon, prêt veut dire préparé et s'accorde. Règle, exemples, pièges et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>près</strong>, avec un accent grave, quand on parle de proximité : on peut le remplacer par son contraire, <strong>loin</strong> (<em class=\"ex\">il habite près de l'école</em> → <em class=\"ex\">loin de l'école</em>). On écrit <strong>prêt</strong>, avec un accent circonflexe, quand on veut dire « préparé » : c'est un adjectif qui s'accorde (<em class=\"ex\">elles sont prêtes à partir</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">près</p><p>Adverbe ou préposition : la <strong>proximité</strong>. Toujours invariable.</p><p><em class=\"ex\">Près de la gare</em> → <em class=\"ex\">loin de la gare</em> ✓</p></div><div><p class=\"big\">prêt</p><p>Adjectif : <strong>préparé</strong>, disposé à. Il s'accorde : prêt<mark>e</mark>, prêt<mark>s</mark>, prêt<mark>es</mark>.</p><p><em class=\"ex\">Je suis prêt</em> → <em class=\"ex\">je suis préparé</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Près de » ou « prêt à » devant un verbe</h3><p>Les deux existent, avec deux sens différents. <em class=\"ex\">Être près de partir</em>, c'est être sur le point de partir. <em class=\"ex\">Être prêt à partir</em>, c'est être préparé, valise bouclée. Retiens les couples : <strong>près de</strong> et <strong>prêt à</strong>.</p><h3>« Je ne suis pas près de recommencer »</h3><p>Dans cette expression, on veut dire « pas sur le point de » : c'est <strong>près</strong>. Le test marche : <em class=\"ex\">je suis loin de recommencer</em>. « Pas prêt à recommencer » existe aussi, mais veut dire « pas disposé à ».</p><h3>Les expressions toujours avec « près »</h3><p><em class=\"ex\">à peu près</em>, <em class=\"ex\">de près</em>, <em class=\"ex\">tout près</em>, <em class=\"ex\">à un euro près</em>, <em class=\"ex\">près de cent personnes</em> (presque cent) : toutes parlent de proximité ou d'approximation, donc accent grave et pas d'accord.</p><h3>Le saviez-vous ?</h3><p>L'accent circonflexe de « prêt » remplace un s disparu : en ancien français, on écrivait « prest ». Le nom <em class=\"ex\">un prêt</em> (bancaire, d'un livre) s'écrit pareil : il vient du verbe <em class=\"ex\">prêter</em>, d'où le t.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il habite prêt de l'école.", "correct": "Il habite près de l'école.", "explication": "On peut dire « loin de l'école » : c'est la proximité, donc près." },
+    { "faux": "Elles sont prêt à partir.", "correct": "Elles sont prêtes à partir.", "explication": "« Prêt » est un adjectif : il s'accorde avec « elles », au féminin pluriel." },
+    { "faux": "Je ne suis pas prêt de recommencer.", "correct": "Je ne suis pas près de recommencer.", "explication": "« Je suis loin de recommencer » garde le sens : c'est près, suivi de « de »." },
+    { "faux": "Il est arrivé à peu prêt à l'heure.", "correct": "Il est arrivé à peu près à l'heure.", "explication": "« À peu près » exprime une approximation : toujours près, avec un accent grave." }
+  ],
+  "quiz": [
+    { "phrase": "Elle s'assoit ___ de la fenêtre.", "options": ["près", "prêt"], "reponse": "près", "explication": "« Loin de la fenêtre » fonctionne : c'est la proximité, donc près." },
+    { "phrase": "Ils sont ___ à commencer l'entraînement.", "options": ["près", "prêt", "prêts"], "reponse": "prêts", "explication": "Ils sont préparés : l'adjectif s'accorde au masculin pluriel." },
+    { "phrase": "Le bureau est ___ de la sortie de secours.", "options": ["près", "prêt"], "reponse": "près", "explication": "« Loin de la sortie » fonctionne : c'est près." },
+    { "phrase": "Elle n'est pas encore ___ pour l'entretien.", "options": ["près", "prêt", "prête"], "reponse": "prête", "explication": "Elle n'est pas préparée : l'adjectif s'accorde au féminin, prête." }
+  ],
+  "faq": [
+    { "q": "On écrit « près de » ou « prêt de » ?", "r": "« Près de », pour la proximité (près de chez moi) ou pour dire « sur le point de » (près de partir). « Prêt » se construit avec « à » : prêt à partir." },
+    { "q": "On écrit « à peu près » ou « à peu prêt » ?", "r": "Toujours « à peu près », avec un accent grave. L'expression exprime une approximation." },
+    { "q": "Comment écrire « prêt » au féminin ?", "r": "Prête, avec un e : elle est prête. Au pluriel, on écrit prêts au masculin et prêtes au féminin." },
+    { "q": "On écrit « un prêt » ou « un près » bancaire ?", "r": "Un prêt : c'est le nom tiré du verbe prêter, d'où le t final." }
+  ],
+  "liees": ["cense-ou-sense", "tache-ou-tache", "du-ou-du", "peu-peut-peux"]
+}

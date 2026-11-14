@@ -1,0 +1,110 @@
+{
+  "id": 59,
+  "slug": "entretien-ou-entretient",
+  "miseAJour": "2026-11-14",
+  "h1": "« entretien » ou « entretient » : avec ou sans t ?",
+  "title": "entretien ou entretient : l'astuce pour ne plus se tromper",
+  "description": "entretien ou entretient ? Remplace par « maintient » : si ça marche, c'est le verbe, avec un t. Sinon, c'est le nom. Règle, pièges et quiz express.",
+  "reponseCourte": "<p>On écrit <strong>entretient</strong>, avec un t, quand c'est le verbe <strong>entretenir</strong> conjugué avec il, elle ou on (<em class=\"ex\">il entretient son jardin</em>). On écrit <strong>entretien</strong>, sans t, quand c'est le nom (<em class=\"ex\">un entretien d'embauche</em>). Astuce : si tu peux remplacer le mot par « maintient », c'est le verbe.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">entretien</p><p><strong>Nom</strong> masculin : un entretien, des entretiens.</p><p><em class=\"ex\">Un entretien d'embauche</em> → <em class=\"ex\">un maintient d'embauche</em> ✗</p></div><div><p class=\"big\">entretient</p><p><strong>Verbe</strong> entretenir : il, elle, on entretien<mark>t</mark>.</p><p><em class=\"ex\">Il entretient sa forme</em> → <em class=\"ex\">il maintient sa forme</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« J'entretiens » et « des entretiens » : un s dans les deux cas</h3><p>Avec je et tu, le verbe se termine par -s : <em class=\"ex\">j'entretiens mon vélo</em>, <em class=\"ex\">tu entretiens la conversation</em>. Le nom au pluriel aussi : <em class=\"ex\">des entretiens</em>. Regarde ce qui précède : un pronom (je, tu) annonce le verbe, un déterminant (des, mes, les) annonce le nom.</p><h3>Au pluriel, le verbe double le n</h3><p>Avec ils ou elles, on écrit <em class=\"ex\">ils entretiennent</em>, avec deux n et -ent. Rien à voir avec le nom <em class=\"ex\">des entretiens</em>.</p><h3>Le même piège avec d'autres mots</h3><p>Maintien / maintient, soutien / soutient : même règle. <em class=\"ex\">Le soutien de sa famille</em> (nom), mais <em class=\"ex\">sa famille le soutient</em> (verbe). Le t final n'apparaît que dans le verbe, comme dans <em class=\"ex\">il tient</em> ou <em class=\"ex\">il vient</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Il entretien son jardin avec soin.",
+      "correct": "Il entretient son jardin avec soin.",
+      "explication": "« Il maintient son jardin » se dit : c'est le verbe, avec un t."
+    },
+    {
+      "faux": "Mon entretient d'embauche est demain.",
+      "correct": "Mon entretien d'embauche est demain.",
+      "explication": "Après « mon », c'est un nom : pas de t."
+    },
+    {
+      "faux": "Ils entretiens de bonnes relations.",
+      "correct": "Ils entretiennent de bonnes relations.",
+      "explication": "Avec ils, le verbe s'écrit -iennent."
+    },
+    {
+      "faux": "J'achète des produits d'entretient.",
+      "correct": "J'achète des produits d'entretien.",
+      "explication": "C'est le nom (l'entretien de la maison) : pas de t."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle ___ sa condition physique en faisant du sport.",
+      "options": [
+        "entretien",
+        "entretient",
+        "entretiens"
+      ],
+      "reponse": "entretient",
+      "explication": "« Elle maintient sa condition physique » : c'est le verbe, avec un t."
+    },
+    {
+      "phrase": "J'ai passé un ___ pour un poste de chef.",
+      "options": [
+        "entretien",
+        "entretient",
+        "entretiens"
+      ],
+      "reponse": "entretien",
+      "explication": "Après « un », c'est le nom : pas de t."
+    },
+    {
+      "phrase": "Il ___ de bonnes relations avec ses voisins.",
+      "options": [
+        "entretien",
+        "entretient",
+        "entretiens"
+      ],
+      "reponse": "entretient",
+      "explication": "« Il maintient de bonnes relations » : c'est le verbe entretenir."
+    },
+    {
+      "phrase": "J'ai un ___ avec mon chef demain matin.",
+      "options": [
+        "entretien",
+        "entretient",
+        "entretiens"
+      ],
+      "reponse": "entretien",
+      "explication": "« Un maintient avec mon chef » ne veut rien dire : c'est le nom."
+    },
+    {
+      "phrase": "Elle ___ une passion pour la peinture depuis l'enfance.",
+      "options": [
+        "entretien",
+        "entretient",
+        "entretiens"
+      ],
+      "reponse": "entretient",
+      "explication": "Le sujet est « elle » et on peut dire « elle maintient » : verbe, avec un t."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « un entretien » ou « un entretient » ?",
+      "r": "« Un entretien », sans t : c'est un nom. Le t final n'apparaît que dans le verbe conjugué : il entretient."
+    },
+    {
+      "q": "« Il entretient » ou « il entretien » ?",
+      "r": "« Il entretient », avec un t : c'est le verbe entretenir au présent, comme « il tient » ou « il vient »."
+    },
+    {
+      "q": "Pourquoi « j'entretiens » prend un s ?",
+      "r": "Avec je et tu, le verbe entretenir se termine par -s : j'entretiens, tu entretiens. Le t n'apparaît qu'avec il, elle, on."
+    }
+  ],
+  "liees": [
+    "du-ou-du",
+    "tache-ou-tache",
+    "er-ou-e",
+    "son-ou-sont"
+  ]
+}

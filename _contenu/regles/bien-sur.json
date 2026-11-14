@@ -1,0 +1,112 @@
+{
+  "id": 72,
+  "slug": "bien-sur",
+  "miseAJour": "2026-11-14",
+  "h1": "« bien sûr » : en un ou deux mots, avec ou sans accent ?",
+  "title": "bien sûr : la bonne orthographe (deux mots, un accent)",
+  "description": "Bien sûr s'écrit en deux mots, sans trait d'union, avec un accent sur le u. La règle, les pièges (biensur, bien-sûr, bien sur) et un quiz express.",
+  "reponseCourte": "<p><strong>Bien sûr</strong> s'écrit toujours en <strong>deux mots</strong>, sans trait d'union, avec un <strong>accent circonflexe</strong> sur le u : <em class=\"ex\">bien sûr, je viendrai</em>. L'accent distingue <strong>sûr</strong> (certain) de <strong>sur</strong>, la préposition de « sur la table ». Astuce : si tu peux dire « évidemment », écris bien sûr.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">bien sûr</p><p>Adverbe : <strong>évidemment</strong>, certainement.</p><p><em class=\"ex\">Bien sûr qu'il viendra</em> → <em class=\"ex\">évidemment qu'il viendra</em> ✓</p></div><div><p class=\"big\">bien sur</p><p><strong>bien</strong> + la préposition <strong>sur</strong> (une position).</p><p><em class=\"ex\">Pose-le bien sur la table</em> → <em class=\"ex\">pose-le évidemment la table</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Ni « biensûr », ni « bien-sûr »</h3><p>L'expression s'écrit en deux mots séparés par une espace. Les formes soudées ou avec trait d'union (<em class=\"ex\">biensûr</em>, <em class=\"ex\">biensur</em>, <em class=\"ex\">bien-sûr</em>) sont des fautes.</p><h3>« Bien sur » existe aussi, sans accent</h3><p>Quand « bien » précède la préposition « sur » : <em class=\"ex\">pose le vase bien sur la table</em>, <em class=\"ex\">c'est bien sur cette route qu'il faut tourner</em>. Le test « évidemment » ne marche pas : pas d'accent.</p><h3>« Bien sûr » ne s'accorde pas</h3><p>C'est un adverbe, donc invariable : <em class=\"ex\">elles viendront, bien sûr</em>. L'adjectif sûr, lui, s'accorde et garde son accent : <em class=\"ex\">elle est sûre d'elle</em>, <em class=\"ex\">ils sont sûrs</em>.</p><h3>Le saviez-vous ?</h3><p>Les rectifications orthographiques de 1990 ont supprimé l'accent circonflexe sur beaucoup de u, mais pas sur sûr : il l'a gardé pour éviter la confusion avec sur.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Biensur, je serai là demain.",
+      "correct": "Bien sûr, je serai là demain.",
+      "explication": "Deux mots et un accent : on peut dire « évidemment, je serai là »."
+    },
+    {
+      "faux": "Bien sur qu'il viendra.",
+      "correct": "Bien sûr qu'il viendra.",
+      "explication": "« Évidemment qu'il viendra » : il faut l'accent."
+    },
+    {
+      "faux": "Tu peux venir, bien-sûr.",
+      "correct": "Tu peux venir, bien sûr.",
+      "explication": "Pas de trait d'union : deux mots séparés."
+    },
+    {
+      "faux": "Elle est sur de son choix.",
+      "correct": "Elle est sûre de son choix.",
+      "explication": "Sûr veut dire « certain » : accent, et accord au féminin."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "___, je serai présent à la réunion de demain.",
+      "options": [
+        "Bien sûr",
+        "Bien sur",
+        "Biensûr"
+      ],
+      "reponse": "Bien sûr",
+      "explication": "« Évidemment, je serai présent » : deux mots, avec accent."
+    },
+    {
+      "phrase": "Tu peux ___ utiliser mon bureau cet après-midi.",
+      "options": [
+        "bien sûr",
+        "bien-sûr",
+        "biensur"
+      ],
+      "reponse": "bien sûr",
+      "explication": "Ni trait d'union ni mot soudé : bien sûr."
+    },
+    {
+      "phrase": "___ qu'il a réussi, il travaille tellement !",
+      "options": [
+        "Bien sûr",
+        "Bien sur",
+        "Biensur"
+      ],
+      "reponse": "Bien sûr",
+      "explication": "« Évidemment qu'il a réussi » : accent sur le u."
+    },
+    {
+      "phrase": "Il réussira ___, il a tellement bien préparé cet examen.",
+      "options": [
+        "bien sûr",
+        "bien sur"
+      ],
+      "reponse": "bien sûr",
+      "explication": "« Il réussira, évidemment » : c'est bien sûr, avec accent."
+    },
+    {
+      "phrase": "Le cadre tient-il ___ le clou ?",
+      "options": [
+        "bien sûr",
+        "bien sur"
+      ],
+      "reponse": "bien sur",
+      "explication": "On parle d'une position (« sur le clou ») et « évidemment » ne marche pas : pas d'accent."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « bien sûr » ou « biensûr » ?",
+      "r": "« Bien sûr », en deux mots. La forme soudée « biensûr » n'existe pas."
+    },
+    {
+      "q": "Faut-il un accent sur « bien sûr » ?",
+      "r": "Oui, un accent circonflexe sur le u : il distingue sûr (certain) de sur (la préposition)."
+    },
+    {
+      "q": "« Bien sûr que » est-il correct ?",
+      "r": "Oui : « bien sûr qu'il viendra » est correct. La tournure est surtout orale ; dans un écrit soutenu, on peut préférer « bien sûr, il viendra »."
+    },
+    {
+      "q": "Faut-il un trait d'union à « bien sûr » ?",
+      "r": "Non. On écrit « bien sûr » en deux mots, séparés par une simple espace."
+    }
+  ],
+  "liees": [
+    "du-ou-du",
+    "tache-ou-tache",
+    "trait-d-union-interrogatif",
+    "au-temps-pour-moi"
+  ]
+}

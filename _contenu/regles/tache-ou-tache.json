@@ -1,0 +1,96 @@
+{
+  "id": 77,
+  "slug": "tache-ou-tache",
+  "miseAJour": "2026-11-14",
+  "h1": "« tâche » ou « tache » : avec ou sans accent ?",
+  "title": "tâche ou tache : la règle et l'astuce pour ne plus hésiter",
+  "description": "tâche ou tache ? Si tu peux dire « travail », mets l'accent ; une salissure n'en a pas. La règle, les pièges (tâcher, tacher) et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>tâche</strong>, avec un accent circonflexe, quand il s'agit d'un <strong>travail</strong> à faire (<em class=\"ex\">une tâche difficile</em>). On écrit <strong>tache</strong>, sans accent, pour une <strong>salissure</strong> ou une marque (<em class=\"ex\">une tache de café</em>). Astuce : si tu peux remplacer le mot par « travail », mets l'accent.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">tâche</p><p>Un <strong>travail</strong>, une mission.</p><p><em class=\"ex\">Une tâche ménagère</em> → <em class=\"ex\">un travail ménager</em> ✓</p></div><div><p class=\"big\">tache</p><p>Une <strong>marque</strong>, une salissure.</p><p><em class=\"ex\">Une tache d'encre</em> → <em class=\"ex\">un travail d'encre</em> ✗</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Les verbes suivent la même logique</h3><p><strong>Tâcher de</strong> (essayer) prend l'accent : <em class=\"ex\">tâche de venir à l'heure</em>. <strong>Tacher</strong> (salir) n'en a pas : <em class=\"ex\">tu vas tacher ta chemise</em>.</p><h3>Les expressions à connaître</h3><p>Avec accent : <em class=\"ex\">se mettre à la tâche</em>, <em class=\"ex\">être payé à la tâche</em>, <em class=\"ex\">un tâcheron</em>. Sans accent : <em class=\"ex\">une tache de rousseur</em>, <em class=\"ex\">faire tache</em> (détonner dans un ensemble), <em class=\"ex\">un pelage tacheté</em>.</p><h3>L'accent résiste aux réformes</h3><p>Les rectifications orthographiques de 1990 ont surtout touché l'accent circonflexe sur le i et le u. Sur le a, il reste : on écrit toujours <strong>tâche</strong>.</p><h3>Le saviez-vous ?</h3><p>L'accent circonflexe de « tâche » rappelle un s disparu : en ancien français, on écrivait « tasche ». On retrouve ce s dans l'anglais « task ».</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Il a du mal à accomplir ses taches quotidiennes.",
+      "correct": "Il a du mal à accomplir ses tâches quotidiennes.",
+      "explication": "On peut dire « ses travaux quotidiens » : c'est un travail, donc accent."
+    },
+    {
+      "faux": "Cette tâche d'huile ne part pas au lavage.",
+      "correct": "Cette tache d'huile ne part pas au lavage.",
+      "explication": "C'est une salissure : pas d'accent."
+    },
+    {
+      "faux": "Tache de finir avant midi.",
+      "correct": "Tâche de finir avant midi.",
+      "explication": "C'est le verbe tâcher, « essayer de » : il garde l'accent."
+    },
+    {
+      "faux": "J'ai tâché mon pantalon.",
+      "correct": "J'ai taché mon pantalon.",
+      "explication": "Tacher, c'est salir : pas d'accent."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle accomplit chaque ___ avec beaucoup de sérieux.",
+      "options": [
+        "tâche",
+        "tache"
+      ],
+      "reponse": "tâche",
+      "explication": "« Chaque travail » fonctionne : c'est une tâche, avec accent."
+    },
+    {
+      "phrase": "Il y a une ___ d'herbe sur ton short de sport.",
+      "options": [
+        "tâche",
+        "tache"
+      ],
+      "reponse": "tache",
+      "explication": "C'est une salissure : pas d'accent."
+    },
+    {
+      "phrase": "Répartissez les ___ équitablement au sein du groupe.",
+      "options": [
+        "tâches",
+        "taches"
+      ],
+      "reponse": "tâches",
+      "explication": "On répartit le travail : accent circonflexe."
+    },
+    {
+      "phrase": "Elle jongle avec plusieurs ___ professionnelles chaque jour.",
+      "options": [
+        "tâches",
+        "taches"
+      ],
+      "reponse": "tâches",
+      "explication": "« Plusieurs travaux professionnels » : ce sont des tâches, avec accent."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « tâche » ou « tache » pour un travail ?",
+      "r": "« Tâche », avec un accent circonflexe : une tâche à accomplir, la répartition des tâches."
+    },
+    {
+      "q": "Comment écrire « tache de rousseur » ?",
+      "r": "Sans accent : une tache de rousseur est une petite marque sur la peau, pas un travail."
+    },
+    {
+      "q": "On écrit « tâche de venir » ou « tache de venir » ?",
+      "r": "« Tâche de venir », avec accent : c'est le verbe tâcher, qui veut dire « essayer ». Sans accent, « tacher » veut dire salir."
+    }
+  ],
+  "liees": [
+    "du-ou-du",
+    "bien-sur",
+    "pres-ou-pret",
+    "entretien-ou-entretient"
+  ]
+}

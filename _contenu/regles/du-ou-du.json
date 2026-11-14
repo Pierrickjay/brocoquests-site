@@ -1,0 +1,114 @@
+{
+  "id": 76,
+  "slug": "du-ou-du",
+  "miseAJour": "2026-11-14",
+  "h1": "« dû » ou « du » : quand mettre l'accent circonflexe ?",
+  "title": "dû ou du : la règle et l'astuce pour ne plus se tromper",
+  "description": "dû ou du ? Passe au féminin : si le mot devient « due », c'est le participe de devoir. La règle, les pièges (dûe, j'ai du) et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>dû</strong>, avec un accent circonflexe, quand c'est le participe passé du verbe <strong>devoir</strong> : <em class=\"ex\">j'ai dû partir</em>, <em class=\"ex\">un retard dû à la pluie</em>. On écrit <strong>du</strong> sans accent quand c'est l'article, contraction de « de + le » (<em class=\"ex\">boire du café</em>). L'accent ne sert qu'au masculin singulier : au féminin et au pluriel, on écrit <strong>due</strong>, <strong>dus</strong>, <strong>dues</strong>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">dû</p><p>Participe passé de <strong>devoir</strong>.</p><p><em class=\"ex\">Un retard dû aux travaux</em> → <em class=\"ex\">une panne due aux travaux</em> ✓</p></div><div><p class=\"big\">du</p><p><strong>Article</strong> : du = de + le.</p><p><em class=\"ex\">Du pain</em> → <em class=\"ex\">de la brioche</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Au féminin et au pluriel, l'accent disparaît</h3><p>L'accent sert seulement à distinguer dû de l'article du. Au féminin et au pluriel, aucune confusion n'est possible, donc pas d'accent : <em class=\"ex\">la somme due</em>, <em class=\"ex\">les montants dus</em>, <em class=\"ex\">les sommes dues</em>. On n'écrit jamais « dûe » ni « dûs ».</p><h3>« J'ai dû » ou « j'ai du » ?</h3><p>Devant un infinitif, c'est le verbe devoir : <em class=\"ex\">j'ai dû travailler</em> (je devais travailler). Devant un nom, c'est l'article : <em class=\"ex\">j'ai du travail</em> (j'ai de la besogne).</p><h3>« Les efforts qu'il a dû faire »</h3><p>Suivi d'un infinitif, exprimé ou sous-entendu, dû reste invariable : <em class=\"ex\">les efforts qu'il a dû faire</em>. Ce qu'il a dû, c'est « faire », pas « les efforts ».</p><h3>Le saviez-vous ?</h3><p>Les rectifications orthographiques de 1990 ont supprimé l'accent circonflexe sur la plupart des i et des u. Dû fait partie des rares mots qui l'ont gardé, parce qu'il évite une confusion, comme sûr et mûr.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Un retard du aux travaux.",
+      "correct": "Un retard dû aux travaux.",
+      "explication": "Au féminin, on dirait « une panne due aux travaux » : c'est le participe de devoir, donc accent."
+    },
+    {
+      "faux": "J'ai du partir plus tôt.",
+      "correct": "J'ai dû partir plus tôt.",
+      "explication": "« Je devais partir plus tôt » : c'est le verbe devoir, avec accent."
+    },
+    {
+      "faux": "La somme dûe sera remboursée.",
+      "correct": "La somme due sera remboursée.",
+      "explication": "Au féminin, l'accent disparaît : on écrit « due »."
+    },
+    {
+      "faux": "Il boit dû lait chaque matin.",
+      "correct": "Il boit du lait chaque matin.",
+      "explication": "On peut dire « de la soupe » : c'est l'article, sans accent."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Ce succès est ___ à votre travail acharné.",
+      "options": [
+        "du",
+        "dû",
+        "due"
+      ],
+      "reponse": "dû",
+      "explication": "On dirait « une réussite due à votre travail » : au masculin singulier, c'est dû."
+    },
+    {
+      "phrase": "Il a mangé ___ pain frais acheté à la boulangerie.",
+      "options": [
+        "du",
+        "dû",
+        "due"
+      ],
+      "reponse": "du",
+      "explication": "« De la brioche » fonctionne : c'est l'article, sans accent."
+    },
+    {
+      "phrase": "L'annulation est ___ à une panne informatique majeure.",
+      "options": [
+        "du",
+        "dû",
+        "due"
+      ],
+      "reponse": "due",
+      "explication": "« Annulation » est féminin : on écrit due, sans accent."
+    },
+    {
+      "phrase": "Il a acheté ___ riz et des légumes pour le repas de ce soir.",
+      "options": [
+        "du",
+        "dû",
+        "due"
+      ],
+      "reponse": "du",
+      "explication": "On pourrait dire « de la semoule » : c'est l'article."
+    },
+    {
+      "phrase": "Cette fatigue est ___ à un manque chronique de sommeil.",
+      "options": [
+        "du",
+        "dû",
+        "due"
+      ],
+      "reponse": "due",
+      "explication": "« Fatigue » est féminin : le participe s'accorde et perd son accent."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « dû à » ou « du à » ?",
+      "r": "« Dû à », avec accent, quand tu veux dire « causé par » : un retard dû à la neige. Au féminin, on écrit « due à », sans accent."
+    },
+    {
+      "q": "Pourquoi « due » n'a pas d'accent ?",
+      "r": "L'accent de « dû » sert uniquement à le distinguer de l'article « du ». Au féminin et au pluriel (due, dus, dues), aucune confusion n'est possible, donc pas d'accent."
+    },
+    {
+      "q": "On écrit « j'ai dû » ou « j'ai du » ?",
+      "r": "« J'ai dû » devant un infinitif : j'ai dû partir. « J'ai du » devant un nom : j'ai du travail."
+    },
+    {
+      "q": "Que veut dire « réclamer son dû » ?",
+      "r": "Ici, « dû » est un nom : ce qu'on te doit. Il garde son accent : recevoir son dû."
+    }
+  ],
+  "liees": [
+    "tache-ou-tache",
+    "bien-sur",
+    "pres-ou-pret",
+    "a-ou-a"
+  ]
+}

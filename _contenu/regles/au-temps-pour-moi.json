@@ -1,0 +1,95 @@
+{
+  "id": 67,
+  "slug": "au-temps-pour-moi",
+  "miseAJour": "2026-11-14",
+  "h1": "« Au temps pour moi » ou « autant pour moi » : quelle orthographe ?",
+  "title": "au temps pour moi ou autant pour moi : la bonne orthographe",
+  "description": "Au temps pour moi ou autant pour moi ? L'Académie française ne retient que « au temps pour moi ». Origine, débat, pièges et quiz express.",
+  "reponseCourte": "<p>Quand tu reconnais une erreur, écris <strong>au temps pour moi</strong> : <em class=\"ex\">au temps pour moi, j'avais mal compris</em>. C'est la seule forme acceptée par l'Académie française. On voit souvent <strong>autant pour moi</strong>, mais l'Académie le considère comme une faute.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">au temps</p><p>Pour <strong>reconnaître son erreur</strong> et se reprendre.</p><p><em class=\"ex\">Au temps pour moi, c'était mardi</em> ✓</p></div><div><p class=\"big\">autant</p><p>Adverbe de <strong>quantité</strong> ou de comparaison.</p><p><em class=\"ex\">J'en veux autant que toi</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>D'où vient « au temps » ?</h3><p>L'explication la plus citée vient de l'armée : quand un mouvement était mal exécuté, l'instructeur criait « Au temps ! » pour le faire reprendre depuis le début. Dire « au temps pour moi », c'est reconnaître qu'on s'est trompé et qu'on reprend.</p><h3>Pourquoi « autant pour moi » est si répandu</h3><p>Le mot « temps » ne semble pas logique dans la phrase, alors beaucoup écrivent « autant », plus familier. Certains écrivains défendent cette graphie et contestent l'origine militaire. L'Académie, elle, estime que rien ne la justifie.</p><h3>Quelle forme choisir ?</h3><p>Dans un écrit scolaire ou professionnel, écris « au temps pour moi » : c'est la forme recommandée, et tu évites toute remarque. L'expression reste familière : dans un courrier soutenu, préfère <em class=\"ex\">je me suis trompé</em> ou <em class=\"ex\">veuillez excuser mon erreur</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Autant pour moi, j'avais mal compris.",
+      "correct": "Au temps pour moi, j'avais mal compris.",
+      "explication": "Pour reconnaître une erreur, la forme recommandée est « au temps », comme l'ordre de reprendre un mouvement."
+    },
+    {
+      "faux": "Aux temps pour moi, c'était hier.",
+      "correct": "Au temps pour moi, c'était hier.",
+      "explication": "L'expression reste au singulier : « au temps »."
+    },
+    {
+      "faux": "Au tant pour moi, je me suis trompé.",
+      "correct": "Au temps pour moi, je me suis trompé.",
+      "explication": "Il s'agit du mot « temps », pas de « tant »."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "___ pour moi, j'avais oublié notre rendez-vous.",
+      "options": [
+        "Autant",
+        "Au temps",
+        "Aux temps"
+      ],
+      "reponse": "Au temps",
+      "explication": "On reconnaît son erreur : « au temps pour moi », comme on reprend un mouvement raté."
+    },
+    {
+      "phrase": "___ pour moi, ce n'est pas ce que je voulais dire.",
+      "options": [
+        "Au temps",
+        "Autant",
+        "Au tant"
+      ],
+      "reponse": "Au temps",
+      "explication": "C'est la seule graphie retenue par l'Académie française pour se reprendre."
+    },
+    {
+      "phrase": "___ pour moi, je t'avais donné le mauvais horaire.",
+      "options": [
+        "Autant",
+        "Aux temps",
+        "Au temps"
+      ],
+      "reponse": "Au temps",
+      "explication": "« Temps » reste au singulier dans l'expression."
+    },
+    {
+      "phrase": "___ pour moi, j'avais oublié que tu étais végétarien.",
+      "options": [
+        "En tant",
+        "Autant",
+        "Au temps"
+      ],
+      "reponse": "Au temps",
+      "explication": "« En tant » présente un rôle (en tant que professeur) : ici, on avoue une erreur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « au temps pour moi » ou « autant pour moi » ?",
+      "r": "L'Académie française ne retient que « au temps pour moi ». « Autant pour moi » est très courant, mais l'Académie le considère comme fautif."
+    },
+    {
+      "q": "Que veut dire « au temps pour moi » ?",
+      "r": "L'expression signifie « je me suis trompé, je reprends ». On l'emploie pour reconnaître une petite erreur, sur un ton familier."
+    },
+    {
+      "q": "Pourquoi écrit-on « temps » ?",
+      "r": "Selon l'explication la plus répandue, l'expression vient de l'ordre militaire « Au temps ! », qui demandait de reprendre un mouvement mal exécuté. Cette origine reste discutée."
+    }
+  ],
+  "liees": [
+    "bien-sur",
+    "avoir-affaire-ou-avoir-a-faire",
+    "malgre-que",
+    "pallier"
+  ]
+}

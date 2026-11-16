@@ -1,0 +1,109 @@
+{
+  "id": 48,
+  "slug": "imperatif-sans-s",
+  "miseAJour": "2026-11-15",
+  "h1": "Impératif : « mange » ou « manges » ? La règle du -s",
+  "title": "Impératif sans s : mange ou manges, la règle et l'astuce",
+  "description": "Mange ou manges ? À l'impératif, les verbes en -er et « aller » s'écrivent sans -s avec « tu ». Sauf devant en et y : vas-y. Pièges et quiz.",
+  "reponseCourte": "<p>À l'impératif, avec « tu », les verbes en <strong>-er</strong> et le verbe <strong>aller</strong> s'écrivent <strong>sans -s</strong> : <em class=\"ex\">mange ta soupe</em>, <em class=\"ex\">va au lit</em>. Les autres verbes gardent leur -s en général : <em class=\"ex\">finis</em>, <em class=\"ex\">fais</em>, <em class=\"ex\">prends</em>. Exception : on ajoute un -s devant « en » et « y » (<em class=\"ex\">vas-y</em>, <em class=\"ex\">manges-en</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">sans -s</p><p>Verbes en <strong>-er</strong> et <strong>aller</strong>.</p><p><em class=\"ex\">Parl<mark>e</mark> plus fort</em> <em class=\"ex\">V<mark>a</mark> dormir</em></p></div><div><p class=\"big\">avec -s</p><p>La plupart des verbes en <strong>-ir</strong>, <strong>-re</strong>, <strong>-oir</strong>.</p><p><em class=\"ex\">Fini<mark>s</mark> ton assiette</em> <em class=\"ex\">Li<mark>s</mark> ce livre</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Vas-y, manges-en : le -s de liaison</h3><p>Devant <strong>en</strong> ou <strong>y</strong>, on ajoute un -s pour faire la liaison à l'oral : <em class=\"ex\">vas-y</em>, <em class=\"ex\">penses-y</em>, <em class=\"ex\">achètes-en</em>. Mais si « en » ou « y » est suivi d'un infinitif, pas de -s : <em class=\"ex\">va en chercher</em>.</p><h3>Impératif ou présent ?</h3><p>Au présent, « tu » entraîne toujours un -s : <em class=\"ex\">tu manges</em>. À l'impératif, le « tu » disparaît, et le -s aussi : <em class=\"ex\">mange</em>. Si tu vois « tu » devant le verbe, c'est le présent.</p><h3>Quelques verbes en -ir et -oir sans -s</h3><p>Les verbes comme ouvrir, offrir ou cueillir, qui font « j'ouvre » au présent, suivent la règle des verbes en -er : <em class=\"ex\">ouvre</em>, <em class=\"ex\">offre</em>, <em class=\"ex\">cueille</em>. Même chose pour <em class=\"ex\">aie</em> (avoir), <em class=\"ex\">sache</em> (savoir) et <em class=\"ex\">veuille</em> (vouloir).</p><h3>Va-t'en</h3><p>Dans <em class=\"ex\">va-t'en</em>, pas de -s : le « t' » est le pronom « te » élidé, placé entre « va » et « en ».</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Parles à ton professeur !",
+      "correct": "Parle à ton professeur !",
+      "explication": "Parler est un verbe en -er : pas de -s à l'impératif."
+    },
+    {
+      "faux": "Vas au tableau.",
+      "correct": "Va au tableau.",
+      "explication": "Aller suit la règle des verbes en -er : « va », sans -s."
+    },
+    {
+      "faux": "Va-y, on t'attend !",
+      "correct": "Vas-y, on t'attend !",
+      "explication": "Devant « y », on ajoute un -s pour la liaison."
+    },
+    {
+      "faux": "Mange-en si tu veux.",
+      "correct": "Manges-en si tu veux.",
+      "explication": "Devant « en », le -s revient pour faire la liaison."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "___ au tableau et écris la réponse.",
+      "options": [
+        "Va",
+        "Vas"
+      ],
+      "reponse": "Va",
+      "explication": "Aller ne prend pas de -s à l'impératif, sauf devant « y »."
+    },
+    {
+      "phrase": "___ ce gâteau, il est délicieux.",
+      "options": [
+        "Goûte",
+        "Goûtes"
+      ],
+      "reponse": "Goûte",
+      "explication": "Goûter est un verbe en -er : pas de -s."
+    },
+    {
+      "phrase": "___ ta chambre avant de sortir jouer.",
+      "options": [
+        "Range",
+        "Ranges"
+      ],
+      "reponse": "Range",
+      "explication": "Ranger est un verbe en -er : impératif sans -s."
+    },
+    {
+      "phrase": "___ calmement et tu trouveras la solution.",
+      "options": [
+        "Réfléchis",
+        "Réfléchi"
+      ],
+      "reponse": "Réfléchis",
+      "explication": "Réfléchir n'est pas un verbe en -er : il garde son -s."
+    },
+    {
+      "phrase": "___ tes devoirs avant de jouer.",
+      "options": [
+        "Fais",
+        "Fait"
+      ],
+      "reponse": "Fais",
+      "explication": "Faire n'est pas un verbe en -er : on écrit « fais », avec un -s."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « vas-y » ou « va-y » ?",
+      "r": "« Vas-y », avec un -s et un trait d'union : le -s permet la liaison avec « y »."
+    },
+    {
+      "q": "« Achète » ou « achètes » ?",
+      "r": "Pour un ordre, « achète » : « achète du pain ». « Achètes » s'écrit au présent (« tu achètes ») ou devant « en » : « achètes-en »."
+    },
+    {
+      "q": "« Envoie-moi » ou « envoies-moi » ?",
+      "r": "« Envoie-moi » : envoyer est un verbe en -er, donc pas de -s, même devant « moi »."
+    },
+    {
+      "q": "Pourquoi « mange » n'a-t-il pas de -s ?",
+      "r": "C'est la règle des verbes en -er : à l'impératif, la forme avec « tu » s'écrit comme « je mange », sans -s."
+    }
+  ],
+  "liees": [
+    "er-ou-ez",
+    "il-faut-que-subjonctif",
+    "vous-faites-vous-dites",
+    "trait-d-union-interrogatif"
+  ]
+}

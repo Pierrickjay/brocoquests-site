@@ -1,0 +1,100 @@
+{
+  "id": 19,
+  "slug": "er-ou-ez",
+  "miseAJour": "2026-11-15",
+  "h1": "« -er » ou « -ez » : comment ne plus se tromper ?",
+  "title": "er ou ez : l'astuce pour choisir la bonne terminaison",
+  "description": "er ou ez ? Remplace par « vendre » ou « vendez » : vendre = -er, vendez = -ez. La règle avec « vous », les pièges courants et un quiz express.",
+  "reponseCourte": "<p>Remplace le verbe par <strong>vendre</strong> ou <strong>vendez</strong>. Si « vendez » convient, c'est le verbe conjugué avec <strong>vous</strong>, en -ez (<em class=\"ex\">vous mangez</em> → <em class=\"ex\">vous vendez</em>). Si « vendre » convient, c'est l'infinitif en -er (<em class=\"ex\">vous devez manger</em> → <em class=\"ex\">vous devez vendre</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-er</p><p><strong>Infinitif</strong> : le verbe n'est pas conjugué.</p><p><em class=\"ex\">Vous pouvez entr<mark>er</mark></em> → <em class=\"ex\">vous pouvez vendre</em> ✓</p></div><div><p class=\"big\">-ez</p><p><strong>2e personne du pluriel</strong> : verbe conjugué avec vous, ou impératif.</p><p><em class=\"ex\">Vous entr<mark>ez</mark></em> → <em class=\"ex\">vous vendez</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Vous » ne conjugue qu'un seul verbe</h3><p>Le premier verbe après vous prend -ez, le suivant reste à l'infinitif : <em class=\"ex\">vous allez adorer</em>, <em class=\"ex\">vous devez signer</em>. On dit « vous allez vendre », pas « vous allez vendez ».</p><h3>Quand « vous » n'est pas le sujet</h3><p>Dans <em class=\"ex\">je vais vous expliquer</em>, « vous » est un complément : le sujet est « je ». Le test donne « je vais vous vendre », donc -er. Même chose pour <em class=\"ex\">nous allons vous rappeler</em>.</p><h3>L'impératif, sans « vous » écrit</h3><p>Pour un ordre, le « vous » disparaît mais la terminaison reste -ez : <em class=\"ex\">Mangez vos légumes !</em> (vendez vos légumes !).</p><h3>Et le -é ?</h3><p>Après « vous avez » ou « vous êtes », ce n'est ni -er ni -ez : c'est le participe passé. <em class=\"ex\">Vous avez gagné</em> (vous avez vendu).</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Vous devez mangez vos légumes.",
+      "correct": "Vous devez manger vos légumes.",
+      "explication": "« Vous devez vendre » : le second verbe reste à l'infinitif."
+    },
+    {
+      "faux": "Il faut mangez sainement.",
+      "correct": "Il faut manger sainement.",
+      "explication": "« Il faut vendre » : sans « vous » sujet, c'est l'infinitif."
+    },
+    {
+      "faux": "Manger vos légumes !",
+      "correct": "Mangez vos légumes !",
+      "explication": "« Vendez vos légumes ! » : c'est un ordre donné à « vous », à l'impératif."
+    },
+    {
+      "faux": "Je vais vous expliquez la règle.",
+      "correct": "Je vais vous expliquer la règle.",
+      "explication": "« Je vais vous vendre » : ici « vous » est complément, le sujet est « je »."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Vous pouvez ___ vos questions maintenant.",
+      "options": [
+        "poser",
+        "posez"
+      ],
+      "reponse": "poser",
+      "explication": "« Vous pouvez vendre » : après « pouvez », infinitif en -er."
+    },
+    {
+      "phrase": "Vous allez ___ ce défi ensemble.",
+      "options": [
+        "relever",
+        "relevez"
+      ],
+      "reponse": "relever",
+      "explication": "« Vous allez vendre » : seul « allez » est conjugué."
+    },
+    {
+      "phrase": "Vous ___ vos bagages avant l'embarquement.",
+      "options": [
+        "vérifiez",
+        "vérifier"
+      ],
+      "reponse": "vérifiez",
+      "explication": "« Vous vendez » : c'est le verbe conjugué avec vous."
+    },
+    {
+      "phrase": "Vous ___ tous les jours pour progresser.",
+      "options": [
+        "pratiquez",
+        "pratiquer"
+      ],
+      "reponse": "pratiquez",
+      "explication": "« Vous vendez » fonctionne : terminaison -ez."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « vous allez manger » ou « vous allez mangez » ?",
+      "r": "« Vous allez manger » : seul « allez » est conjugué. On dirait « vous allez vendre »."
+    },
+    {
+      "q": "Comment savoir s'il faut -er ou -ez ?",
+      "r": "Remplace le verbe par « vendre » ou « vendez ». « Vendre » donne -er, « vendez » donne -ez."
+    },
+    {
+      "q": "Pourquoi écrit-on « je vais vous aider » avec -er ?",
+      "r": "Parce que le sujet est « je », pas « vous ». « Vous » est un complément, et « aider » reste à l'infinitif après « vais »."
+    },
+    {
+      "q": "« Merci de nous contacter » ou « merci de nous contactez » ?",
+      "r": "« Merci de nous contacter » : après « de », on met l'infinitif. Sans « merci de », on écrirait « contactez-nous »."
+    }
+  ],
+  "liees": [
+    "er-ou-e",
+    "imperatif-sans-s",
+    "vous-faites-vous-dites",
+    "futur-ou-conditionnel-ai-ais"
+  ]
+}

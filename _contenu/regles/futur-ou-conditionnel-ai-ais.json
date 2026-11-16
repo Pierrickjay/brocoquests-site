@@ -1,0 +1,109 @@
+{
+  "id": 20,
+  "slug": "futur-ou-conditionnel-ai-ais",
+  "miseAJour": "2026-11-15",
+  "h1": "« -ai » ou « -ais » : futur ou conditionnel, comment choisir ?",
+  "title": "ai ou ais : futur ou conditionnel, l'astuce pour choisir",
+  "description": "Je mangerai ou je mangerais ? Remplace « je » par « nous » : -rons = futur (-ai), -rions = conditionnel (-ais). Pièges avec « si » et quiz.",
+  "reponseCourte": "<p>Avec <strong>je</strong>, le futur se termine par <strong>-ai</strong> (<em class=\"ex\">demain, je partirai</em>) et le conditionnel par <strong>-ais</strong> (<em class=\"ex\">si je pouvais, je partirais</em>). Pour choisir, remplace « je » par « nous » : <em class=\"ex\">nous partirons</em>, c'est le futur (-ai) ; <em class=\"ex\">nous partirions</em>, c'est le conditionnel (-ais).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-ai</p><p><strong>Futur</strong> : une action prévue ou certaine.</p><p><em class=\"ex\">Je viendr<mark>ai</mark> demain</em> → <em class=\"ex\">nous viendrons</em></p></div><div><p class=\"big\">-ais</p><p><strong>Conditionnel</strong> : une condition, un souhait, une demande polie.</p><p><em class=\"ex\">Je viendr<mark>ais</mark> volontiers</em> → <em class=\"ex\">nous viendrions</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Après le « si » de condition : jamais de futur ni de conditionnel</h3><p><strong>Si + présent</strong> appelle le futur : <em class=\"ex\">si tu viens, je viendrai</em>. <strong>Si + imparfait</strong> appelle le conditionnel : <em class=\"ex\">si tu venais, je viendrais</em>. « Si j'aurais » est donc toujours fautif.</p><h3>Politesse et souhait : -ais</h3><p><em class=\"ex\">Je voudrais un café</em>, <em class=\"ex\">j'aimerais partir</em>, <em class=\"ex\">je serais ravi</em> : ces formules adoucissent une demande, c'est du conditionnel. Teste : « nous voudrions ».</p><h3>Le futur vu du passé</h3><p>Dans un récit au passé, une action à venir se met au conditionnel : <em class=\"ex\">je savais que je réussirais</em>. Au présent, on dirait <em class=\"ex\">je sais que je réussirai</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Demain, je mangerais chez mes parents.",
+      "correct": "Demain, je mangerai chez mes parents.",
+      "explication": "« Nous mangerons » : action prévue pour demain, c'est le futur."
+    },
+    {
+      "faux": "Si j'avais le temps, je mangerai mieux.",
+      "correct": "Si j'avais le temps, je mangerais mieux.",
+      "explication": "« Nous mangerions » : si + imparfait appelle le conditionnel."
+    },
+    {
+      "faux": "Si j'aurais su, je serais venu.",
+      "correct": "Si j'avais su, je serais venu.",
+      "explication": "Après le « si » de condition, pas de conditionnel : on met l'imparfait ou le plus-que-parfait."
+    },
+    {
+      "faux": "Je voudrai un renseignement, s'il vous plaît.",
+      "correct": "Je voudrais un renseignement, s'il vous plaît.",
+      "explication": "« Nous voudrions » : la demande polie se met au conditionnel."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Si j'avais un vélo, j'___ au travail.",
+      "options": [
+        "irais",
+        "irai"
+      ],
+      "reponse": "irais",
+      "explication": "« Nous irions » : si + imparfait, donc conditionnel en -ais."
+    },
+    {
+      "phrase": "Demain, je ___ tôt pour éviter les bouchons.",
+      "options": [
+        "partirai",
+        "partirais"
+      ],
+      "reponse": "partirai",
+      "explication": "« Nous partirons » : action prévue pour demain, futur en -ai."
+    },
+    {
+      "phrase": "Si je pouvais, je ___ un mois en Italie.",
+      "options": [
+        "passerais",
+        "passerai"
+      ],
+      "reponse": "passerais",
+      "explication": "« Nous passerions » : c'est un souhait soumis à une condition."
+    },
+    {
+      "phrase": "Si tu m'aidais, je ___ plus vite.",
+      "options": [
+        "finirais",
+        "finirai"
+      ],
+      "reponse": "finirais",
+      "explication": "« Nous finirions » : si + imparfait appelle le conditionnel."
+    },
+    {
+      "phrase": "Demain, je ___ mes résultats par e-mail.",
+      "options": [
+        "recevrai",
+        "recevrais"
+      ],
+      "reponse": "recevrai",
+      "explication": "« Nous recevrons » : c'est prévu pour demain, futur en -ai."
+    }
+  ],
+  "faq": [
+    {
+      "q": "« Je serai » ou « je serais » ?",
+      "r": "« Je serai » (futur) pour ce qui est prévu : « je serai là demain ». « Je serais » (conditionnel) pour une hypothèse : « je serais là si je pouvais »."
+    },
+    {
+      "q": "Faut-il écrire « je voudrais » ou « je voudrai » ?",
+      "r": "Pour une demande polie, « je voudrais », au conditionnel. « Je voudrai » est le futur : il existe, mais il est rare."
+    },
+    {
+      "q": "Pourquoi confond-on -ai et -ais ?",
+      "r": "Parce qu'à l'oral, beaucoup de gens prononcent les deux de la même façon. En prononciation soignée, -ai se dit « é » et -ais se dit « è »."
+    },
+    {
+      "q": "Le piège existe-t-il avec « tu » ou « il » ?",
+      "r": "Beaucoup moins : « tu partiras » et « tu partirais », « il partira » et « il partirait » ne se prononcent pas pareil. Le vrai piège, c'est « je »."
+    }
+  ],
+  "liees": [
+    "er-ou-e",
+    "er-ou-ez",
+    "il-faut-que-subjonctif",
+    "passe-simple-3e-personne"
+  ]
+}

@@ -22,7 +22,7 @@
       expl.className = 'quiz-expl';
       expl.hidden = true;
 
-      q.o.forEach(function (opt) {
+      shuffle(q.o.slice()).forEach(function (opt) {
         var b = document.createElement('button');
         b.type = 'button';
         b.textContent = opt;
@@ -51,6 +51,16 @@
       list.appendChild(li);
     });
     box.appendChild(list);
+
+    function shuffle(arr) {
+      for (var i = arr.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = tmp;
+      }
+      return arr;
+    }
 
     function showResult() {
       var res = document.createElement('div');

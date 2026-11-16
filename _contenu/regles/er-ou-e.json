@@ -1,0 +1,109 @@
+{
+  "id": 18,
+  "slug": "er-ou-e",
+  "miseAJour": "2026-11-15",
+  "h1": "« -er » ou « -é » : comment choisir la bonne terminaison ?",
+  "title": "er ou é : l'astuce pour choisir la bonne terminaison",
+  "description": "er ou é ? Remplace le verbe par « vendre » ou « vendu » : vendre = -er, vendu = -é. La règle simple, les pièges fréquents et un quiz express.",
+  "reponseCourte": "<p>Pour choisir entre <strong>-er</strong> et <strong>-é</strong>, remplace le verbe par <strong>vendre</strong> ou <strong>vendu</strong>. Si « vendre » convient, c'est l'infinitif en -er (<em class=\"ex\">il doit manger</em> → <em class=\"ex\">il doit vendre</em>). Si « vendu » convient, c'est le participe passé en -é (<em class=\"ex\">il a mangé</em> → <em class=\"ex\">il a vendu</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-er</p><p><strong>Infinitif</strong> : le verbe n'est pas conjugué.</p><p><em class=\"ex\">Je vais travaill<mark>er</mark></em> → <em class=\"ex\">je vais vendre</em> ✓</p></div><div><p class=\"big\">-é</p><p><strong>Participe passé</strong> : souvent après avoir ou être.</p><p><em class=\"ex\">J'ai travaill<mark>é</mark></em> → <em class=\"ex\">j'ai vendu</em> ✓</p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Après une préposition : toujours -er</h3><p>Après <strong>à, de, pour, sans</strong>, le verbe reste à l'infinitif : <em class=\"ex\">une machine à laver</em>, <em class=\"ex\">sans parler</em>. Le test le confirme : « sans vendre ».</p><h3>Deux verbes qui se suivent</h3><p>Quand un verbe conjugué est suivi d'un autre verbe, le second est à l'infinitif : <em class=\"ex\">elle veut chanter</em>, <em class=\"ex\">il faut ranger</em>. Seule exception : après <strong>avoir</strong> et <strong>être</strong>, c'est le participe (<em class=\"ex\">elle a chanté</em>).</p><h3>Le participe peut s'accorder</h3><p>Le test « vendu » te dit qu'il faut un participe, pas s'il s'accorde. Avec être, il s'accorde avec le sujet : <em class=\"ex\">elles sont arrivées</em> (elles sont vendues).</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Il doit continué ses efforts.",
+      "correct": "Il doit continuer ses efforts.",
+      "explication": "On dit « il doit vendre », pas « il doit vendu » : infinitif en -er."
+    },
+    {
+      "faux": "Le repas est bien préparer.",
+      "correct": "Le repas est bien préparé.",
+      "explication": "« Le repas est bien vendu » fonctionne : participe passé en -é."
+    },
+    {
+      "faux": "Je vais te le montré.",
+      "correct": "Je vais te le montrer.",
+      "explication": "« Je vais te le vendre » : après « aller », le verbe reste à l'infinitif."
+    },
+    {
+      "faux": "Il a commencer à pleuvoir.",
+      "correct": "Il a commencé à pleuvoir.",
+      "explication": "On dirait « il a vendu », pas « il a vendre » : après avoir, participe passé."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Il faut ___ ses affaires avant de partir.",
+      "options": [
+        "ranger",
+        "rangé"
+      ],
+      "reponse": "ranger",
+      "explication": "On dirait « il faut vendre » : infinitif en -er."
+    },
+    {
+      "phrase": "Elle a ___ toute la nuit.",
+      "options": [
+        "travaillé",
+        "travailler"
+      ],
+      "reponse": "travaillé",
+      "explication": "« Elle a vendu » : après avoir, participe passé en -é."
+    },
+    {
+      "phrase": "Elle essaie de ___ ses habitudes alimentaires.",
+      "options": [
+        "changer",
+        "changé"
+      ],
+      "reponse": "changer",
+      "explication": "« Elle essaie de vendre » : après « de », infinitif."
+    },
+    {
+      "phrase": "Il a ___ toute sa chambre hier soir.",
+      "options": [
+        "rangé",
+        "ranger"
+      ],
+      "reponse": "rangé",
+      "explication": "« Il a vendu » fonctionne : participe passé."
+    },
+    {
+      "phrase": "On doit ___ ce problème rapidement.",
+      "options": [
+        "régler",
+        "réglé"
+      ],
+      "reponse": "régler",
+      "explication": "« On doit vendre » : après « devoir », infinitif."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si on écrit -er ou -é ?",
+      "r": "Remplace le verbe par « vendre » ou « vendu ». « Vendre » donne -er (infinitif), « vendu » donne -é (participe passé). « Prendre » et « pris » marchent aussi."
+    },
+    {
+      "q": "On écrit « il faut manger » ou « il faut mangé » ?",
+      "r": "« Il faut manger » : on dirait « il faut vendre ». Après « il faut », le verbe est toujours à l'infinitif."
+    },
+    {
+      "q": "Pourquoi « j'ai mangé » et pas « j'ai manger » ?",
+      "r": "Le passé composé se forme avec avoir et le participe passé : « j'ai vendu », donc « j'ai mangé »."
+    },
+    {
+      "q": "Le test marche-t-il avec tous les verbes ?",
+      "r": "Il sert pour les verbes en -er, les seuls qui hésitent entre -er et -é. Avec « finir » ou « prendre », la question ne se pose pas."
+    }
+  ],
+  "liees": [
+    "er-ou-ez",
+    "accord-participe-passe-etre",
+    "accord-participe-passe-avoir-cod-apres",
+    "futur-ou-conditionnel-ai-ais"
+  ]
+}

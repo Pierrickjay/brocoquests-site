@@ -1,0 +1,119 @@
+{
+  "id": 22,
+  "slug": "accord-participe-passe-avoir-cod-avant",
+  "miseAJour": "2026-11-16",
+  "h1": "Participe passé avec « avoir » : quand faut-il l'accorder ?",
+  "title": "Participe passé avec avoir et COD avant : la règle",
+  "description": "Avec avoir, le participe passé s'accorde si le COD est placé avant : les fleurs que tu as choisies. La règle, les pièges (l', que, quelle) et un quiz.",
+  "reponseCourte": "<p>Avec l'auxiliaire <strong>avoir</strong>, le participe passé s'accorde avec le <strong>COD</strong> seulement si ce COD est placé <strong>avant</strong> le verbe. Pose la question « quoi ? » ou « qui ? » après le verbe : <em class=\"ex\">les fleurs que tu as choisi<mark>es</mark></em> (tu as choisi quoi ? « que », c'est-à-dire les fleurs, placé avant : accord).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">COD avant</p><p>Le participe s'<strong>accorde</strong> avec le COD.</p><p><em class=\"ex\">Ces pommes, je les ai mangé<mark>es</mark></em></p></div><div><p class=\"big\">COD après</p><p>Le participe reste <strong>invariable</strong>.</p><p><em class=\"ex\">J'ai mangé ces pommes</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Où se cache le COD placé avant ?</h3><p>Dans trois situations surtout : un pronom (le, la, l', les, me, te, nous, vous), le pronom relatif « que », ou une question avec « quel » ou « combien de ». <em class=\"ex\">Quelles chansons as-tu écouté<mark>es</mark> ?</em>, <em class=\"ex\">Combien de livres as-tu lu<mark>s</mark> ?</em></p><h3>Le « l' » et le « que » ne disent rien du genre</h3><p>Remonte au mot qu'ils remplacent. <em class=\"ex\">Ta lettre, je l'ai lu<mark>e</mark></em> : « l' » = ta lettre, féminin. <em class=\"ex\">Le film que j'ai vu</em> : « que » = le film, masculin, donc pas de marque.</p><h3>Le « l' » qui remplace une idée</h3><p>Quand « l' » veut dire « cela », il est neutre et le participe reste invariable : <em class=\"ex\">La réunion fut plus longue que je ne l'avais prévu</em> (je n'avais pas prévu cela).</p><h3>Une astuce pour l'oreille</h3><p>Remplace le participe par un verbe dont le féminin s'entend, comme « prendre » ou « faire » : <em class=\"ex\">la robe qu'elle a choisie</em> → <em class=\"ex\">la robe qu'elle a prise</em>. Si tu entends le féminin, c'est qu'il faut accorder.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Les lettres qu'il a envoyé sont arrivées.",
+      "correct": "Les lettres qu'il a envoyées sont arrivées.",
+      "explication": "Le COD « que » (les lettres) est placé avant : accord au féminin pluriel."
+    },
+    {
+      "faux": "Ta lettre, je l'ai lu hier.",
+      "correct": "Ta lettre, je l'ai lue hier.",
+      "explication": "« L' » remplace « ta lettre », COD féminin placé avant : on ajoute un e."
+    },
+    {
+      "faux": "Quelle route as-tu pris ?",
+      "correct": "Quelle route as-tu prise ?",
+      "explication": "Le COD « quelle route » est placé avant le verbe : accord au féminin."
+    },
+    {
+      "faux": "Ces chansons, je les ai écouté en boucle.",
+      "correct": "Ces chansons, je les ai écoutées en boucle.",
+      "explication": "« Les » reprend « ces chansons », placé avant : féminin pluriel."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Les fleurs que tu as ___ sont magnifiques.",
+      "options": [
+        "choisie",
+        "choisi",
+        "choisit",
+        "choisies"
+      ],
+      "reponse": "choisies",
+      "explication": "« Que » reprend « les fleurs », COD féminin pluriel placé avant."
+    },
+    {
+      "phrase": "Elles ont ___ des erreurs dans ce texte.",
+      "options": [
+        "commis",
+        "commises",
+        "commise",
+        "commi"
+      ],
+      "reponse": "commis",
+      "explication": "« Des erreurs » vient après : pas d'accord, même avec un sujet féminin pluriel."
+    },
+    {
+      "phrase": "Les erreurs qu'il a ___ sont nombreuses.",
+      "options": [
+        "commises",
+        "commis",
+        "commise",
+        "commettre"
+      ],
+      "reponse": "commises",
+      "explication": "Le COD « que » (les erreurs) est avant le verbe : féminin pluriel."
+    },
+    {
+      "phrase": "Elles ont ___ une longue réunion ce matin.",
+      "options": [
+        "tenu",
+        "tenus",
+        "tenue",
+        "tenues"
+      ],
+      "reponse": "tenu",
+      "explication": "Le COD « une longue réunion » suit le verbe : on n'accorde ni avec lui ni avec le sujet."
+    },
+    {
+      "phrase": "Ta sœur ? Je l'ai ___ hier au parc.",
+      "options": [
+        "aperçue",
+        "aperçut",
+        "aperçus",
+        "aperçues"
+      ],
+      "reponse": "aperçue",
+      "explication": "« L' » remplace « ta sœur », COD féminin singulier placé avant."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « la lettre que j'ai écrit » ou « écrite » ?",
+      "r": "« La lettre que j'ai écrite » : « que » reprend « la lettre », COD féminin placé avant le verbe. D'ailleurs, le t s'entend."
+    },
+    {
+      "q": "Pourquoi accorder seulement quand le COD est avant ?",
+      "r": "C'est une convention de l'écrit : quand le COD vient avant, on sait déjà s'il est masculin ou féminin, singulier ou pluriel au moment d'écrire le participe."
+    },
+    {
+      "q": "Faut-il accorder après « combien de » ?",
+      "r": "Oui, si « combien de » + nom est le COD placé avant : « Combien de pages as-tu lues ? »"
+    },
+    {
+      "q": "Le participe passé avec avoir s'accorde-t-il avec le sujet ?",
+      "r": "Jamais. Avec avoir, seul un COD placé avant peut déclencher l'accord : « Elles ont mangé », sans marque."
+    }
+  ],
+  "liees": [
+    "accord-participe-passe-avoir-cod-apres",
+    "accord-participe-passe-etre",
+    "participe-passe-avec-en",
+    "participe-passe-fait-infinitif"
+  ]
+}

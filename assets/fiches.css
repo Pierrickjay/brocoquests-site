@@ -29,6 +29,7 @@ mark{background:#fbe7a6;color:inherit;border-radius:4px;padding:0 3px;font-weigh
 
 .answer{background:#fffdf7;border:1px solid #e3d8bf;border-left:5px solid #3d8b2f;border-radius:18px;padding:20px 22px;margin-bottom:40px;font-size:1.04em}
 .answer-label{font-size:.75em;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:#3d8b2f;margin-bottom:6px}
+.answer-hint{margin-top:10px;font-size:.9em;color:#5c5444}
 
 .tip{background:#e4f0dc;border-radius:16px;padding:16px 20px;margin:14px 0}
 .tip strong:first-child{color:#1d4d18}

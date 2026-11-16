@@ -1,0 +1,119 @@
+{
+  "id": 25,
+  "slug": "participe-passe-verbes-pronominaux-coi",
+  "miseAJour": "2026-11-16",
+  "h1": "« Ils se sont parlé » sans s : pourquoi pas d'accord ?",
+  "title": "Participe passé des pronominaux avec COI : invariable",
+  "description": "Quand « se » est COI, le participe reste invariable : elles se sont téléphoné. Les verbes à connaître (succéder, plaire, demander), les pièges et un quiz.",
+  "reponseCourte": "<p>Avec un verbe pronominal, le participe passé reste <strong>invariable</strong> quand le pronom « se » est <strong>COI</strong>, c'est-à-dire quand le verbe se construit avec « à » : <em class=\"ex\">elles se sont téléphoné</em> (on téléphone <strong>à</strong> quelqu'un). Remplace « être » par « avoir » et demande-toi « à qui ? » : si la réponse est « se », pas d'accord.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">se = COD</p><p>Voir <strong>quelqu'un</strong> : accord.</p><p><em class=\"ex\">Elles se sont vu<mark>es</mark></em></p></div><div><p class=\"big\">se = COI</p><p>Parler <strong>à quelqu'un</strong> : invariable.</p><p><em class=\"ex\">Elles se sont parlé</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Les verbes à connaître</h3><p>Se parler, se téléphoner, se sourire, se mentir, se nuire, se succéder, se ressembler, se plaire, se déplaire, se suffire : tous se construisent avec « à » et n'ont jamais de COD. Leur participe est toujours invariable : <em class=\"ex\">ils se sont plu</em>, <em class=\"ex\">elles se sont souri</em>.</p><h3>« Se » COI et un vrai COD après</h3><p>Avec envoyer, dire, donner, écrire, promettre, « se » veut dire « à soi » ou « l'un à l'autre ». Le vrai COD suit le verbe : <em class=\"ex\">ils se sont envoyé des lettres</em>, invariable. Mais si ce COD passe devant, on accorde avec lui : <em class=\"ex\">les lettres qu'ils se sont envoy<mark>ées</mark></em>.</p><h3>« Se demander » et « se dire »</h3><p>On demande quelque chose <strong>à</strong> quelqu'un : <em class=\"ex\">elle s'est demandé pourquoi</em>, sans e. De même : <em class=\"ex\">elles se sont dit au revoir</em>.</p><h3>« Se succéder » ne prend jamais de s</h3><p>On succède <strong>à</strong> quelqu'un : <em class=\"ex\">les présidents se sont succédé</em>. Le pluriel du sujet donne envie d'ajouter un s, mais « se » est COI.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elles se sont téléphonée longuement.",
+      "correct": "Elles se sont téléphoné longuement.",
+      "explication": "On téléphone à quelqu'un : « se » est COI, le participe reste invariable."
+    },
+    {
+      "faux": "Elle s'est demandée pourquoi.",
+      "correct": "Elle s'est demandé pourquoi.",
+      "explication": "Elle a demandé à qui ? à elle-même : « se » est COI, donc pas de e."
+    },
+    {
+      "faux": "Elles se sont plues tout de suite.",
+      "correct": "Elles se sont plu tout de suite.",
+      "explication": "On plaît à quelqu'un : COI, participe invariable."
+    },
+    {
+      "faux": "Ils se sont souris.",
+      "correct": "Ils se sont souri.",
+      "explication": "On sourit à quelqu'un : « se » est COI, pas d'accord."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Ils se sont ___ la parole pendant des heures.",
+      "options": [
+        "coupé",
+        "coupés",
+        "coupée",
+        "couper"
+      ],
+      "reponse": "coupé",
+      "explication": "On coupe la parole à quelqu'un : « se » est COI et le COD « la parole » est après."
+    },
+    {
+      "phrase": "Les présidents se sont ___ au pouvoir.",
+      "options": [
+        "succédé",
+        "succédés",
+        "succédée",
+        "succédées"
+      ],
+      "reponse": "succédé",
+      "explication": "On succède à quelqu'un : « se » est COI, participe invariable."
+    },
+    {
+      "phrase": "Elles se sont ___ de nombreux conseils.",
+      "options": [
+        "donné",
+        "donnés",
+        "données",
+        "donner"
+      ],
+      "reponse": "donné",
+      "explication": "Elles ont donné des conseils à qui ? l'une à l'autre : COI, et le COD est placé après."
+    },
+    {
+      "phrase": "Ils se sont ___ des nouvelles par courrier.",
+      "options": [
+        "envoyé",
+        "envoyés",
+        "envoyer",
+        "envoyées"
+      ],
+      "reponse": "envoyé",
+      "explication": "On envoie des nouvelles à quelqu'un : « se » est COI, le COD « des nouvelles » suit le verbe."
+    },
+    {
+      "phrase": "Les deux équipes se sont ___ la coupe.",
+      "options": [
+        "disputé",
+        "disputés",
+        "disputée",
+        "disputées"
+      ],
+      "reponse": "disputé",
+      "explication": "On dispute la coupe à quelqu'un : « se » est COI, le COD « la coupe » est après."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « ils se sont succédé » ou « succédés » ?",
+      "r": "« Ils se sont succédé », sans s : on succède à quelqu'un, donc « se » est COI."
+    },
+    {
+      "q": "« Elle s'est demandé » ou « elle s'est demandée » ?",
+      "r": "« Elle s'est demandé » : on demande à quelqu'un, « se » est COI, donc le participe reste invariable."
+    },
+    {
+      "q": "Pourquoi écrit-on « les lettres qu'ils se sont écrites » avec un accord ?",
+      "r": "Parce que le COD « que », qui reprend « les lettres », est placé avant le verbe. C'est lui qui commande l'accord, pas « se »."
+    },
+    {
+      "q": "Comment savoir si « se » est COI ?",
+      "r": "Remplace « être » par « avoir » et refais la phrase sans « se » : si l'on dit « parler à quelqu'un », « plaire à quelqu'un », « se » est COI."
+    }
+  ],
+  "liees": [
+    "participe-passe-verbes-pronominaux-cod",
+    "se-rendre-compte-accord",
+    "accord-participe-passe-avoir-cod-avant",
+    "accord-participe-passe-avoir-cod-apres"
+  ]
+}

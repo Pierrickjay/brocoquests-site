@@ -1,0 +1,119 @@
+{
+  "id": 24,
+  "slug": "participe-passe-verbes-pronominaux-cod",
+  "miseAJour": "2026-11-16",
+  "h1": "« Elle s'est lavé » ou « elle s'est lavée » : comment accorder ?",
+  "title": "Participe passé des verbes pronominaux : la règle du COD",
+  "description": "Verbe pronominal : le participe s'accorde si « se » est COD (elles se sont regardées), pas devant un COD placé après. Méthode, pièges et quiz.",
+  "reponseCourte": "<p>Avec un verbe pronominal, le participe passé s'accorde quand le pronom (me, te, se, nous, vous) est <strong>COD</strong>. Remplace « être » par « avoir » et pose la question « qui ? » ou « quoi ? » : <em class=\"ex\">elles se sont regardé<mark>es</mark></em> (elles ont regardé qui ? elles-mêmes : accord). Mais <em class=\"ex\">elle s'est lavé les mains</em> : le COD est « les mains », placé après, donc pas d'accord.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">se = COD</p><p>Elle a lavé <strong>qui</strong> ? elle-même : accord.</p><p><em class=\"ex\">Elle s'est lav<mark>ée</mark></em></p></div><div><p class=\"big\">COD après</p><p>Elle a lavé <strong>quoi</strong> ? les mains : invariable.</p><p><em class=\"ex\">Elle s'est lavé les mains</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>La méthode en deux temps</h3><p>1. Remplace « être » par « avoir » : <em class=\"ex\">elle s'est lavée</em> devient « elle a lavé elle-même ». 2. Cherche le COD. Si c'est le pronom « se », placé avant, on accorde. Si le COD vient après le verbe, invariable. Si « se » répond à « à qui ? », voir la fiche sur les pronominaux avec COI.</p><h3>Les parties du corps</h3><p>C'est le piège classique : <em class=\"ex\">elle s'est cassé le bras</em>, <em class=\"ex\">il s'est coupé le doigt</em>. Le COD est la partie du corps, placée après : pas d'accord. Mais si le COD passe devant, on accorde : <em class=\"ex\">les mains qu'elle s'est lav<mark>ées</mark></em>.</p><h3>Les actions réciproques</h3><p>Quand deux personnes font l'action l'une sur l'autre, « se » est souvent COD : <em class=\"ex\">ils se sont croisés</em> (croiser quelqu'un), <em class=\"ex\">elles se sont affrontées</em> (affronter quelqu'un).</p><h3>Les verbes toujours pronominaux</h3><p>Certains verbes n'existent qu'à la forme pronominale : s'évanouir, s'enfuir, se souvenir, se méfier. Pour eux, le participe s'accorde avec le sujet : <em class=\"ex\">elles se sont enfui<mark>es</mark></em>. Même chose au sens passif : <em class=\"ex\">ces maisons se sont vendu<mark>es</mark> vite</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elle s'est lavée les mains.",
+      "correct": "Elle s'est lavé les mains.",
+      "explication": "Le COD est « les mains », placé après le verbe : pas d'accord."
+    },
+    {
+      "faux": "Elles se sont regardé dans le miroir.",
+      "correct": "Elles se sont regardées dans le miroir.",
+      "explication": "Elles ont regardé qui ? « se » (elles-mêmes), COD placé avant : accord."
+    },
+    {
+      "faux": "Les lunettes qu'il s'est acheté sont rouges.",
+      "correct": "Les lunettes qu'il s'est achetées sont rouges.",
+      "explication": "Le COD « que » (les lunettes) est placé avant : féminin pluriel."
+    },
+    {
+      "faux": "Elles se sont évanoui.",
+      "correct": "Elles se sont évanouies.",
+      "explication": "« S'évanouir » est toujours pronominal : on accorde avec le sujet."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elles se sont ___ avant le match.",
+      "options": [
+        "échauffées",
+        "échauffés",
+        "échauffé",
+        "échauffée"
+      ],
+      "reponse": "échauffées",
+      "explication": "Elles ont échauffé qui ? elles-mêmes : « se » est COD, accord au féminin pluriel."
+    },
+    {
+      "phrase": "Elle s'est ___ le bras en tombant.",
+      "options": [
+        "cassé",
+        "cassée",
+        "casser",
+        "cassées"
+      ],
+      "reponse": "cassé",
+      "explication": "Le COD « le bras » est placé après le verbe : invariable."
+    },
+    {
+      "phrase": "Ils se sont ___ dans la rue.",
+      "options": [
+        "croisés",
+        "croisé",
+        "croisées",
+        "croisée"
+      ],
+      "reponse": "croisés",
+      "explication": "Ils ont croisé qui ? l'un l'autre : « se » est COD, accord au masculin pluriel."
+    },
+    {
+      "phrase": "Les deux équipes se sont ___ sur le terrain.",
+      "options": [
+        "affrontées",
+        "affronté",
+        "affrontés",
+        "affrontée"
+      ],
+      "reponse": "affrontées",
+      "explication": "On affronte quelqu'un : « se » est COD et reprend « les équipes », féminin pluriel."
+    },
+    {
+      "phrase": "Nous nous sommes ___ devant la mairie.",
+      "options": [
+        "retrouvés",
+        "retrouvé",
+        "retrouver",
+        "retrouvée"
+      ],
+      "reponse": "retrouvés",
+      "explication": "Nous avons retrouvé qui ? « nous » : COD placé avant, accord au pluriel."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « elle s'est lavé » ou « elle s'est lavée » ?",
+      "r": "Les deux existent. « Elle s'est lavée » quand elle se lave elle-même ; « elle s'est lavé les mains » quand un COD suit le verbe."
+    },
+    {
+      "q": "« Elle s'est cassé le bras » prend-il un e ?",
+      "r": "Non. Le COD est « le bras », placé après le verbe : le participe reste invariable."
+    },
+    {
+      "q": "« Ils se sont rencontrés » prend-il un s ?",
+      "r": "Oui : on rencontre quelqu'un, donc « se » est COD et il est placé avant. Accord au pluriel."
+    },
+    {
+      "q": "Pourquoi remplacer « être » par « avoir » ?",
+      "r": "Parce que les verbes pronominaux suivent au fond la règle de l'auxiliaire avoir : on cherche le COD et on regarde s'il est placé avant."
+    }
+  ],
+  "liees": [
+    "participe-passe-verbes-pronominaux-coi",
+    "se-rendre-compte-accord",
+    "accord-participe-passe-avoir-cod-avant",
+    "accord-participe-passe-etre"
+  ]
+}

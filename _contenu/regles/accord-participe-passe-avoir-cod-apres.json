@@ -1,0 +1,119 @@
+{
+  "id": 23,
+  "slug": "accord-participe-passe-avoir-cod-apres",
+  "miseAJour": "2026-11-16",
+  "h1": "Participe passé avec « avoir » : pourquoi ne pas l'accorder ?",
+  "title": "Participe passé avec avoir invariable : COD après",
+  "description": "Avec avoir, le participe passé ne s'accorde pas si le COD est après ou absent : elle a mangé des pommes. La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p>Avec l'auxiliaire <strong>avoir</strong>, le participe passé reste <strong>invariable</strong> quand le COD est placé <strong>après</strong> le verbe, ou quand il n'y a pas de COD. <em class=\"ex\">Elle a mangé des pommes</em> : « des pommes » vient après, donc pas d'accord. Et avec avoir, on n'accorde jamais avec le sujet.</p><p class=\"answer-hint\">💡 Pour trouver le COD, pose la question <strong>« quoi ? »</strong> ou <strong>« qui ? »</strong> juste après le verbe : <em class=\"ex\">Elle a mangé quoi ?</em> → des pommes. C'est le COD.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">Pas de COD</p><p>Invariable.</p><p><em class=\"ex\">Elles ont dormi</em></p></div><div><p class=\"big\">COD après</p><p>Invariable.</p><p><em class=\"ex\">Elles ont lu ces livres</em></p></div><div><p class=\"big\">COD avant</p><p>Accord avec le COD.</p><p><em class=\"ex\">Ces livres, elles les ont lu<mark>s</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Le sujet ne compte pas</h3><p>C'est l'erreur la plus fréquente : accorder avec le sujet comme avec être. Avec avoir, <em class=\"ex\">les filles ont chanté</em> ne prend ni e ni s, même si le sujet est féminin pluriel.</p><h3>COD ou COI ?</h3><p>Pose la question « quoi ? » ou « qui ? » juste après le verbe. Si tu dois dire « <strong>à</strong> qui ? », « <strong>à</strong> quoi ? », « <strong>de</strong> qui ? » ou « <strong>de</strong> quoi ? », c'est un COI, pas un COD : <em class=\"ex\">Elle a parlé à sa mère</em>, <em class=\"ex\">ils ont profité de leurs vacances</em>. Avec avoir, le participe ne s'accorde jamais avec un COI.</p><h3>Durée, prix, distance</h3><p>Avec des verbes comme dormir, courir, coûter ou valoir au sens propre, le « que » qui précède indique une durée, une distance ou un prix, pas un COD : <em class=\"ex\">les trois heures que j'ai dormi</em>, <em class=\"ex\">les vingt euros que ce livre a coûté</em>. Le participe reste invariable.</p><h3>Deux participes dans la même phrase</h3><p>Le COD peut changer de place : <em class=\"ex\">Elle a écrit une lettre et l'a envoy<mark>ée</mark></em>. « Écrit » : COD après, invariable. « Envoyée » : « l' » (la lettre) est placé avant, accord.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elle a mangés des pommes.",
+      "correct": "Elle a mangé des pommes.",
+      "explication": "Le COD « des pommes » est placé après le verbe : pas d'accord."
+    },
+    {
+      "faux": "Ils ont construits une maison.",
+      "correct": "Ils ont construit une maison.",
+      "explication": "« Une maison » vient après le verbe, et on n'accorde jamais avec le sujet après avoir."
+    },
+    {
+      "faux": "Les filles ont beaucoup ries.",
+      "correct": "Les filles ont beaucoup ri.",
+      "explication": "« Rire » n'a pas de COD : avec avoir, le participe reste invariable."
+    },
+    {
+      "faux": "Elle a téléphonée à sa mère.",
+      "correct": "Elle a téléphoné à sa mère.",
+      "explication": "« À sa mère » est un COI, pas un COD : aucun accord."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Nous avons ___ une longue promenade.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "Le COD « une longue promenade » est placé après le verbe : invariable."
+    },
+    {
+      "phrase": "La vidéo qu'il a ___ est très drôle.",
+      "options": [
+        "tournée",
+        "tourné",
+        "tournées",
+        "tournés"
+      ],
+      "reponse": "tournée",
+      "explication": "Il a tourné quoi ? « que », c'est-à-dire la vidéo : féminin singulier, placé avant."
+    },
+    {
+      "phrase": "Il a ___ une lettre à ses parents.",
+      "options": [
+        "écrit",
+        "écrits",
+        "écrite",
+        "écrites"
+      ],
+      "reponse": "écrit",
+      "explication": "Il a écrit quoi ? « une lettre », placé après : invariable."
+    },
+    {
+      "phrase": "Tes cousins ? Je les ai ___ dans la rue hier.",
+      "options": [
+        "croisés",
+        "croisé",
+        "croisée",
+        "croiser"
+      ],
+      "reponse": "croisés",
+      "explication": "« Les » remplace « tes cousins », COD masculin pluriel placé avant."
+    },
+    {
+      "phrase": "Nous avons ___ un appartement en ville.",
+      "options": [
+        "loué",
+        "loués",
+        "louer",
+        "louées"
+      ],
+      "reponse": "loué",
+      "explication": "« Un appartement » est placé après le verbe : participe invariable."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « elle a mangé » ou « elle a mangée » ?",
+      "r": "« Elle a mangé » : avec avoir, le participe passé ne s'accorde jamais avec le sujet."
+    },
+    {
+      "q": "Pourquoi on n'accorde pas avec le sujet quand l'auxiliaire est « avoir » ?",
+      "r": "Parce qu'avec avoir, seul un COD placé avant le verbe peut déclencher l'accord. Le sujet n'intervient pas."
+    },
+    {
+      "q": "Et s'il n'y a pas de COD du tout ?",
+      "r": "Le participe reste invariable : « Ils ont dormi », « elles ont ri », « nous avons voyagé »."
+    },
+    {
+      "q": "« Les 30 euros que ce livre m'a coûté » : faut-il accorder ?",
+      "r": "Non, au sens propre « que » indique le prix, ce n'est pas un COD. Au sens figuré, on accorde : « les efforts que ce travail m'a coûtés »."
+    }
+  ],
+  "liees": [
+    "accord-participe-passe-avoir-cod-avant",
+    "accord-participe-passe-etre",
+    "participe-passe-avec-en",
+    "er-ou-e"
+  ]
+}

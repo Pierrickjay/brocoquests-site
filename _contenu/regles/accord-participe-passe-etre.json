@@ -1,0 +1,119 @@
+{
+  "id": 21,
+  "slug": "accord-participe-passe-etre",
+  "miseAJour": "2026-11-16",
+  "h1": "Participe passé avec « être » : comment l'accorder ?",
+  "title": "Accord du participe passé avec être : règle et astuce",
+  "description": "Avec être, le participe passé s'accorde avec le sujet : elles sont parties. La règle simple, les verbes qui changent d'auxiliaire, les pièges et un quiz.",
+  "reponseCourte": "<p>Avec l'auxiliaire <strong>être</strong>, le participe passé s'accorde en genre et en nombre avec le <strong>sujet</strong>. Demande-toi « qui est-ce qui ? » avant le verbe, puis accorde comme un adjectif : <em class=\"ex\">elles sont parti<mark>es</mark></em> (elles : féminin pluriel, donc <strong>-es</strong>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-é / -i</p><p>Masculin singulier.</p><p><em class=\"ex\">Il est parti</em></p></div><div><p class=\"big\">+ e</p><p>Féminin singulier.</p><p><em class=\"ex\">Elle est parti<mark>e</mark></em></p></div><div><p class=\"big\">+ s</p><p>Masculin pluriel.</p><p><em class=\"ex\">Ils sont parti<mark>s</mark></em></p></div><div><p class=\"big\">+ es</p><p>Féminin pluriel.</p><p><em class=\"ex\">Elles sont parti<mark>es</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Quels verbes se conjuguent avec « être » ?</h3><p>Surtout des verbes de mouvement ou de changement d'état : aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, devenir, naître, mourir. Mais attention : <strong>sortir, monter, descendre, rentrer, passer, retourner</strong> prennent <strong>avoir</strong> quand ils ont un COD. <em class=\"ex\">Elle est sortie</em>, mais <em class=\"ex\">elle a sorti la poubelle</em> : là, plus d'accord avec le sujet.</p><h3>Un sujet masculin et un sujet féminin</h3><p>Dès qu'il y a un masculin dans le groupe, on accorde au masculin pluriel : <em class=\"ex\">Paul et Léa sont partis</em>.</p><h3>« Vous » de politesse et « on »</h3><p>Avec le vouvoiement, on accorde avec la personne réelle : <em class=\"ex\">Madame, vous êtes arrivée</em> (une seule personne, donc pas de s). Quand « on » veut dire « nous », l'accord au pluriel est admis : <em class=\"ex\">On est rentrés tard</em>.</p><h3>La voix passive</h3><p>Au passif, le participe s'accorde aussi avec le sujet : <em class=\"ex\">La lettre a été envoy<mark>ée</mark></em>. Seul « été » reste toujours invariable. Les verbes pronominaux (se laver, se parler) ont leurs propres règles, expliquées dans leurs fiches.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elles sont parti en vacances.",
+      "correct": "Elles sont parties en vacances.",
+      "explication": "Le sujet « elles » est féminin pluriel : on ajoute -es."
+    },
+    {
+      "faux": "Ma sœur est arrivé hier.",
+      "correct": "Ma sœur est arrivée hier.",
+      "explication": "Avec être, on accorde avec le sujet « ma sœur », féminin singulier."
+    },
+    {
+      "faux": "Elle est sortie la poubelle.",
+      "correct": "Elle a sorti la poubelle.",
+      "explication": "Avec un COD (la poubelle), « sortir » prend avoir et ne s'accorde plus avec le sujet."
+    },
+    {
+      "faux": "La lettre a été envoyé ce matin.",
+      "correct": "La lettre a été envoyée ce matin.",
+      "explication": "Au passif, « envoyée » s'accorde avec le sujet « la lettre » ; seul « été » reste invariable."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Les filles sont ___ à pied.",
+      "options": [
+        "venues",
+        "venus",
+        "venu",
+        "venue"
+      ],
+      "reponse": "venues",
+      "explication": "Le sujet « les filles » est féminin pluriel : -es."
+    },
+    {
+      "phrase": "Mon frère est ___ très tard hier soir.",
+      "options": [
+        "rentré",
+        "rentrés",
+        "rentrée",
+        "rentrer"
+      ],
+      "reponse": "rentré",
+      "explication": "« Mon frère » est masculin singulier : pas de marque."
+    },
+    {
+      "phrase": "Ma mère est ___ acheter du pain.",
+      "options": [
+        "allée",
+        "allé",
+        "allés",
+        "aller"
+      ],
+      "reponse": "allée",
+      "explication": "Le sujet « ma mère » est féminin singulier : on ajoute un e."
+    },
+    {
+      "phrase": "Les coureurs sont ___ avant le délai prévu.",
+      "options": [
+        "arrivés",
+        "arrivé",
+        "arrivée",
+        "arriver"
+      ],
+      "reponse": "arrivés",
+      "explication": "« Les coureurs » est masculin pluriel : on ajoute un s."
+    },
+    {
+      "phrase": "Les invités sont ___ à l'heure.",
+      "options": [
+        "venus",
+        "venu",
+        "venues",
+        "venue"
+      ],
+      "reponse": "venus",
+      "explication": "« Les invités » est masculin pluriel : -s, sans e."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « elle est allé » ou « elle est allée » ?",
+      "r": "« Elle est allée » : avec être, le participe passé s'accorde avec le sujet, ici féminin singulier."
+    },
+    {
+      "q": "Pourquoi le participe passé s'accorde-t-il avec le sujet après « être » ?",
+      "r": "Parce qu'il fonctionne comme un adjectif attribut : on écrit « elle est partie » comme on écrit « elle est contente »."
+    },
+    {
+      "q": "Faut-il accorder avec le « vous » de politesse ?",
+      "r": "Oui, avec la personne à qui l'on parle : « Monsieur, vous êtes venu », « Mesdames, vous êtes venues »."
+    },
+    {
+      "q": "Comment savoir si un verbe se conjugue avec « être » ou « avoir » ?",
+      "r": "Mets-le au passé composé avec « il » : « il est tombé », « il a mangé ». Pour sortir, monter, descendre ou rentrer, regarde s'il y a un COD : avec un COD, c'est avoir."
+    }
+  ],
+  "liees": [
+    "accord-participe-passe-avoir-cod-avant",
+    "accord-participe-passe-avoir-cod-apres",
+    "participe-passe-verbes-pronominaux-cod",
+    "accord-adjectif-qualificatif"
+  ]
+}

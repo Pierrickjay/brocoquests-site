@@ -1,0 +1,119 @@
+{
+  "id": 27,
+  "slug": "participe-passe-fait-infinitif",
+  "miseAJour": "2026-11-17",
+  "h1": "« Je les ai fait venir » ou « je les ai faits venir » ?",
+  "title": "Fait + infinitif : pourquoi « fait » reste invariable",
+  "description": "« Je les ai fait venir » : suivi d'un infinitif, « fait » ne s'accorde jamais. La règle, le cas de « laissé », les pièges et un quiz express.",
+  "reponseCourte": "<p>Quand <strong>fait</strong> est suivi d'un infinitif, il reste <strong>toujours invariable</strong>, même si un COD est placé avant : <em class=\"ex\">je les ai fait venir</em>, <em class=\"ex\">elle s'est fait couper les cheveux</em>. « Faire + infinitif » forme un bloc : ce n'est pas « fait » qui reçoit le COD, mais tout le groupe.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">fait + infinitif</p><p>Toujours <strong>invariable</strong>.</p><p><em class=\"ex\">La tarte qu'elle a fait cuire</em></p></div><div><p class=\"big\">fait seul</p><p>Règle habituelle : <strong>accord</strong> avec le COD placé avant (fait<mark>e</mark>).</p><p><em class=\"ex\">La tarte qu'elle a faite</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Se faire » + infinitif : invariable aussi</h3><p>L'auxiliaire être ne change rien : <em class=\"ex\">elle s'est fait avoir</em>, <em class=\"ex\">ils se sont fait remarquer</em>, <em class=\"ex\">elles se sont fait opérer</em>. Dès qu'un infinitif suit, « fait » reste au masculin singulier.</p><h3>Sans infinitif, « fait » s'accorde</h3><p>Sans infinitif derrière, on revient à la règle normale : <em class=\"ex\">les gâteaux qu'il a faits</em>, <em class=\"ex\">elle s'est faite belle</em>. Ici « belle » est un adjectif, pas un infinitif : accord.</p><h3>Et « laissé » + infinitif ?</h3><p>Traditionnellement, on accorde quand le COD fait l'action de l'infinitif : <em class=\"ex\">je les ai laissés partir</em>. Les rectifications orthographiques de 1990 permettent aussi de laisser « laissé » invariable, comme « fait » : <em class=\"ex\">je les ai laissé partir</em>. Les deux sont acceptés.</p><h3>Voir, entendre + infinitif</h3><p>Ces verbes suivent la règle classique : accord si le COD fait l'action (<em class=\"ex\">les musiciens que j'ai entendus jouer</em>), pas d'accord sinon (<em class=\"ex\">la chanson que j'ai entendu chanter</em>). Seul « fait » est toujours invariable.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Je les ai faits venir.",
+      "correct": "Je les ai fait venir.",
+      "explication": "« Fait » est suivi de l'infinitif « venir » : il reste invariable."
+    },
+    {
+      "faux": "Elle s'est faite avoir.",
+      "correct": "Elle s'est fait avoir.",
+      "explication": "« Se faire » + infinitif : fait ne s'accorde pas, même avec être."
+    },
+    {
+      "faux": "Ils se sont faits remarquer.",
+      "correct": "Ils se sont fait remarquer.",
+      "explication": "L'infinitif « remarquer » suit « fait » : invariable."
+    },
+    {
+      "faux": "La maison qu'ils ont faite construire.",
+      "correct": "La maison qu'ils ont fait construire.",
+      "explication": "Le COD placé avant ne compte pas : fait + infinitif reste invariable."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle les a ___ attendre dehors.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "« Fait » est suivi de l'infinitif « attendre » : invariable."
+    },
+    {
+      "phrase": "La pièce qu'il a ___ jouer était émouvante.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "Même avec « la pièce » placée avant, fait + infinitif ne s'accorde pas."
+    },
+    {
+      "phrase": "La directrice les a ___ travailler le week-end.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "Le sujet féminin et le COD pluriel n'y changent rien : fait + infinitif."
+    },
+    {
+      "phrase": "Il a ___ réparer sa voiture hier matin.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "« Fait réparer » : l'infinitif suit, donc pas d'accord."
+    },
+    {
+      "phrase": "Les documents qu'il a ___ signer sont prêts.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "« Fait signer » forme un bloc : invariable malgré « les documents »."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « je les ai fait venir » ou « je les ai faits venir » ?",
+      "r": "« Je les ai fait venir ». Suivi d'un infinitif, le participe « fait » reste toujours invariable."
+    },
+    {
+      "q": "Pourquoi « fait » ne s'accorde-t-il pas devant un infinitif ?",
+      "r": "Parce que le COD placé avant n'est pas vraiment le complément de « fait » : c'est lui qui fait l'action de l'infinitif (ce sont eux qui viennent). « Faire + infinitif » fonctionne comme un seul verbe."
+    },
+    {
+      "q": "« Elle s'est fait » ou « elle s'est faite » ?",
+      "r": "« Elle s'est fait » devant un infinitif : « elle s'est fait opérer ». « Elle s'est faite » sans infinitif, par exemple « elle s'est faite belle »."
+    },
+    {
+      "q": "Faut-il écrire « je les ai laissés partir » ou « laissé partir » ?",
+      "r": "Les deux sont acceptés. L'accord est la règle traditionnelle, et les rectifications de 1990 autorisent l'invariable, comme pour « fait »."
+    }
+  ],
+  "liees": [
+    "accord-participe-passe-avoir-cod-avant",
+    "participe-passe-avec-en",
+    "se-rendre-compte-accord",
+    "participe-passe-verbes-pronominaux-cod"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": 34,
+  "slug": "accord-sujet-verbe-inverse",
+  "miseAJour": "2026-11-17",
+  "h1": "Sujet placé après le verbe : comment accorder ?",
+  "title": "Accord sujet-verbe inversé : la règle et les pièges",
+  "description": "Même placé après le verbe, le sujet commande l'accord : dans la cour jouent les enfants. Repère le vrai sujet, évite les pièges et fais le quiz.",
+  "reponseCourte": "<p>Le verbe s'accorde toujours avec son sujet, <strong>même quand le sujet est placé après lui</strong> : <em class=\"ex\">dans la cour jouent les enfants</em>, <em class=\"ex\">que pensent tes parents ?</em>. Pour ne pas te tromper, demande-toi <strong>qui fait l'action</strong>, puis remets la phrase dans l'ordre : <em class=\"ex\">les enfants jouent</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">sujet avant</p><p>Ordre habituel.</p><p><em class=\"ex\">Les invités arrivent enfin.</em></p></div><div><p class=\"big\">sujet après</p><p>Même accord : arriv<mark>ent</mark>.</p><p><em class=\"ex\">Enfin arrivent les invités.</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Dans les questions</h3><p>Le sujet se cache souvent en fin de phrase : <em class=\"ex\">où vont tes cousins ?</em> (tes cousins vont). Ne te laisse pas guider par le mot qui précède le verbe.</p><h3>Après le « que » d'une relative</h3><p>Dans <em class=\"ex\">les gâteaux que préparent mes enfants</em>, le sujet de « préparent » est « mes enfants », pas « que » ni « les gâteaux ». Avec un seul enfant : <em class=\"ex\">les gâteaux que prépare mon fils</em>.</p><h3>Après « ainsi », « peut-être », « à peine »</h3><p>Ces mots en tête de phrase entraînent souvent l'inversion : <em class=\"ex\">peut-être viendront-ils</em>, <em class=\"ex\">à peine étaient-elles parties</em>. Même chose dans les incises : <em class=\"ex\">« Bravo ! » crièrent les spectateurs</em>.</p><h3>Quand un complément ouvre la phrase</h3><p><em class=\"ex\">Sur la colline se dressent trois moulins</em> : le sujet est « trois moulins ». Cas particulier : avec « rester » en tête, on rencontre l'accord (<em class=\"ex\">restent deux questions</em>) comme l'invariable (<em class=\"ex\">reste deux questions</em>, au sens de « il reste »).</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Ainsi parla les sages.",
+      "correct": "Ainsi parlèrent les sages.",
+      "explication": "Qui parla ? Les sages : le verbe se met au pluriel."
+    },
+    {
+      "faux": "Que pense tes amis de ce film ?",
+      "correct": "Que pensent tes amis de ce film ?",
+      "explication": "Le sujet est « tes amis », placé après le verbe : pluriel."
+    },
+    {
+      "faux": "Dans le jardin pousse des tulipes.",
+      "correct": "Dans le jardin poussent des tulipes.",
+      "explication": "Ce sont les tulipes qui poussent : le verbe s'accorde avec elles."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Peut-être ___ raison sur ce point.",
+      "options": [
+        "a-t-il",
+        "ont-il",
+        "a-t-ils",
+        "as-t-il"
+      ],
+      "reponse": "a-t-il",
+      "explication": "Le sujet « il » est placé après le verbe et il est singulier : a-t-il."
+    },
+    {
+      "phrase": "Ainsi ___ les membres du jury.",
+      "options": [
+        "décidèrent",
+        "décida",
+        "décidait",
+        "décide"
+      ],
+      "reponse": "décidèrent",
+      "explication": "Qui décida ? Les membres du jury : pluriel."
+    },
+    {
+      "phrase": "Sur la table ___ plusieurs dossiers urgents.",
+      "options": [
+        "se trouvaient",
+        "se trouvait",
+        "se trouver",
+        "se trouvera"
+      ],
+      "reponse": "se trouvaient",
+      "explication": "Le sujet est « plusieurs dossiers », placé après le verbe : pluriel."
+    },
+    {
+      "phrase": "À peine ___ rentré qu'il reçut un appel.",
+      "options": [
+        "était-il",
+        "étaient-il",
+        "est-il",
+        "étais-il"
+      ],
+      "reponse": "était-il",
+      "explication": "Après « à peine », le sujet « il » passe derrière le verbe : 3e personne du singulier."
+    },
+    {
+      "phrase": "Peut-être ___ trop vite dans cette affaire.",
+      "options": [
+        "agissez-vous",
+        "agissez-tu",
+        "agissent-vous",
+        "agissais-vous"
+      ],
+      "reponse": "agissez-vous",
+      "explication": "Le sujet inversé est « vous » : le verbe prend la terminaison -ez."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment trouver le sujet quand il est après le verbe ?",
+      "r": "Demande-toi qui fait l'action. Dans « Que disent les enfants ? », qui est-ce qui dit ? Les enfants. Le sujet est donc « les enfants », au pluriel : on écrit « disent »."
+    },
+    {
+      "q": "On écrit « où sont passées mes clés » ou « où est passé mes clés » ?",
+      "r": "« Où sont passées mes clés ? » Le sujet est « mes clés », féminin pluriel : le verbe se met au pluriel et le participe, avec être, s'accorde aussi."
+    },
+    {
+      "q": "On écrit « vive les vacances » ou « vivent les vacances » ?",
+      "r": "Les deux se rencontrent. « Vive » est souvent traité comme une exclamation figée et reste invariable, mais l'accord « vivent les vacances » est aussi correct."
+    }
+  ],
+  "liees": [
+    "accord-participe-passe-etre",
+    "trait-d-union-interrogatif",
+    "passe-simple-3e-personne",
+    "accord-adjectif-qualificatif"
+  ]
+}

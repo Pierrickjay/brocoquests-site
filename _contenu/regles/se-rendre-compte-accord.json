@@ -1,0 +1,104 @@
+{
+  "id": 28,
+  "slug": "se-rendre-compte-accord",
+  "miseAJour": "2026-11-17",
+  "h1": "« Elle s'est rendu compte » ou « elle s'est rendue compte » ?",
+  "title": "Se rendre compte : rendu ou rendue ? La règle simple",
+  "description": "« Elle s'est rendu compte » : dans « se rendre compte », rendu ne s'accorde jamais. La règle, les pièges à éviter et un quiz express pour t'entraîner.",
+  "reponseCourte": "<p>Dans <strong>se rendre compte</strong>, le participe <strong>rendu</strong> reste toujours invariable : <em class=\"ex\">elle s'est rendu compte de son erreur</em>, <em class=\"ex\">ils se sont rendu compte du problème</em>. Le vrai COD est « compte », placé après le verbe, et « se » veut dire « à soi » : il n'y a donc rien à accorder.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">rendu compte</p><p>Avec « compte » : <strong>invariable</strong>.</p><p><em class=\"ex\">Elle s'est rendu compte du retard.</em></p></div><div><p class=\"big\">rendue</p><p>« Se rendre » seul (aller quelque part) : <strong>accord</strong> (rendu<mark>e</mark>).</p><p><em class=\"ex\">Elle s'est rendue à Lyon.</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Se rendre » tout seul s'accorde</h3><p>Sans « compte », « se rendre » veut dire aller quelque part ou capituler, et le participe s'accorde : <em class=\"ex\">elles se sont rendues à la mairie</em>, <em class=\"ex\">les soldats se sont rendus</em>.</p><h3>« Se rendre » + adjectif : accord aussi</h3><p>Quand « se rendre » est suivi d'un adjectif, « se » est le COD et il est placé avant : <em class=\"ex\">elle s'est rendue malade</em>, <em class=\"ex\">ils se sont rendus utiles</em>.</p><h3>« Je m'en suis rendu compte »</h3><p>Le pronom « en » (de cela) ne change rien : <em class=\"ex\">elle s'en est rendu compte trop tard</em>. Rendu reste invariable.</p><h3>« Compte » avec un p</h3><p>On rend des comptes, comme quand on compte : « compte » s'écrit avec un p. Le « conte » est une histoire, le « comte » un titre de noblesse.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elle s'est rendue compte de son erreur.",
+      "correct": "Elle s'est rendu compte de son erreur.",
+      "explication": "Le COD est « compte », placé après : rendu reste invariable."
+    },
+    {
+      "faux": "Ils se sont rendus compte du problème.",
+      "correct": "Ils se sont rendu compte du problème.",
+      "explication": "Même au pluriel, « rendu compte » ne prend jamais de s."
+    },
+    {
+      "faux": "Je m'en suis rendu conte trop tard.",
+      "correct": "Je m'en suis rendu compte trop tard.",
+      "explication": "On rend des comptes : « compte » s'écrit avec un p."
+    },
+    {
+      "faux": "Elle s'est rendu à la gare.",
+      "correct": "Elle s'est rendue à la gare.",
+      "explication": "Sans « compte », « se rendre » veut dire aller : on accorde."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Il s'est ___ compte qu'il était en retard.",
+      "options": [
+        "rendu",
+        "rendue",
+        "rendus",
+        "rendues"
+      ],
+      "reponse": "rendu",
+      "explication": "« Rendu compte » est toujours invariable."
+    },
+    {
+      "phrase": "Elles se sont ___ compte de l'erreur.",
+      "options": [
+        "rendu",
+        "rendue",
+        "rendus",
+        "rendues"
+      ],
+      "reponse": "rendu",
+      "explication": "Sujet féminin pluriel, mais « rendu compte » ne s'accorde jamais."
+    },
+    {
+      "phrase": "Nous nous sommes ___ compte trop tard.",
+      "options": [
+        "rendu",
+        "rendue",
+        "rendus",
+        "rendues"
+      ],
+      "reponse": "rendu",
+      "explication": "Le COD « compte » est placé après : pas d'accord."
+    },
+    {
+      "phrase": "Tu t'es ___ compte de ta chance ?",
+      "options": [
+        "rendu",
+        "rendue",
+        "rendus",
+        "rendues"
+      ],
+      "reponse": "rendu",
+      "explication": "Que « tu » soit un garçon ou une fille, on écrit « rendu compte »."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « elle s'est rendu compte » ou « elle s'est rendue compte » ?",
+      "r": "« Elle s'est rendu compte », sans e. Dans la locution « se rendre compte », le participe reste toujours invariable."
+    },
+    {
+      "q": "Pourquoi « rendu » ne s'accorde-t-il pas ?",
+      "r": "Parce que le COD du verbe est « compte », placé après. Le pronom « se » est un complément indirect (rendre compte à soi), qui ne déclenche pas l'accord."
+    },
+    {
+      "q": "« Ils se sont rendus » est-il correct ?",
+      "r": "Oui, quand il n'y a pas « compte » : « ils se sont rendus à la réunion ». Avec « compte », on écrit « ils se sont rendu compte »."
+    }
+  ],
+  "liees": [
+    "participe-passe-verbes-pronominaux-coi",
+    "participe-passe-verbes-pronominaux-cod",
+    "participe-passe-fait-infinitif",
+    "accord-participe-passe-etre"
+  ]
+}

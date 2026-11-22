@@ -1,33 +1,33 @@
 {
   "id": 29,
   "slug": "participe-passe-verbes-impersonnels",
-  "miseAJour": "2026-11-17",
-  "h1": "« La patience qu'il a fallu » : faut-il accorder le participe ?",
-  "title": "Participe passé des verbes impersonnels : la règle",
-  "description": "« La patience qu'il a fallu » : avec un verbe impersonnel, le participe passé reste invariable. Exemples, cas qui font hésiter, pièges et quiz express.",
-  "reponseCourte": "<p>Le participe passé d'un verbe employé à la forme impersonnelle, avec un <strong>il</strong> qui ne désigne personne, reste <strong>toujours invariable</strong> : <em class=\"ex\">la patience qu'il a fallu</em>, <em class=\"ex\">les orages qu'il y a eu</em>. Ce « il » n'a ni genre ni nombre, et le mot placé avant n'est pas un COD : rien ne s'accorde.</p>",
-  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">il a fait</p><p>Faire impersonnel (la météo) : <strong>invariable</strong>.</p><p><em class=\"ex\">Les froids qu'il a fait</em></p></div><div><p class=\"big\">elle a faites</p><p>Faire avec un vrai sujet et un COD placé avant : <strong>accord</strong> (fait<mark>es</mark>).</p><p><em class=\"ex\">Les crêpes qu'elle a faites</em></p></div></div>",
+  "miseAJour": "2026-11-19",
+  "h1": "Verbes impersonnels : le participe passé s'accorde-t-il ?",
+  "title": "Participe passé des verbes impersonnels : jamais d'accord",
+  "description": "Il a fallu, il a fait, il s'est agi : avec un verbe impersonnel, le participe reste invariable. L'astuce pour les repérer, les pièges et un quiz.",
+  "reponseCourte": "<p>Un verbe impersonnel se conjugue seulement avec un <strong>il</strong> qui ne représente personne : <em>il faut</em>, <em>il pleut</em>, <em>il y a</em>. Son participe passé reste <strong>toujours invariable</strong>, même avec un « que » placé avant : <em class=\"ex\">les efforts qu'il a fallu</em>, <em class=\"ex\">les chaleurs qu'il a fait</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">il = quelqu'un</p><p>On peut remplacer « il » par un prénom : <strong>règle habituelle</strong>.</p><p><em class=\"ex\">Les gâteaux qu'il a fait<mark>s</mark></em> → <em class=\"ex\">que Paul a faits</em> ✓</p></div><div><p class=\"big\">il = personne</p><p>Impossible de remplacer « il » : <strong>invariable</strong>.</p><p><em class=\"ex\">Les chaleurs qu'il a fait</em> → <em class=\"ex\">que Paul a faites</em> ✗</p></div></div>",
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Reconnaître un verbe impersonnel</h3><p>Le « il » ne remplace personne : tu ne peux pas demander « qui ? ». <em class=\"ex\">Il a neigé</em>, <em class=\"ex\">il a fallu partir</em>. Certains verbes ne s'emploient qu'ainsi (falloir, neiger, pleuvoir), d'autres le deviennent parfois (faire, y avoir, arriver, se passer).</p><h3>« Il y a eu », « il a fait »</h3><p>Ces tournures très courantes suivent la même règle : <em class=\"ex\">les grèves qu'il y a eu en décembre</em>, <em class=\"ex\">le froid qu'il a fait l'hiver dernier</em>. Pas d'accord.</p><h3>Même avec être</h3><p>À la forme impersonnelle, le participe reste au masculin singulier, même avec l'auxiliaire être : <em class=\"ex\">il est arrivé une histoire étrange</em>, <em class=\"ex\">il s'est passé des choses graves</em>.</p><h3>« Il s'agit » au passé</h3><p>« S'agir » n'existe qu'à la forme impersonnelle, donc son participe ne varie jamais : <em class=\"ex\">il s'est agi de questions délicates</em>.</p>"
+      "html": "<h3>« Fallu » ne s'accorde jamais</h3><p>« Falloir » s'emploie uniquement avec ce « il » qui ne représente personne. « Fallu » ne prend donc jamais de e ni de s : <em class=\"ex\">la patience qu'il a fallu</em>, <em class=\"ex\">les heures qu'il a fallu</em>.</p><h3>« Il y a eu » reste invariable</h3><p>« Il y a » est impersonnel lui aussi : <em class=\"ex\">les accidents qu'il y a eu sur cette route</em>. On n'écrit pas « qu'il y a eus ».</p><h3>« Il s'agit » ne passe jamais au pluriel</h3><p>Avec « s'agir », le sujet est toujours « il » : <em class=\"ex\">il s'agit de deux problèmes</em>, jamais « ils s'agissent ». Au passé, on écrit <em class=\"ex\">il s'est agi</em>, sans accord.</p>"
     }
   ],
   "pieges": [
     {
-      "faux": "La patience qu'il a fallue pour réussir.",
-      "correct": "La patience qu'il a fallu pour réussir.",
-      "explication": "« Falloir » est impersonnel : fallu ne s'accorde jamais."
+      "faux": "Les trois heures qu'il a fallues pour finir m'ont paru longues.",
+      "correct": "Les trois heures qu'il a fallu pour finir m'ont paru longues.",
+      "explication": "« Falloir » est impersonnel : « fallu » reste invariable."
     },
     {
-      "faux": "Les orages qu'il y a eus cette nuit.",
-      "correct": "Les orages qu'il y a eu cette nuit.",
-      "explication": "« Il y a » est impersonnel : eu reste invariable."
+      "faux": "Les orages qu'il y a eus hier ont tout inondé.",
+      "correct": "Les orages qu'il y a eu hier ont tout inondé.",
+      "explication": "« Il y a » ne représente personne : « eu » ne s'accorde pas."
     },
     {
-      "faux": "Il est arrivée une drôle d'histoire.",
-      "correct": "Il est arrivé une drôle d'histoire.",
-      "explication": "Le sujet est le « il » impersonnel : arrivé reste au masculin singulier, même avec être."
+      "faux": "Ils s'agissent de deux dossiers différents.",
+      "correct": "Il s'agit de deux dossiers différents.",
+      "explication": "« S'agir » se conjugue toujours avec « il », au singulier."
     }
   ],
   "quiz": [
@@ -40,29 +40,18 @@
         "fallues"
       ],
       "reponse": "fallu",
-      "explication": "« Falloir » est toujours impersonnel : fallu est invariable."
+      "explication": "« Falloir » est impersonnel : « fallu » ne s'accorde jamais."
     },
     {
-      "phrase": "Les erreurs qu'il s'est ___ de corriger étaient mineures.",
+      "phrase": "La rigueur qu'il a ___ était admirable.",
       "options": [
-        "agi",
-        "agie",
-        "agies",
-        "agis"
+        "fallu",
+        "fallus",
+        "fallue",
+        "fallues"
       ],
-      "reponse": "agi",
-      "explication": "« S'agir » n'existe qu'à la forme impersonnelle : agi ne s'accorde pas."
-    },
-    {
-      "phrase": "Les fortes chaleurs qu'il a ___ cet été ont surpris tout le monde.",
-      "options": [
-        "fait",
-        "faite",
-        "faites",
-        "fais"
-      ],
-      "reponse": "fait",
-      "explication": "Ici « il fait chaud » : faire est impersonnel, donc invariable."
+      "reponse": "fallu",
+      "explication": "Même avec « que » au féminin placé avant, « fallu » reste invariable."
     },
     {
       "phrase": "L'énergie qu'il a ___ pour finir était immense.",
@@ -73,30 +62,52 @@
         "fallues"
       ],
       "reponse": "fallu",
-      "explication": "Avec « il a fallu », jamais d'accord, même avec un nom féminin."
+      "explication": "Le « il » de « il faut » ne représente personne : pas d'accord."
+    },
+    {
+      "phrase": "Les fortes chaleurs qu'il a ___ cet été ont surpris tout le monde.",
+      "options": [
+        "fais",
+        "fait",
+        "faite",
+        "faites"
+      ],
+      "reponse": "fait",
+      "explication": "« Il fait chaud » est impersonnel : on ne peut pas remplacer « il » par un prénom, donc pas d'accord."
+    },
+    {
+      "phrase": "Les erreurs qu'il s'est ___ de corriger étaient mineures.",
+      "options": [
+        "agi",
+        "agie",
+        "agié",
+        "agies"
+      ],
+      "reponse": "agi",
+      "explication": "« Il s'agit » est impersonnel : « agi » reste invariable."
     }
   ],
   "faq": [
     {
-      "q": "On écrit « il a fallu » ou « il a fallue » ?",
-      "r": "Toujours « il a fallu ». Le verbe falloir ne s'emploie qu'avec un « il » impersonnel, et son participe ne s'accorde jamais."
+      "q": "On écrit « les efforts qu'il a fallu » ou « fallus » ?",
+      "r": "« Les efforts qu'il a fallu », sans s. « Falloir » est un verbe impersonnel : son participe passé ne s'accorde jamais."
     },
     {
-      "q": "Pourquoi « fallu » ne s'accorde-t-il jamais ?",
-      "r": "Le « il » impersonnel n'a ni genre ni nombre. Et le mot placé avant n'est pas un COD de « fallu » : rien ne peut déclencher l'accord."
+      "q": "Qu'est-ce qu'un verbe impersonnel ?",
+      "r": "C'est un verbe qui se conjugue seulement avec « il », et ce « il » ne désigne personne : il faut, il pleut, il neige, il s'agit, il y a."
     },
     {
-      "q": "« Il s'est passé » ou « il s'est passée » ?",
-      "r": "« Il s'est passé quelque chose », sans e : c'est une construction impersonnelle. De même : « il s'est passé des choses étranges »."
+      "q": "On écrit « les chaleurs qu'il a fait » ou « faites » ?",
+      "r": "« Les chaleurs qu'il a fait ». Dans « il fait chaud », « il » ne représente personne : le verbe est impersonnel, donc pas d'accord."
     },
     {
-      "q": "Quels verbes peuvent être impersonnels ?",
-      "r": "Falloir, pleuvoir, neiger ou s'agir le sont toujours. Faire, y avoir, arriver ou se passer le deviennent quand le « il » ne désigne personne."
+      "q": "Peut-on écrire « ils s'agissent » ?",
+      "r": "Non. « S'agir » se conjugue toujours avec « il » au singulier : « il s'agit de mes amis »."
     }
   ],
   "liees": [
-    "participe-passe-avec-en",
     "accord-participe-passe-avoir-cod-avant",
+    "participe-passe-avec-en",
     "participe-passe-fait-infinitif",
     "bases-de-grammaire"
   ]

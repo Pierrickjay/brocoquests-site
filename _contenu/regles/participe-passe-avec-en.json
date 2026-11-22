@@ -1,38 +1,38 @@
 {
   "id": 26,
   "slug": "participe-passe-avec-en",
-  "miseAJour": "2026-11-17",
-  "h1": "Participe passé avec « en » : faut-il accorder ?",
-  "title": "Participe passé avec en : la règle pour ne plus hésiter",
-  "description": "Avec « en », le participe passé reste invariable : des fraises ? J'en ai mangé. La règle, les cas qui font hésiter, les pièges et un quiz express.",
-  "reponseCourte": "<p>Quand le pronom <strong>en</strong> est le complément d'objet direct placé avant le verbe, le participe passé conjugué avec avoir <strong>reste invariable</strong> : <em class=\"ex\">des cerises ? J'en ai mangé</em>. « En » veut dire « de cela » : il désigne une quantité vague, sans genre ni nombre, donc il n'y a rien avec quoi accorder.</p>",
-  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">j'en ai pris</p><p>Le COD est <strong>en</strong> : participe <strong>invariable</strong>.</p><p><em class=\"ex\">Des photos ? J'en ai pris.</em></p></div><div><p class=\"big\">je les ai prises</p><p>Le COD est <strong>les</strong>, placé avant : <strong>accord</strong> (pris<mark>es</mark>).</p><p><em class=\"ex\">Les photos ? Je les ai prises.</em></p></div></div>",
+  "miseAJour": "2026-11-19",
+  "h1": "Participe passé avec « en » : faut-il l'accorder ?",
+  "title": "Participe passé avec en : accord ou pas ? La règle simple",
+  "description": "Avec « en », le participe passé ne s'accorde pas : des pommes, j'en ai mangé. La règle expliquée simplement, les pièges et un quiz express.",
+  "reponseCourte": "<p>Quand le pronom <strong>en</strong> est placé avant un verbe conjugué avec avoir, le participe passé <strong>ne s'accorde pas</strong> : <em class=\"ex\">des pommes, j'en ai mangé</em>. « En » veut dire « de cela » : il ne donne ni le genre ni le nombre, donc le participe reste au masculin singulier.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">les</p><p>Le pronom reprend des choses précises : <strong>accord</strong>.</p><p><em class=\"ex\">Ces pommes, je les ai mangé<mark>es</mark></em></p></div><div><p class=\"big\">en</p><p>Le pronom reprend une quantité floue : <strong>pas d'accord</strong>.</p><p><em class=\"ex\">Des pommes, j'en ai mangé</em></p></div></div>",
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Quand « en » n'est pas le COD</h3><p>Parfois « en » complète un nom au lieu d'être le COD. Dans <em class=\"ex\">cette ville, les photos que j'en ai prises</em>, le COD est « que » (les photos), placé avant : on accorde. « En » veut seulement dire « de cette ville ».</p><h3>Avec être, rien ne change</h3><p>La règle ne concerne que l'auxiliaire avoir. Avec être, le participe s'accorde avec le sujet comme d'habitude : <em class=\"ex\">ce voyage ? Elle en est revenue ravie</em>.</p><h3>Avec « combien », « autant », « plus »</h3><p>Quand un mot de quantité accompagne « en », l'usage hésite et certains grammairiens admettent l'accord (<em class=\"ex\">des livres, combien en as-tu lus ?</em>). L'invariable reste correct : <em class=\"ex\">combien en as-tu lu ?</em> Dans le doute, n'accorde pas.</p>"
+      "html": "<h3>Un mot de quantité ne change rien</h3><p>Même avec <em>beaucoup</em>, <em>trois</em> ou <em>plusieurs</em> après le verbe, le participe reste invariable : <em class=\"ex\">des films, j'en ai vu beaucoup</em>, <em class=\"ex\">des lettres, il en a écrit trois</em>.</p><h3>Quand « en » n'est pas le COD</h3><p>Le COD est le mot qui répond à la question « quoi ? ». Parfois, c'est « que » qui joue ce rôle, et « en » veut dire autre chose. On accorde alors avec « que » : <em class=\"ex\">Ce voyage ? Les photos que j'en ai rapporté<mark>es</mark> sont floues.</em> Ici, « que » = les photos, et « en » = de ce voyage.</p><h3>Avec être, on accorde normalement</h3><p>La règle de « en » vaut pour l'auxiliaire avoir. Avec être, le participe s'accorde avec le sujet, comme d'habitude : <em class=\"ex\">Elles en sont revenu<mark>es</mark> ravies.</em></p><h3>Une tolérance existe</h3><p>Certains grammairiens admettent aussi l'accord (<em>des pommes, j'en ai mangées</em>). Mais la règle enseignée reste de ne pas accorder : c'est le choix le plus sûr, à l'école comme au travail.</p>"
     }
   ],
   "pieges": [
     {
       "faux": "Des fraises ? J'en ai achetées ce matin.",
       "correct": "Des fraises ? J'en ai acheté ce matin.",
-      "explication": "Le COD est « en », qui n'a ni genre ni nombre : pas d'accord."
+      "explication": "« En » ne dit pas combien ni lesquelles : le participe reste au masculin singulier."
     },
     {
       "faux": "Des efforts, il en a fournis.",
       "correct": "Des efforts, il en a fourni.",
-      "explication": "« En » remplace « des efforts » mais ne transmet pas le pluriel : fourni reste invariable."
+      "explication": "Le COD placé avant est « en » : pas d'accord."
     },
     {
-      "faux": "Des pommes ? J'en ai mangées deux.",
-      "correct": "Des pommes ? J'en ai mangé deux.",
-      "explication": "« En » ne déclenche pas d'accord et « deux » est placé après le verbe : invariable."
+      "faux": "Des photos, j'en ai prises des dizaines.",
+      "correct": "Des photos, j'en ai pris des dizaines.",
+      "explication": "« Des dizaines » ne change rien : avec « en », le participe ne bouge pas."
     },
     {
-      "faux": "Cette ville, les photos que j'en ai pris sont superbes.",
-      "correct": "Cette ville, les photos que j'en ai prises sont superbes.",
-      "explication": "Ici le COD est « que » (les photos), placé avant : on accorde, « en » complète seulement le nom."
+      "faux": "Des amies, j'en ai invitées plusieurs.",
+      "correct": "Des amies, j'en ai invité plusieurs.",
+      "explication": "Même si on parle de filles, « en » bloque l'accord."
     }
   ],
   "quiz": [
@@ -45,7 +45,7 @@
         "lues"
       ],
       "reponse": "lu",
-      "explication": "« En » est le COD et remplace « des romans » : le participe reste invariable."
+      "explication": "« En » remplace « des romans » sans dire combien : pas d'accord."
     },
     {
       "phrase": "Des erreurs, il en a ___ beaucoup.",
@@ -56,18 +56,18 @@
         "faites"
       ],
       "reponse": "fait",
-      "explication": "« En » ne s'accorde pas, et « beaucoup » ne change rien : fait."
+      "explication": "« Beaucoup » ne change rien : avec « en », le participe reste invariable."
     },
     {
-      "phrase": "Des conseils ? Tu en as ___ de bons.",
+      "phrase": "Des conseils ? Il en a ___ de bons.",
       "options": [
-        "donné",
-        "donnés",
-        "données",
-        "donnée"
+        "reçu",
+        "reçus",
+        "reçue",
+        "reçues"
       ],
-      "reponse": "donné",
-      "explication": "Avec « en » placé avant, donné reste invariable."
+      "reponse": "reçu",
+      "explication": "Le COD placé avant est « en » : le participe reste au masculin singulier."
     },
     {
       "phrase": "Des films, elle en a ___ beaucoup cet hiver.",
@@ -78,7 +78,7 @@
         "vues"
       ],
       "reponse": "vu",
-      "explication": "Le COD est « en » : pas d'accord, même si « films » est au pluriel."
+      "explication": "Avec « en », on n'accorde pas, même avec « beaucoup » après le verbe."
     },
     {
       "phrase": "Des lettres ? Il en a ___ ce matin.",
@@ -89,25 +89,36 @@
         "envoyées"
       ],
       "reponse": "envoyé",
-      "explication": "Même pour « des lettres », féminin pluriel, « en » ne transmet aucun accord."
+      "explication": "« En » ne donne ni genre ni nombre : « envoyé » reste invariable."
+    },
+    {
+      "phrase": "Ces lettres, il les a ___ ce matin.",
+      "options": [
+        "envoyé",
+        "envoyés",
+        "envoyée",
+        "envoyées"
+      ],
+      "reponse": "envoyées",
+      "explication": "Ici le pronom est « les » (ces lettres, féminin pluriel) : on accorde."
     }
   ],
   "faq": [
     {
       "q": "On écrit « j'en ai mangé » ou « j'en ai mangés » ?",
-      "r": "« J'en ai mangé », sans accord. Avec le pronom « en » complément d'objet direct, le participe passé conjugué avec avoir reste invariable."
+      "r": "« J'en ai mangé », sans accord. Avec le pronom « en », le participe passé conjugué avec avoir reste au masculin singulier."
     },
     {
-      "q": "Pourquoi le participe ne s'accorde-t-il pas avec « en » ?",
-      "r": "Parce que « en » désigne une quantité vague (« de cela »), sans genre ni nombre précis. L'accord avec le COD placé avant n'a donc rien sur quoi s'appuyer."
+      "q": "Pourquoi le participe passé ne s'accorde pas avec « en » ?",
+      "r": "Parce que « en » veut dire « de cela » et parle d'une quantité floue. Il ne donne ni genre ni nombre, donc il n'y a rien avec quoi accorder."
     },
     {
-      "q": "Faut-il accorder après « combien en » ?",
-      "r": "« Combien en as-tu lu ? » est correct. Certains grammairiens admettent aussi l'accord dans ce cas, mais l'invariable reste la forme la plus sûre."
+      "q": "Est-ce une faute d'accorder avec « en » ?",
+      "r": "Certains grammairiens admettent l'accord, mais la règle enseignée est de ne pas accorder. Dans un examen ou un écrit professionnel, laisse le participe invariable."
     },
     {
-      "q": "La règle s'applique-t-elle avec l'auxiliaire être ?",
-      "r": "Non. Avec être, le participe s'accorde avec le sujet comme d'habitude : « elle en est revenue ravie »."
+      "q": "Et avec l'auxiliaire être ?",
+      "r": "Avec être, on accorde avec le sujet, comme d'habitude : « elles en sont revenues »."
     }
   ],
   "liees": [

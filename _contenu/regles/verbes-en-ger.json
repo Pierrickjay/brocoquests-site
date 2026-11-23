@@ -1,0 +1,35 @@
+{
+  "id": 47,
+  "slug": "verbes-en-ger",
+  "miseAJour": "2026-11-22",
+  "h1": "« Nous mangeons » ou « nous mangons » : la règle des verbes en -ger",
+  "title": "Verbes en -ger : quand ajouter un e après le g ?",
+  "description": "Nous mangeons ou nous mangons ? Dans les verbes en -ger, on ajoute un e après le g devant a et o. La règle simple, les pièges et un quiz express.",
+  "reponseCourte": "<p>Dans les verbes en -ger (manger, nager, bouger), on ajoute un <strong>e</strong> après le g devant <strong>a</strong> et <strong>o</strong> : <em class=\"ex\">nous mang<mark>e</mark>ons</em>, <em class=\"ex\">il nag<mark>e</mark>ait</em>. Ce e ne se prononce pas : il garde le son « j ». Sans lui, on lirait « gu », comme dans « gare ». Devant e et i, pas besoin : <em class=\"ex\">vous mangez</em>, <em class=\"ex\">nous mangions</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ge</p><p>Devant <strong>a</strong> et <strong>o</strong>.</p><p><em class=\"ex\">nous mang<mark>e</mark>ons</em> <em class=\"ex\">je mang<mark>e</mark>ais</em> <em class=\"ex\">en mang<mark>e</mark>ant</em></p></div><div><p class=\"big\">g</p><p>Devant <strong>e</strong> et <strong>i</strong>.</p><p><em class=\"ex\">je mange</em> <em class=\"ex\">vous mangez</em> <em class=\"ex\">nous mangions</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Pas seulement avec « nous »</h3><p>Le e apparaît à chaque fois qu'un a ou un o suit le g : à l'imparfait (<em class=\"ex\">je rangeais</em>, <em class=\"ex\">ils rangeaient</em>), au passé simple (<em class=\"ex\">il rangea</em>, <em class=\"ex\">nous rangeâmes</em>) et au participe présent (<em class=\"ex\">en rangeant</em>). Seule exception au passé simple : <em class=\"ex\">ils rangèrent</em>, car le g est suivi d'un e.</p><h3>« Nous mangions » : pas de e en plus</h3><p>À l'imparfait, nous et vous se terminent par -ions et -iez. Devant i, le g se prononce déjà « j » : <em class=\"ex\">nous mangions</em>, <em class=\"ex\">vous nagiez</em>. On n'écrit jamais « mangeions ».</p><h3>Protéger, alléger : un accent en plus</h3><p>Les verbes en -éger suivent la même règle du e (<em class=\"ex\">nous protégeons</em>) et changent aussi leur accent devant un e muet : <em class=\"ex\">je protège</em>, <em class=\"ex\">ils allègent</em>.</p><h3>Le saviez-vous ?</h3><p>Ce petit e muet se cache aussi dans des noms : <em class=\"ex\">plongeon</em>, <em class=\"ex\">nageoire</em>, <em class=\"ex\">pigeon</em>, <em class=\"ex\">bourgeon</em>. C'est lui qui fait qu'on dit « pijon » et pas « pigon ».</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Nous voyagons souvent en train.", "correct": "Nous voyageons souvent en train.", "explication": "Le g est suivi d'un o : on ajoute un e pour garder le son « j »." },
+    { "faux": "Il rangait ses affaires.", "correct": "Il rangeait ses affaires.", "explication": "Devant le a de -ait, il faut un e après le g." },
+    { "faux": "Hier, nous mangeions au restaurant.", "correct": "Hier, nous mangions au restaurant.", "explication": "Le g est suivi d'un i : il se prononce déjà « j », pas de e à ajouter." },
+    { "faux": "En plongant dans l'eau, il a perdu ses lunettes.", "correct": "En plongeant dans l'eau, il a perdu ses lunettes.", "explication": "Le participe présent se termine par -ant : e après le g." }
+  ],
+  "quiz": [
+    { "phrase": "Nous ___ ensemble le samedi matin.", "options": ["nageons", "nagons", "nageont"], "reponse": "nageons", "explication": "Le g est suivi d'un o : on ajoute un e." },
+    { "phrase": "Elle ___ tranquillement sa soupe.", "options": ["mangeait", "mangait", "mangeais"], "reponse": "mangeait", "explication": "Devant le a de -ait, un e après le g. Et avec elle, la terminaison est -ait." },
+    { "phrase": "Nous ___ les meubles pour faire de la place.", "options": ["bougeons", "bougons"], "reponse": "bougeons", "explication": "Sans le e, on lirait « bougons », avec un g dur." },
+    { "phrase": "Nous ___ les données dans le système.", "options": ["chargeons", "chargons", "chargeont"], "reponse": "chargeons", "explication": "Le g est suivi d'un o : e obligatoire." },
+    { "phrase": "Nous ___ les tâches équitablement.", "options": ["partageons", "partagons"], "reponse": "partageons", "explication": "Devant le o de -ons, on ajoute un e pour garder le son « j »." }
+  ],
+  "faq": [
+    { "q": "On écrit « nous mangeons » ou « nous mangons » ?", "r": "On écrit « nous mangeons ». Devant a et o, les verbes en -ger ajoutent un e après le g." },
+    { "q": "Pourquoi ajoute-t-on un e dans « il mangeait » ?", "r": "Pour garder le son « j ». Sans ce e, « gai » se prononcerait comme dans « gaieté », avec un g dur." },
+    { "q": "« Nous mangions » prend-il un e ?", "r": "Non. Le g est suivi d'un i, il se prononce déjà « j ». On écrit « nous mangions », « vous mangiez »." }
+  ],
+  "liees": ["verbes-en-cer", "verbes-en-yer", "verbes-en-eler-eter", "futur-ou-conditionnel-ai-ais"]
+}

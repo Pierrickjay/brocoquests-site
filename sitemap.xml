@@ -154,6 +154,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://brocoquests.fr/orthographe/verbes-en-yer/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brocoquests.fr/orthographe/verbes-en-eler-eter/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brocoquests.fr/orthographe/verbes-en-cer/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brocoquests.fr/orthographe/verbes-en-ger/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://brocoquests.fr/orthographe/imperatif-sans-s/</loc>
     <lastmod>2026-11-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -162,6 +186,12 @@
   <url>
     <loc>https://brocoquests.fr/orthographe/il-faut-que-subjonctif/</loc>
     <lastmod>2026-11-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brocoquests.fr/orthographe/apres-que-indicatif/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

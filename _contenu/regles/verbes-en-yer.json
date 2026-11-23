@@ -1,0 +1,36 @@
+{
+  "id": 44,
+  "slug": "verbes-en-yer",
+  "miseAJour": "2026-11-22",
+  "h1": "« Il emploie » ou « il employe » : comment conjuguer les verbes en -yer ?",
+  "title": "Verbes en -yer : y ou i ? La règle pour bien conjuguer",
+  "description": "Il emploie ou il employe ? Dans les verbes en -yer, le y devient i devant un e muet. La règle simple, le cas de payer, les pièges et un quiz express.",
+  "reponseCourte": "<p>Dans les verbes en <strong>-oyer</strong> et <strong>-uyer</strong> (employer, nettoyer, appuyer), le <strong>y</strong> devient <strong>i</strong> devant un e muet, c'est-à-dire un e qu'on n'entend pas : <em class=\"ex\">il emplo<mark>i</mark>e</em>, <em class=\"ex\">ils appu<mark>i</mark>ent</em>. Avec nous et vous, le y reste : <em class=\"ex\">nous employons</em>. Les verbes en <strong>-ayer</strong>, comme payer, acceptent les deux : <em class=\"ex\">je paie</em> ou <em class=\"ex\">je paye</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">i</p><p>Devant un <strong>e muet</strong> : je, tu, il, ils au présent.</p><p><em class=\"ex\">j'emplo<mark>i</mark>e</em> <em class=\"ex\">tu nettoies</em> <em class=\"ex\">ils essuient</em></p></div><div><p class=\"big\">y</p><p>Partout ailleurs : <strong>nous</strong>, <strong>vous</strong>, imparfait, participe.</p><p><em class=\"ex\">nous emplo<mark>y</mark>ons</em> <em class=\"ex\">vous nettoyez</em> <em class=\"ex\">il essuyait</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>« Ils emploient » : pas de y avec ils</h3><p>La terminaison -ent ne se prononce pas : c'est un e muet. Le y se change donc en i : <em class=\"ex\">ils emploient</em>, <em class=\"ex\">elles s'ennuient</em>. On n'écrit jamais « ils employent ».</p><h3>« Nous employions » : un y puis un i</h3><p>À l'imparfait et au subjonctif, nous et vous gardent le y du verbe et ajoutent le i de la terminaison : <em class=\"ex\">hier, nous nettoyions</em>, <em class=\"ex\">il faut que vous essuyiez</em>. Les deux lettres se suivent, même si on les entend à peine.</p><h3>Au futur, le i revient</h3><p>Le e du futur et du conditionnel est muet, donc le y devient i : <em class=\"ex\">j'emploierai</em>, <em class=\"ex\">il nettoierait</em>. Attention à <strong>envoyer</strong> et <strong>renvoyer</strong>, qui sont irréguliers : <em class=\"ex\">j'enverrai</em>, <em class=\"ex\">tu renverrais</em>.</p><h3>Payer, essayer, balayer : deux orthographes</h3><p>Les verbes en -ayer peuvent garder le y ou prendre le i : <em class=\"ex\">il paie</em> ou <em class=\"ex\">il paye</em>, <em class=\"ex\">j'essaierai</em> ou <em class=\"ex\">j'essayerai</em>. Les deux sont corrects. Seuls quelques verbes rares en -eyer, comme grasseyer, gardent toujours le y.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il employe un nouveau stagiaire.", "correct": "Il emploie un nouveau stagiaire.", "explication": "Le e final est muet : le y devient i." },
+    { "faux": "Ils appuyent sur le bouton.", "correct": "Ils appuient sur le bouton.", "explication": "Avec ils, la terminaison -ent est muette : on écrit i, pas y." },
+    { "faux": "Tu t'ennuyes ?", "correct": "Tu t'ennuies ?", "explication": "Devant le e muet de la terminaison, le y d'ennuyer devient i." },
+    { "faux": "Je vous envoierai le dossier demain.", "correct": "Je vous enverrai le dossier demain.", "explication": "Envoyer est irrégulier au futur : j'enverrai, tu enverras." }
+  ],
+  "quiz": [
+    { "phrase": "Elle ___ son vélo tous les samedis matin.", "options": ["nettoie", "nettoye"], "reponse": "nettoie", "explication": "Le e final est muet, donc le y de nettoyer devient i." },
+    { "phrase": "Ils ___ leur argent dans les loisirs.", "options": ["emploient", "employent"], "reponse": "emploient", "explication": "Avec ils, la terminaison -ent est muette : y devient i." },
+    { "phrase": "Elle ___ ses lunettes avec un chiffon.", "options": ["essuie", "essuye"], "reponse": "essuie", "explication": "Devant le e muet, le y d'essuyer devient i." },
+    { "phrase": "Tu ___ un message à ta sœur ?", "options": ["envoies", "envoyes"], "reponse": "envoies", "explication": "La terminaison -es est muette : le y d'envoyer devient i." },
+    { "phrase": "Nous ___ le garage tous les printemps.", "options": ["nettoyons", "nettoions"], "reponse": "nettoyons", "explication": "Avec nous, la terminaison -ons se prononce : le y reste." }
+  ],
+  "faq": [
+    { "q": "On écrit « il emploie » ou « il employe » ?", "r": "On écrit « il emploie ». Dans les verbes en -oyer et -uyer, le y devient i devant un e muet." },
+    { "q": "« Je paie » ou « je paye » : lequel est correct ?", "r": "Les deux. Les verbes en -ayer (payer, essayer, balayer) peuvent garder le y ou le changer en i." },
+    { "q": "Pourquoi écrit-on « nous employions » avec un y et un i ?", "r": "Le y appartient au verbe et le i à la terminaison de l'imparfait (-ions). Comme le y ne se trouve pas devant un e muet, il reste, et le i s'ajoute." },
+    { "q": "Comment conjuguer « envoyer » au futur ?", "r": "Envoyer est irrégulier au futur et au conditionnel : j'enverrai, tu enverras, il enverrait. Même chose pour renvoyer." }
+  ],
+  "liees": ["verbes-en-eler-eter", "verbes-en-cer", "verbes-en-ger", "ils-croient"]
+}

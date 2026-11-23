@@ -1,0 +1,36 @@
+{
+  "id": 45,
+  "slug": "verbes-en-eler-eter",
+  "miseAJour": "2026-11-22",
+  "h1": "« Il appelle » ou « il appèle » : la règle des verbes en -eler et -eter",
+  "title": "Verbes en -eler et -eter : ll, tt ou accent grave ?",
+  "description": "Il appelle ou il appèle ? J'achète ou j'achette ? Double consonne ou accent grave : la règle simple, les tolérances de 1990, les pièges et un quiz.",
+  "reponseCourte": "<p>Devant un e muet (un e qu'on n'entend pas), les verbes en -eler et -eter changent : soit ils doublent la consonne (<em class=\"ex\">j'appe<mark>ll</mark>e</em>, <em class=\"ex\">il je<mark>tt</mark>e</em>), soit ils prennent un accent grave (<em class=\"ex\">j'ach<mark>è</mark>te</em>, <em class=\"ex\">il g<mark>è</mark>le</em>). <strong>Appeler</strong>, <strong>jeter</strong> et leurs dérivés doublent toujours. Avec nous et vous, rien ne change au présent : <em class=\"ex\">nous appelons</em>, <em class=\"ex\">vous achetez</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ll / tt</p><p><strong>Appeler</strong>, <strong>jeter</strong> et leurs dérivés (rappeler, rejeter, projeter…).</p><p><em class=\"ex\">j'appe<mark>ll</mark>e</em> <em class=\"ex\">tu je<mark>tt</mark>es</em> <em class=\"ex\">ils rappellent</em></p></div><div><p class=\"big\">è</p><p>Acheter, geler, peler, modeler, harceler, congeler…</p><p><em class=\"ex\">j'ach<mark>è</mark>te</em> <em class=\"ex\">il g<mark>è</mark>le</em> <em class=\"ex\">elles pèlent</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Épeler, étiqueter, ficeler : deux orthographes</h3><p>Selon l'orthographe traditionnelle, beaucoup de verbes doublent la consonne : <em class=\"ex\">il épelle</em>, <em class=\"ex\">il étiquette</em>, <em class=\"ex\">il ficelle</em>. Les rectifications orthographiques de 1990 proposent l'accent grave pour tous ces verbes, sauf appeler, jeter et leurs dérivés : <em class=\"ex\">il épèle</em>, <em class=\"ex\">il étiquète</em>, <em class=\"ex\">il ficèle</em>. Les deux orthographes sont acceptées.</p><h3>Au futur, même avec nous et vous</h3><p>Le e du futur et du conditionnel est muet, donc le changement s'applique à toutes les personnes : <em class=\"ex\">nous appellerons</em>, <em class=\"ex\">vous achèterez</em>, <em class=\"ex\">ils jetteraient</em>.</p><h3>« Appelé » et « appeler » : un seul l</h3><p>Dans l'infinitif et le participe passé, le e qui suit la consonne se prononce : pas de changement. On écrit <em class=\"ex\">je t'ai appelé</em>, <em class=\"ex\">il faut jeter</em>, jamais « appellé ».</p><h3>Même logique pour lever, mener, peser</h3><p>Les verbes qui ont un e muet avant la dernière syllabe prennent aussi un accent grave : <em class=\"ex\">je lève</em>, <em class=\"ex\">il mène</em>, <em class=\"ex\">elle promène son chien</em>, <em class=\"ex\">nous promenons</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Il appèle ses amis chaque soir.", "correct": "Il appelle ses amis chaque soir.", "explication": "Appeler fait partie des verbes qui doublent toujours la consonne." },
+    { "faux": "J'achette ce livre.", "correct": "J'achète ce livre.", "explication": "Acheter ne double pas le t : il prend un accent grave." },
+    { "faux": "Je t'ai appellé hier soir.", "correct": "Je t'ai appelé hier soir.", "explication": "Dans « appelé », le e après le p se prononce : un seul l." },
+    { "faux": "Nous vous appelerons demain.", "correct": "Nous vous appellerons demain.", "explication": "Au futur, le e est muet à toutes les personnes : on double le l, même avec nous." }
+  ],
+  "quiz": [
+    { "phrase": "Elle ___ son chat depuis la fenêtre.", "options": ["appelle", "appèle", "apelle"], "reponse": "appelle", "explication": "Appeler double toujours le l devant un e muet." },
+    { "phrase": "Il ___ des légumes au marché chaque semaine.", "options": ["achète", "achette"], "reponse": "achète", "explication": "Acheter prend un accent grave, il ne double pas le t." },
+    { "phrase": "Elle ___ toujours les consignes avant de sortir.", "options": ["rappelle", "rappèle", "rapelle"], "reponse": "rappelle", "explication": "Rappeler est un dérivé d'appeler : il double aussi le l." },
+    { "phrase": "Il ___ son chien dans le parc tous les matins.", "options": ["promène", "prommène", "proméne"], "reponse": "promène", "explication": "Devant le e muet final, le e de promener prend un accent grave." },
+    { "phrase": "Ils ___ leurs vieux papiers au recyclage.", "options": ["jettent", "jètent"], "reponse": "jettent", "explication": "Jeter double toujours le t devant un e muet." }
+  ],
+  "faq": [
+    { "q": "On écrit « il appelle » ou « il appèle » ?", "r": "On écrit « il appelle », avec deux l. Appeler, jeter et leurs dérivés doublent toujours la consonne devant un e muet." },
+    { "q": "« J'achète » ou « j'achette » ?", "r": "« J'achète », avec un accent grave. Acheter ne double jamais le t." },
+    { "q": "Pourquoi « appelé » ne prend-il qu'un l ?", "r": "Parce que le e qui suit le p se prononce. On ne double la consonne que devant un e muet, comme dans « j'appelle »." },
+    { "q": "« Il épelle » ou « il épèle » ?", "r": "Les deux sont acceptés. « Il épelle » est l'orthographe traditionnelle, « il épèle » celle proposée par les rectifications de 1990." }
+  ],
+  "liees": ["verbes-en-yer", "verbes-en-cer", "verbes-en-ger", "passe-simple-3e-personne"]
+}

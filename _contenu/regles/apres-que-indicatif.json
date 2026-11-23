@@ -1,0 +1,36 @@
+{
+  "id": 50,
+  "slug": "apres-que-indicatif",
+  "miseAJour": "2026-11-22",
+  "h1": "« Après que » : indicatif ou subjonctif ?",
+  "title": "Après que + indicatif : la règle pour ne plus se tromper",
+  "description": "Après qu'il soit parti ou après qu'il est parti ? « Après que » se construit avec l'indicatif. La règle, le bon temps à choisir, les pièges et un quiz.",
+  "reponseCourte": "<p><strong>Après que</strong> se construit avec l'<strong>indicatif</strong>, pas avec le subjonctif : on écrit <em class=\"ex\">après qu'il est parti</em>, et non « après qu'il soit parti ». L'action est déjà faite, donc elle est certaine. Astuce : remplace par <strong>une fois que</strong>, qui se construit lui aussi avec l'indicatif.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">après que</p><p><strong>Indicatif</strong> : l'action a eu lieu.</p><p><em class=\"ex\">après qu'il est parti</em> <em class=\"ex\">après qu'elle a fini</em></p></div><div><p class=\"big\">avant que</p><p><strong>Subjonctif</strong> : l'action n'a pas encore eu lieu.</p><p><em class=\"ex\">avant qu'il soit parti</em> <em class=\"ex\">avant qu'elle ait fini</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Quel temps choisir ?</h3><p>Il dépend du verbe principal. Avec un présent : <em class=\"ex\">après qu'il a mangé, il fait la sieste</em>. Avec un imparfait : <em class=\"ex\">après qu'il avait mangé, il faisait la sieste</em>. Avec un futur : <em class=\"ex\">après qu'il aura mangé, il fera la sieste</em>. Avec un passé simple, dans un récit : <em class=\"ex\">après qu'il eut mangé, il fit la sieste</em>.</p><h3>« Eut » ou « eût », « fut » ou « fût » ?</h3><p>Après « après que », on écrit sans accent circonflexe : <em class=\"ex\">après qu'il <mark>eu</mark>t fini</em>, <em class=\"ex\">après qu'elle <mark>fu</mark>t partie</em>. Avec l'accent (eût, fût), c'est un subjonctif : c'est justement ce qu'il faut éviter ici.</p><h3>Pourquoi tant de gens disent « après qu'il soit » ?</h3><p>Par imitation de « avant que », qui demande le subjonctif. Cette tournure est très répandue à l'oral et se lit même chez des auteurs connus. Mais la règle de l'écrit soigné, celle de l'école et des examens, reste l'indicatif.</p><h3>Pour éviter le doute</h3><p>Quand le sujet est le même dans les deux parties de la phrase, utilise <strong>après</strong> + infinitif passé : <em class=\"ex\">après avoir mangé, il fait la sieste</em>, <em class=\"ex\">après être rentrée, elle a appelé</em>. Tu peux aussi employer un nom : <em class=\"ex\">après son départ</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Après qu'il soit parti, tout changea.", "correct": "Après qu'il fut parti, tout changea.", "explication": "Le départ a bien eu lieu : indicatif, ici au passé antérieur." },
+    { "faux": "Après qu'elle ait fini, elle se reposa.", "correct": "Après qu'elle eut fini, elle se reposa.", "explication": "« Ait » est un subjonctif : après « après que », on emploie l'indicatif." },
+    { "faux": "Je t'appellerai après que tu sois rentré.", "correct": "Je t'appellerai après que tu seras rentré.", "explication": "Avec un futur dans la phrase, on met le futur antérieur, qui est un temps de l'indicatif." },
+    { "faux": "Après qu'il eût mangé, il partit.", "correct": "Après qu'il eut mangé, il partit.", "explication": "Avec un accent circonflexe, « eût » est un subjonctif : on écrit « eut », sans accent." }
+  ],
+  "quiz": [
+    { "phrase": "Après qu'il ___ son discours, on applaudit.", "options": ["eut terminé", "ait terminé", "soit terminé"], "reponse": "eut terminé", "explication": "Le discours est terminé, c'est un fait : indicatif, au passé antérieur." },
+    { "phrase": "Après qu'elle ___ rentrée, elle appela.", "options": ["fut", "soit", "ait été"], "reponse": "fut", "explication": "« Soit » et « ait été » sont des subjonctifs : après « après que », on emploie l'indicatif." },
+    { "phrase": "Après qu'ils ___ mangé, ils partirent.", "options": ["eurent", "aient", "soient"], "reponse": "eurent", "explication": "Le repas a eu lieu : indicatif, et l'auxiliaire avoir pour manger." },
+    { "phrase": "Après qu'il ___ son café, il enfila son manteau.", "options": ["eut bu", "ait bu", "soit bu"], "reponse": "eut bu", "explication": "Remplace par « une fois qu'il eut bu » : c'est bien l'indicatif." },
+    { "phrase": "Après qu'ils ___ voté, les résultats tombèrent.", "options": ["eurent", "aient", "soient"], "reponse": "eurent", "explication": "Le vote est un fait accompli : indicatif, pas subjonctif." }
+  ],
+  "faq": [
+    { "q": "On dit « après qu'il soit » ou « après qu'il est » ?", "r": "La règle demande l'indicatif : « après qu'il est parti », « après qu'il a fini ». « Après qu'il soit » est très courant à l'oral, mais il est considéré comme fautif." },
+    { "q": "Pourquoi « avant que » prend le subjonctif et pas « après que » ?", "r": "Avec « avant que », l'action n'a pas encore eu lieu : elle est envisagée, donc subjonctif. Avec « après que », l'action est réalisée : c'est un fait, donc indicatif." },
+    { "q": "« Après qu'il eut » prend-il un accent circonflexe ?", "r": "Non. « Eut » sans accent est l'indicatif (passé antérieur). « Eût », avec accent, est un subjonctif et ne convient pas après « après que »." },
+    { "q": "Comment éviter la tournure « après que » ?", "r": "Si le sujet est le même, utilise « après » suivi d'un infinitif passé : « après avoir fini », « après être parti ». Sinon, un nom fonctionne aussi : « après son départ »." }
+  ],
+  "liees": ["il-faut-que-subjonctif", "passe-simple-3e-personne", "futur-ou-conditionnel-ai-ais", "malgre-que"]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 46,
+  "slug": "verbes-en-cer",
+  "miseAJour": "2026-11-22",
+  "h1": "« Nous commençons » ou « nous commencons » : la cédille des verbes en -cer",
+  "title": "Verbes en -cer : quand mettre une cédille sous le c ?",
+  "description": "Nous commençons ou nous commencons ? Dans les verbes en -cer, le c prend une cédille devant a et o. La règle simple, les pièges et un quiz express.",
+  "reponseCourte": "<p>Dans les verbes en -cer (lancer, commencer, placer), le c prend une <strong>cédille</strong> devant <strong>a</strong> et <strong>o</strong> : <em class=\"ex\">nous commen<mark>ç</mark>ons</em>, <em class=\"ex\">il lan<mark>ç</mark>ait</em>. Sans elle, on lirait le son « k », comme dans « bocal ». Devant e et i, pas de cédille : <em class=\"ex\">vous lancez</em>, <em class=\"ex\">nous lancions</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">ç</p><p>Devant <strong>a</strong> et <strong>o</strong>.</p><p><em class=\"ex\">nous lan<mark>ç</mark>ons</em> <em class=\"ex\">je lan<mark>ç</mark>ais</em> <em class=\"ex\">en lan<mark>ç</mark>ant</em></p></div><div><p class=\"big\">c</p><p>Devant <strong>e</strong> et <strong>i</strong>.</p><p><em class=\"ex\">je lan<mark>c</mark>e</em> <em class=\"ex\">vous lan<mark>c</mark>ez</em> <em class=\"ex\">nous lan<mark>c</mark>ions</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Pas seulement avec « nous »</h3><p>La cédille apparaît à chaque fois qu'un a ou un o suit le c : à l'imparfait (<em class=\"ex\">je plaçais</em>, <em class=\"ex\">ils plaçaient</em>), au passé simple (<em class=\"ex\">il plaça</em>, <em class=\"ex\">nous plaçâmes</em>) et au participe présent (<em class=\"ex\">en plaçant</em>).</p><h3>« Ils lancèrent » : sans cédille</h3><p>Au passé simple, la 3e personne du pluriel se termine par -èrent. Le c est suivi d'un e : pas de cédille. On écrit <em class=\"ex\">ils lancèrent</em>, <em class=\"ex\">elles commencèrent</em>.</p><h3>« Nous placions » : pas de cédille non plus</h3><p>À l'imparfait, nous et vous ont une terminaison en i : <em class=\"ex\">nous placions</em>, <em class=\"ex\">vous commenciez</em>. Le c se prononce déjà « s » devant i.</p><h3>Le saviez-vous ?</h3><p>La même cédille sert dans recevoir et apercevoir, devant a, o et u : <em class=\"ex\">je reçois</em>, <em class=\"ex\">il a aperçu</em>.</p>"
+    }
+  ],
+  "pieges": [
+    { "faux": "Nous commencons à comprendre.", "correct": "Nous commençons à comprendre.", "explication": "Le c est suivi d'un o : il faut une cédille pour garder le son « s »." },
+    { "faux": "Il lancait la balle.", "correct": "Il lançait la balle.", "explication": "Devant le a de -ait, le c prend une cédille." },
+    { "faux": "En avancant, il a trébuché.", "correct": "En avançant, il a trébuché.", "explication": "Le participe présent se termine par -ant : cédille devant le a." },
+    { "faux": "Ils lançèrent un appel au calme.", "correct": "Ils lancèrent un appel au calme.", "explication": "Devant un e, le c se prononce déjà « s » : la cédille est inutile." }
+  ],
+  "quiz": [
+    { "phrase": "Nous ___ notre journée par une réunion.", "options": ["commençons", "commencons", "commenssons"], "reponse": "commençons", "explication": "Le c est suivi d'un o : cédille." },
+    { "phrase": "Elle ___ sa voiture dans le garage.", "options": ["plaçait", "placait", "plassait"], "reponse": "plaçait", "explication": "Devant le a de -ait, le c prend une cédille." },
+    { "phrase": "Elle ___ un défi à ses adversaires avec confiance.", "options": ["lançait", "lancait", "lansait"], "reponse": "lançait", "explication": "Le c est suivi d'un a : cédille pour garder le son « s »." },
+    { "phrase": "Nous ___ notre projet depuis le début.", "options": ["finançons", "financons", "finançeons"], "reponse": "finançons", "explication": "Devant le o de -ons, cédille. Pas de e à ajouter : ça, c'est pour les verbes en -ger." },
+    { "phrase": "Nous ___ vers un accord définitif.", "options": ["avançons", "avanceons", "avanssons"], "reponse": "avançons", "explication": "Le c est suivi d'un o : on écrit ç." }
+  ],
+  "faq": [
+    { "q": "Pourquoi met-on une cédille dans « nous commençons » ?", "r": "Sans cédille, « co » se lirait « ko ». La cédille garde le son « s » du verbe commencer." },
+    { "q": "Faut-il une cédille dans « ils lancèrent » ?", "r": "Non. Le c est suivi d'un e, il se prononce déjà « s ». La cédille ne s'emploie que devant a, o et u." },
+    { "q": "« Nous placions » prend-il une cédille ?", "r": "Non. À l'imparfait, nous et vous se terminent par -ions et -iez : le c est suivi d'un i, donc pas de cédille." }
+  ],
+  "liees": ["verbes-en-ger", "verbes-en-yer", "verbes-en-eler-eter", "apercevoir"]
+}

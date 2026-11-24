@@ -1,7 +1,7 @@
 {
   "id": 72,
   "slug": "bien-sur",
-  "miseAJour": "2026-11-14",
+  "miseAJour": "2026-11-24",
   "h1": "« bien sûr » : en un ou deux mots, avec ou sans accent ?",
   "title": "bien sûr : la bonne orthographe (deux mots, un accent)",
   "description": "Bien sûr s'écrit en deux mots, sans trait d'union, avec un accent sur le u. La règle, les pièges (biensur, bien-sûr, bien sur) et un quiz express.",
@@ -11,6 +11,14 @@
     {
       "titre": "Les cas qui font hésiter",
       "html": "<h3>Ni « biensûr », ni « bien-sûr »</h3><p>L'expression s'écrit en deux mots séparés par une espace. Les formes soudées ou avec trait d'union (<em class=\"ex\">biensûr</em>, <em class=\"ex\">biensur</em>, <em class=\"ex\">bien-sûr</em>) sont des fautes.</p><h3>« Bien sur » existe aussi, sans accent</h3><p>Quand « bien » précède la préposition « sur » : <em class=\"ex\">pose le vase bien sur la table</em>, <em class=\"ex\">c'est bien sur cette route qu'il faut tourner</em>. Le test « évidemment » ne marche pas : pas d'accent.</p><h3>« Bien sûr » ne s'accorde pas</h3><p>C'est un adverbe, donc invariable : <em class=\"ex\">elles viendront, bien sûr</em>. L'adjectif sûr, lui, s'accorde et garde son accent : <em class=\"ex\">elle est sûre d'elle</em>, <em class=\"ex\">ils sont sûrs</em>.</p><h3>Le saviez-vous ?</h3><p>Les rectifications orthographiques de 1990 ont supprimé l'accent circonflexe sur beaucoup de u, mais pas sur sûr : il l'a gardé pour éviter la confusion avec sur.</p>"
+    },
+    {
+      "titre": "Sur ou sûr : la règle générale",
+      "html": "<p>Au-delà de « bien sûr », la même règle vaut partout : si tu peux remplacer le mot par <strong>certain</strong>, mets l'accent.</p><div class=\"compare\"><div><p class=\"big\">sûr</p><p>Adjectif : <strong>certain</strong>, fiable, sans danger.</p><p><em class=\"ex\">J'en suis sûr</em> → <em class=\"ex\">j'en suis certain</em> ✓</p></div><div><p class=\"big\">sur</p><p>Préposition : une <strong>position</strong>, un sujet.</p><p><em class=\"ex\">Sur la table</em> → <em class=\"ex\">certain la table</em> ✗</p></div></div><h3>Toute la famille de « sûr » garde l'accent</h3><p><em class=\"ex\">sûre</em>, <em class=\"ex\">sûrs</em>, <em class=\"ex\">sûres</em>, <em class=\"ex\">sûrement</em>, <em class=\"ex\">la sûreté</em>, <em class=\"ex\">à coup sûr</em>, <em class=\"ex\">pour sûr</em>, <em class=\"ex\">un endroit sûr</em> (sans danger).</p><h3>« Sur » sans accent : la préposition</h3><p>Elle indique une position ou un sujet : <em class=\"ex\">sur le toit</em>, <em class=\"ex\">un livre sur les volcans</em>, <em class=\"ex\">sur place</em>, <em class=\"ex\">un jour sur deux</em>. Il existe aussi un adjectif rare, <strong>sur</strong>, qui veut dire « un peu acide » : <em class=\"ex\">une pomme sure</em>.</p>"
+    },
+    {
+      "titre": "Les synonymes de « bien sûr »",
+      "html": "<p>Pour varier, choisis selon le ton :</p><ul><li><strong>Courants</strong> : <em class=\"ex\">évidemment</em>, <em class=\"ex\">naturellement</em>, <em class=\"ex\">certainement</em>, <em class=\"ex\">bien entendu</em></li><li><strong>Plus soutenus</strong> : <em class=\"ex\">assurément</em>, <em class=\"ex\">sans aucun doute</em>, <em class=\"ex\">cela va de soi</em></li><li><strong>Pour accepter une demande</strong> : <em class=\"ex\">volontiers</em>, <em class=\"ex\">avec plaisir</em>, <em class=\"ex\">bien volontiers</em></li><li><strong>Familiers</strong> : <em class=\"ex\">carrément</em>, <em class=\"ex\">et comment !</em></li></ul><p>Pour concéder un point avant de nuancer, préfère <em class=\"ex\">certes</em> : <em class=\"ex\">certes, il a raison, mais…</em></p>"
     }
   ],
   "pieges": [
@@ -101,6 +109,14 @@
     {
       "q": "Faut-il un trait d'union à « bien sûr » ?",
       "r": "Non. On écrit « bien sûr » en deux mots, séparés par une simple espace."
+    },
+    {
+      "q": "On écrit « sur » ou « sûr » ?",
+      "r": "« Sûr », avec accent, quand on peut dire « certain » : j'en suis sûr. « Sur », sans accent, pour une position ou un sujet : sur la table."
+    },
+    {
+      "q": "Quels sont les synonymes de « bien sûr » ?",
+      "r": "Évidemment, naturellement, certainement ou bien entendu. Pour accepter une demande : volontiers ou avec plaisir."
     }
   ],
   "liees": [

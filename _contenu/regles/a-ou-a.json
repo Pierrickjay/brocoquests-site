@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "miseAJour": "2026-11-09",
+  "miseAJour": "2026-11-24",
   "h1": "« a » ou « à » : comment ne plus se tromper ?",
   "title": "a ou à : la règle et l'astuce pour ne plus se tromper",
   "description": "a ou à ? Remplace par « avait » : si ça marche, pas d'accent. La règle expliquée simplement, les pièges (il y a, À majuscule) et un quiz express.",
@@ -10,6 +10,14 @@
     {
       "titre": "Les cas qui font hésiter",
       "html": "<h3>« Il y a » : toujours sans accent</h3><p>C'est le verbe avoir : <em class=\"ex\">il y a du monde</em> → <em class=\"ex\">il y avait du monde</em>. On n'écrit jamais « il y à ».</p><h3>« a » et « à » dans la même phrase</h3><p>Avec <em>avoir à</em> + infinitif, les deux se suivent : <em class=\"ex\">il a à travailler</em> (il avait à travailler). Teste chaque mot séparément.</p><h3>La question « a-t-il »</h3><p>Dans une question inversée, c'est encore le verbe avoir : <em class=\"ex\">a-t-il fini ?</em> → <em class=\"ex\">avait-il fini ?</em></p><h3>Le À majuscule garde son accent</h3><p>L'Académie française recommande de conserver les accents sur les majuscules : on écrit <em class=\"ex\">À demain !</em> et non « A demain ! ».</p>"
+    },
+    {
+      "titre": "Tu as ou tu a ?",
+      "html": "<p>Avec <strong>tu</strong>, le verbe avoir s'écrit toujours <strong>as</strong>, avec un s : <em class=\"ex\">tu as faim</em>, <em class=\"ex\">tu as raison</em>, <em class=\"ex\">tu as vu ?</em> « Tu a » est une faute, tout comme « tu à ».</p><ul><li><em class=\"ex\">j'ai</em></li><li><em class=\"ex\">tu as</em></li><li><em class=\"ex\">il, elle, on a</em></li></ul><p>Le s reste dans les questions : <em class=\"ex\">as-tu fini ?</em> Seule la 3e personne s'écrit <strong>a</strong>, et c'est elle qui se confond avec « à ».</p>"
+    },
+    {
+      "titre": "Comment taper à et À au clavier (Windows, Mac, smartphone)",
+      "html": "<h3>Sur Windows</h3><p>Sur un clavier AZERTY, le <strong>à</strong> a sa propre touche (celle du 0). Pour le <strong>À</strong> majuscule, maintiens <strong>Alt</strong> et tape <strong>0192</strong> sur le pavé numérique. Sur un clavier QWERTY, le à minuscule s'obtient avec <strong>Alt + 0224</strong>.</p><h3>Sur Mac</h3><p>Sur un clavier AZERTY, appuie sur la touche <strong>à</strong> ; pour <strong>À</strong>, active <strong>Verr. Maj</strong> puis appuie sur la même touche. Sur tous les claviers, tu peux aussi maintenir la touche <strong>A</strong> enfoncée : un menu propose à, â, á…</p><h3>Sur smartphone (iPhone et Android)</h3><p>Garde le doigt appuyé sur la touche <strong>A</strong> : les lettres accentuées apparaissent, fais glisser jusqu'à <strong>à</strong>. Pour <strong>À</strong>, active d'abord la majuscule.</p>"
     }
   ],
   "pieges": [
@@ -30,7 +38,9 @@
     { "q": "Faut-il mettre un accent sur le A majuscule ?", "r": "Oui quand c'est la préposition. L'Académie française recommande de garder les accents sur les majuscules : « À bientôt », « À Paris »." },
     { "q": "On écrit « il y a » ou « il y à » ?", "r": "Toujours « il y a », sans accent : c'est le verbe avoir. On peut d'ailleurs dire « il y avait »." },
     { "q": "« A priori » prend-il un accent ?", "r": "Traditionnellement non : c'est une locution latine, écrite « a priori ». Les rectifications orthographiques de 1990 admettent aussi « à priori ». Les deux sont acceptés." },
-    { "q": "Comment savoir rapidement s'il faut un accent sur « a » ?", "r": "Remplace le mot par « avait ». Si la phrase garde son sens, c'est « a » sans accent. Sinon, c'est « à »." }
+    { "q": "Comment savoir rapidement s'il faut un accent sur « a » ?", "r": "Remplace le mot par « avait ». Si la phrase garde son sens, c'est « a » sans accent. Sinon, c'est « à »." },
+    { "q": "On écrit « tu as » ou « tu a » ?", "r": "Toujours « tu as », avec un s : tu as raison. « A » sans s ne s'emploie qu'avec il, elle, on." },
+    { "q": "Comment faire un À majuscule au clavier ?", "r": "Sur Windows : Alt + 0192 sur le pavé numérique. Sur Mac AZERTY : Verr. Maj, puis la touche à. Sur smartphone : majuscule, puis appui long sur A." }
   ],
   "liees": ["ou-ou-ou", "et-ou-est", "on-ou-ont", "la-la-l-a"]
 }

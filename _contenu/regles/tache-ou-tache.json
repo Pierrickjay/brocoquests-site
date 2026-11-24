@@ -1,7 +1,7 @@
 {
   "id": 77,
   "slug": "tache-ou-tache",
-  "miseAJour": "2026-11-14",
+  "miseAJour": "2026-11-24",
   "h1": "« tâche » ou « tache » : avec ou sans accent ?",
   "title": "tâche ou tache : la règle et l'astuce pour ne plus hésiter",
   "description": "tâche ou tache ? Si tu peux dire « travail », mets l'accent ; une salissure n'en a pas. La règle, les pièges (tâcher, tacher) et un quiz express.",
@@ -10,7 +10,11 @@
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Les verbes suivent la même logique</h3><p><strong>Tâcher de</strong> (essayer) prend l'accent : <em class=\"ex\">tâche de venir à l'heure</em>. <strong>Tacher</strong> (salir) n'en a pas : <em class=\"ex\">tu vas tacher ta chemise</em>.</p><h3>Les expressions à connaître</h3><p>Avec accent : <em class=\"ex\">se mettre à la tâche</em>, <em class=\"ex\">être payé à la tâche</em>, <em class=\"ex\">un tâcheron</em>. Sans accent : <em class=\"ex\">une tache de rousseur</em>, <em class=\"ex\">faire tache</em> (détonner dans un ensemble), <em class=\"ex\">un pelage tacheté</em>.</p><h3>L'accent résiste aux réformes</h3><p>Les rectifications orthographiques de 1990 ont surtout touché l'accent circonflexe sur le i et le u. Sur le a, il reste : on écrit toujours <strong>tâche</strong>.</p><h3>Le saviez-vous ?</h3><p>L'accent circonflexe de « tâche » rappelle un s disparu : en ancien français, on écrivait « tasche ». On retrouve ce s dans l'anglais « task ».</p>"
+      "html": "<h3>Les expressions à connaître</h3><p>Avec accent : <em class=\"ex\">se mettre à la tâche</em>, <em class=\"ex\">être payé à la tâche</em>, <em class=\"ex\">un tâcheron</em>. Sans accent : <em class=\"ex\">une tache de rousseur</em>, <em class=\"ex\">faire tache</em> (détonner dans un ensemble), <em class=\"ex\">un pelage tacheté</em>.</p><h3>L'accent résiste aux réformes</h3><p>Les rectifications orthographiques de 1990 ont surtout touché l'accent circonflexe sur le i et le u. Sur le a, il reste : on écrit toujours <strong>tâche</strong>.</p><h3>Le saviez-vous ?</h3><p>L'accent circonflexe de « tâche » rappelle un s disparu : en ancien français, on écrivait « tasche ». On retrouve ce s dans l'anglais « task ».</p>"
+    },
+    {
+      "titre": "Tâcher ou tacher : le verbe",
+      "html": "<p>Les verbes suivent la même logique que les noms : l'accent pour l'effort, pas d'accent pour la salissure.</p><div class=\"compare\"><div><p class=\"big\">tâcher</p><p><strong>Essayer de</strong>, faire un effort.</p><p><em class=\"ex\">Tâche de venir</em> → <em class=\"ex\">essaie de venir</em> ✓</p></div><div><p class=\"big\">tacher</p><p><strong>Salir</strong>, faire une tache.</p><p><em class=\"ex\">Le vin tache</em> → <em class=\"ex\">le vin salit</em> ✓</p></div></div><h3>« Tâcher de » + infinitif</h3><p>C'est l'emploi le plus courant, souvent à l'impératif : <em class=\"ex\">tâche de dormir</em>, <em class=\"ex\">tâchez d'être à l'heure</em>, <em class=\"ex\">je tâcherai de passer</em>. L'accent reste à tous les temps : <em class=\"ex\">il a tâché de comprendre</em>. Dans un registre soutenu, on trouve aussi <em class=\"ex\">tâcher que</em> + subjonctif : <em class=\"ex\">tâchez qu'il soit prêt</em>.</p><h3>« Tacher » à tous les temps</h3><p>Jamais d'accent : <em class=\"ex\">tu vas tacher ta chemise</em>, <em class=\"ex\">j'ai taché mon pantalon</em>, <em class=\"ex\">une nappe tachée</em>, <em class=\"ex\">ce feutre tache</em>. Même chose pour <em class=\"ex\">un détachant</em>, qui enlève les taches.</p>"
     }
   ],
   "pieges": [
@@ -85,6 +89,10 @@
     {
       "q": "On écrit « tâche de venir » ou « tache de venir » ?",
       "r": "« Tâche de venir », avec accent : c'est le verbe tâcher, qui veut dire « essayer ». Sans accent, « tacher » veut dire salir."
+    },
+    {
+      "q": "On écrit « j'ai taché » ou « j'ai tâché » ?",
+      "r": "« J'ai taché ma chemise », sans accent, quand on a sali. « J'ai tâché de venir », avec accent, quand on a essayé."
     }
   ],
   "liees": [

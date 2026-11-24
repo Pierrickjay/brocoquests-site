@@ -1,16 +1,20 @@
 {
   "id": 15,
   "slug": "quelque-ou-quel-que",
-  "miseAJour": "2026-11-12",
-  "h1": "« quelque » ou « quel que » : comment ne plus se tromper ?",
-  "title": "quelque ou quel que : la règle et l'astuce pour bien écrire",
-  "description": "quel que ou quelque ? Si « soit » ou « soient » suit, écris quel que en deux mots et accorde-le. Règle, exemples, pièges et quiz express.",
+  "miseAJour": "2026-11-24",
+  "h1": "« quelque », « quelques » ou « quel que » : comment choisir ?",
+  "title": "quelque, quelques ou quel que : comment choisir ?",
+  "description": "quelque, quelques ou quel que ? Quel que devant « soit », quelques devant un nom pluriel, quelque temps sans s. Règle, exemples, pièges et quiz.",
   "reponseCourte": "<p>On écrit <strong>quel que</strong> en deux mots juste devant le verbe <strong>être</strong> au subjonctif (<em class=\"ex\">quel que soit ton choix</em>). « Quel » s'accorde alors avec le sujet du verbe : <em class=\"ex\">quelles que soient tes raisons</em>. Dans les autres cas, c'est <strong>quelque</strong> en un mot : <em class=\"ex\">quelques amis</em>, <em class=\"ex\">quelque chose</em>.</p>",
   "complementRegle": "<div class=\"compare\"><div><p class=\"big\">quelque</p><p>En un mot, devant un <strong>nom</strong> (un peu de, plusieurs). Il prend un s au pluriel.</p><p><em class=\"ex\">Il a quelque<mark>s</mark> amis</em></p></div><div><p class=\"big\">quel que</p><p>En deux mots, devant <strong>être</strong> au subjonctif. « Quel » s'accorde avec le sujet.</p><p><em class=\"ex\">Quel<mark>les</mark> que soient tes raisons</em></p></div></div>",
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Comment accorder « quel que » ?</h3><p>Repère le sujet, placé après le verbe, et accorde « quel » avec lui : <em class=\"ex\">quel que soit le prix</em>, <em class=\"ex\">quelle que soit l'heure</em>, <em class=\"ex\">quels que soient les tarifs</em>, <em class=\"ex\">quelles que soient les conditions</em>. « Que » ne change jamais.</p><h3>Avec « pouvoir » ou « devoir »</h3><p>Le verbe être peut être précédé de pouvoir ou devoir : <em class=\"ex\">quelle que puisse être ta décision</em>. C'est toujours quel que, en deux mots.</p><h3>Quand « quelque » reste invariable</h3><p>Devant un nombre, au sens de « environ », il ne prend pas de s : <em class=\"ex\">quelque deux cents personnes</em>. Devant un adjectif, au sens de « si », il reste aussi invariable : <em class=\"ex\">quelque habiles qu'ils soient</em>, <em class=\"ex\">quelque peu déçu</em>.</p><h3>« Quelque chose », « quelque part », « quelqu'un »</h3><p>Ces expressions s'écrivent avec quelque en un mot. Seul <em class=\"ex\">quelqu'un</em> (et <em class=\"ex\">quelqu'une</em>) remplace le e par une apostrophe.</p>"
+      "html": "<h3>Comment accorder « quel que » ?</h3><p>Repère le sujet, placé après le verbe, et accorde « quel » avec lui : <em class=\"ex\">quel que soit le prix</em>, <em class=\"ex\">quelle que soit l'heure</em>, <em class=\"ex\">quels que soient les tarifs</em>, <em class=\"ex\">quelles que soient les conditions</em>. « Que » ne change jamais.</p><h3>Avec « pouvoir » ou « devoir »</h3><p>Le verbe être peut être précédé de pouvoir ou devoir : <em class=\"ex\">quelle que puisse être ta décision</em>. C'est toujours quel que, en deux mots.</p><h3>« Quelque chose », « quelque part », « quelqu'un »</h3><p>Ces expressions s'écrivent avec quelque en un mot. Seul <em class=\"ex\">quelqu'un</em> (et <em class=\"ex\">quelqu'une</em>) remplace le e par une apostrophe.</p>"
+    },
+    {
+      "titre": "Quelque ou quelques : quand mettre un s ?",
+      "html": "<p>En un mot, <strong>quelque</strong> s'accorde avec le nom qui le suit.</p><h3>Devant un nom pluriel : quelques</h3><p>Au sens de « plusieurs », « un petit nombre de », il prend un s : <em class=\"ex\">quelques amis</em>, <em class=\"ex\">quelques photos</em>, <em class=\"ex\">il y a quelques jours</em>. « Quelque photos » est une faute : le nom est au pluriel, quelques aussi.</p><h3>Devant un nom singulier : quelque</h3><p>Au sens de « un certain », « un peu de », pas de s : <em class=\"ex\">depuis quelque temps</em>, <em class=\"ex\">avec quelque inquiétude</em>, <em class=\"ex\">quelque chose</em>, <em class=\"ex\">quelque part</em>. On écrit donc <strong>quelque temps</strong> et non « quelques temps » : on parle d'une durée, pas de plusieurs temps.</p><h3>« Les quelques », « ces quelques »</h3><p>Après un déterminant, quelques veut dire « le petit nombre de » et garde son s : <em class=\"ex\">les quelques euros qui me restent</em>, <em class=\"ex\">ces quelques mots</em>, <em class=\"ex\">mes quelques amis</em>.</p><h3>« Quelques-uns », « quelques-unes »</h3><p>Le pronom prend un s et un trait d'union, et s'accorde en genre : <em class=\"ex\">quelques-uns de mes amis</em>, <em class=\"ex\">quelques-unes de ses chansons</em>. Au singulier, c'est <em class=\"ex\">quelqu'un</em>, sans trait d'union.</p><h3>« Quelque » au sens de « environ »</h3><p>Devant un nombre, il veut dire « à peu près » et reste invariable : <em class=\"ex\">quelque deux cents personnes</em>, <em class=\"ex\">il y a quelque vingt ans</em>. Devant un adjectif, au sens de « si », il reste aussi invariable : <em class=\"ex\">quelque habiles qu'ils soient</em>, <em class=\"ex\">quelque peu déçu</em>.</p>"
     }
   ],
   "pieges": [
@@ -29,7 +33,9 @@
     { "q": "On écrit « quel que soit » ou « quelque soit » ?", "r": "« Quel que soit », en deux mots. « Quelque soit » est toujours une faute." },
     { "q": "Comment accorder « quelle que soit » ?", "r": "« Quel » s'accorde avec le sujet de « soit », placé après : quel que soit le lieu, quelle que soit la date, quels que soient les jours, quelles que soient les heures." },
     { "q": "On écrit « quelque temps » ou « quelques temps » ?", "r": "« Quelque temps », sans s : on parle d'une certaine durée, au singulier." },
-    { "q": "« Quelque chose » prend-il un s ?", "r": "Non, au sens de « une chose » on écrit quelque chose. On peut écrire « quelques choses » seulement si on veut dire plusieurs choses : j'ai quelques choses à régler." }
+    { "q": "« Quelque chose » prend-il un s ?", "r": "Non, au sens de « une chose » on écrit quelque chose. On peut écrire « quelques choses » seulement si on veut dire plusieurs choses : j'ai quelques choses à régler." },
+    { "q": "On écrit « quelque photos » ou « quelques photos » ?", "r": "« Quelques photos » : devant un nom pluriel, quelques prend un s." },
+    { "q": "On écrit « quelques-unes » ou « quelque-unes » ?", "r": "« Quelques-unes », avec un s et un trait d'union, comme « quelques-uns » : quelques-unes de ses photos." }
   ],
   "liees": ["quoique-ou-quoi-que", "davantage-ou-d-avantage", "quand-quant-qu-en", "leur-ou-leurs"]
 }

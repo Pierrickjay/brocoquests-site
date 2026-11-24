@@ -1,7 +1,7 @@
 {
   "id": 12,
   "slug": "peu-peut-peux",
-  "miseAJour": "2026-11-10",
+  "miseAJour": "2026-11-24",
   "h1": "« peu », « peut » ou « peux » : comment choisir ?",
   "title": "peu, peut ou peux : la règle et l'astuce pour bien choisir",
   "description": "peu, peut ou peux ? Si « beaucoup » marche, c'est « peu ». Si « pouvait » marche, c'est pouvoir : peux avec je et tu, peut avec il. Pièges et quiz.",
@@ -11,6 +11,14 @@
     {
       "titre": "Les cas qui font hésiter",
       "html": "<h3>« Peut-être » ou « peut être » ?</h3><p>Avec un trait d'union, c'est l'adverbe qui veut dire « sans doute » : <em class=\"ex\">il viendra peut-être</em>. Sans trait d'union, c'est le verbe pouvoir suivi de « être », qu'on remplace par « pourrait être » : <em class=\"ex\">ce colis peut être livré demain</em> → <em class=\"ex\">pourrait être livré</em>.</p><h3>« Je peux », jamais « je peut »</h3><p>Le t est réservé à la 3e personne. Pense à vouloir, qui marche pareil : <em class=\"ex\">je veux, tu veux, il veut</em>, donc <em class=\"ex\">je peux, tu peux, il peut</em>.</p><h3>« Peu » dans les expressions</h3><p><em class=\"ex\">un peu</em>, <em class=\"ex\">peu à peu</em>, <em class=\"ex\">à peu près</em>, <em class=\"ex\">sous peu</em>, <em class=\"ex\">depuis peu</em> : toujours sans t ni x.</p><h3>Le saviez-vous ?</h3><p>Dans une question où « je » passe après le verbe, on n'écrit pas « peux-je » mais <em class=\"ex\">puis-je</em> : <em class=\"ex\">Puis-je entrer ?</em></p>"
+    },
+    {
+      "titre": "Peux-tu ou peut-tu ?",
+      "html": "<p>Dans une question, le verbe garde la terminaison qu'il a avec son sujet. Comme on écrit <em class=\"ex\">tu peux</em>, on écrit <strong>peux-tu</strong> : <em class=\"ex\">peux-tu m'aider ?</em> « Peut-tu » est une faute.</p><ul><li><em class=\"ex\">tu peux</em> → <em class=\"ex\">peux-tu ?</em></li><li><em class=\"ex\">il peut</em> → <em class=\"ex\">peut-il ?</em></li><li><em class=\"ex\">on peut</em> → <em class=\"ex\">peut-on ?</em></li><li><em class=\"ex\">je peux</em> → <em class=\"ex\">puis-je ?</em></li></ul><p>Astuce : remplace par vouloir. Tu dirais <em class=\"ex\">veux-tu</em>, avec un x : c'est donc <strong>peux-tu</strong>.</p>"
+    },
+    {
+      "titre": "Peut-on, a-t-il : le t entre deux tirets",
+      "html": "<p>Quand le verbe finit par une voyelle et que le pronom commence par une voyelle (il, elle, on), on glisse un <strong>t</strong> entre deux traits d'union : <em class=\"ex\">a-t-il</em>, <em class=\"ex\">va-t-elle</em>, <em class=\"ex\">parle-t-on</em>, <em class=\"ex\">y a-t-il</em>. Ce t n'a pas de sens : il évite juste que deux voyelles se heurtent à l'oral.</p><h3>Pas de t en plus après « peut »</h3><p>« Peut » se termine déjà par un t, qui se prononce dans la question : on écrit <strong>peut-on</strong>, <strong>peut-il</strong>, avec un seul trait d'union. Même chose pour <em class=\"ex\">est-il</em>, <em class=\"ex\">sont-elles</em>, <em class=\"ex\">prend-il</em>.</p><h3>« Peux-t-on » : la double faute</h3><p>Avec « on », le verbe se conjugue comme avec « il » : c'est <strong>peut</strong>, pas « peux ». Et le t est déjà là. On écrit donc <em class=\"ex\">où peut-on acheter des billets ?</em>, jamais « où peux-t-on ».</p><h3>Un t, pas un t'</h3><p>Ce t est encadré de traits d'union, sans apostrophe : <em class=\"ex\">a-t-il</em>, et non « a t'il ». L'apostrophe s'emploie seulement quand t' remplace « te » : <em class=\"ex\">va-t'en</em>.</p>"
     }
   ],
   "pieges": [
@@ -30,7 +38,9 @@
   "faq": [
     { "q": "On écrit « je peux » ou « je peut » ?", "r": "Toujours « je peux », avec un x, comme « tu peux ». Le t ne s'emploie qu'avec il, elle, on : il peut." },
     { "q": "« Peut-être » ou « peut être » ?", "r": "« Peut-être », avec un trait d'union, quand ça veut dire « sans doute ». « Peut être », sans trait d'union, quand on peut dire « pourrait être »." },
-    { "q": "On dit « peux-je » ou « puis-je » ?", "r": "« Puis-je », dans une question inversée : « Puis-je vous aider ? ». « Peux-je » ne s'emploie pas." }
+    { "q": "On dit « peux-je » ou « puis-je » ?", "r": "« Puis-je », dans une question inversée : « Puis-je vous aider ? ». « Peux-je » ne s'emploie pas." },
+    { "q": "On écrit « peux-tu » ou « peut-tu » ?", "r": "« Peux-tu », avec un x, car on écrit « tu peux ». Le t ne s'emploie qu'avec il, elle, on : peut-il, peut-on." },
+    { "q": "On écrit « peut-on » ou « peux-t-on » ?", "r": "« Peut-on » : avec on, le verbe pouvoir s'écrit « peut », et son t final suffit. « Peux-t-on » est fautif." }
   ],
   "liees": ["mes-ou-mais", "quand-quant-qu-en", "on-ou-ont", "pres-ou-pret"]
 }

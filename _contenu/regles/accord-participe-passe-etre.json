@@ -1,7 +1,7 @@
 {
   "id": 21,
   "slug": "accord-participe-passe-etre",
-  "miseAJour": "2026-11-16",
+  "miseAJour": "2026-11-24",
   "h1": "Participe passé avec « être » : comment l'accorder ?",
   "title": "Accord du participe passé avec être : règle et astuce",
   "description": "Avec être, le participe passé s'accorde avec le sujet : elles sont parties. La règle simple, les verbes qui changent d'auxiliaire, les pièges et un quiz.",
@@ -10,7 +10,11 @@
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Quels verbes se conjuguent avec « être » ?</h3><p>Surtout des verbes de mouvement ou de changement d'état : aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, devenir, naître, mourir. Mais attention : <strong>sortir, monter, descendre, rentrer, passer, retourner</strong> prennent <strong>avoir</strong> quand ils ont un COD. <em class=\"ex\">Elle est sortie</em>, mais <em class=\"ex\">elle a sorti la poubelle</em> : là, plus d'accord avec le sujet.</p><h3>Un sujet masculin et un sujet féminin</h3><p>Dès qu'il y a un masculin dans le groupe, on accorde au masculin pluriel : <em class=\"ex\">Paul et Léa sont partis</em>.</p><h3>« Vous » de politesse et « on »</h3><p>Avec le vouvoiement, on accorde avec la personne réelle : <em class=\"ex\">Madame, vous êtes arrivée</em> (une seule personne, donc pas de s). Quand « on » veut dire « nous », l'accord au pluriel est admis : <em class=\"ex\">On est rentrés tard</em>.</p><h3>La voix passive</h3><p>Au passif, le participe s'accorde aussi avec le sujet : <em class=\"ex\">La lettre a été envoy<mark>ée</mark></em>. Seul « été » reste toujours invariable. Les verbes pronominaux (se laver, se parler) ont leurs propres règles, expliquées dans leurs fiches.</p>"
+      "html": "<h3>Quels verbes se conjuguent avec « être » ?</h3><p>Surtout des verbes de mouvement ou de changement d'état : aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, devenir, naître, mourir. Mais attention : <strong>sortir, monter, descendre, rentrer, passer, retourner</strong> prennent <strong>avoir</strong> quand ils ont un COD. <em class=\"ex\">Elle est sortie</em>, mais <em class=\"ex\">elle a sorti la poubelle</em> : là, plus d'accord avec le sujet.</p><h3>Un sujet masculin et un sujet féminin</h3><p>Dès qu'il y a un masculin dans le groupe, on accorde au masculin pluriel : <em class=\"ex\">Paul et Léa sont partis</em>.</p><h3>« Vous » de politesse et « on »</h3><p>Avec le vouvoiement, on accorde avec la personne réelle : <em class=\"ex\">Madame, vous êtes arrivée</em> (une seule personne, donc pas de s). Quand « on » veut dire « nous », l'accord au pluriel est admis : <em class=\"ex\">On est rentrés tard</em>.</p><h3>Et les verbes pronominaux ?</h3><p>Les verbes pronominaux (se laver, se parler) ont leurs propres règles, expliquées dans leurs fiches.</p>"
+    },
+    {
+      "titre": "Et avec « avoir été » ?",
+      "html": "<p>« Avoir été » forme le passé composé de la voix passive : <em class=\"ex\">elles ont été invitées</em>. L'auxiliaire avoir ne change rien : le participe qui suit « été » s'accorde avec le <strong>sujet</strong>, comme avec être.</p><ul><li><em class=\"ex\">Il a été invité</em></li><li><em class=\"ex\">Elle a été invité<mark>e</mark></em></li><li><em class=\"ex\">Ils ont été invité<mark>s</mark></em></li><li><em class=\"ex\">Elles ont été invité<mark>es</mark></em></li></ul><h3>« Été » ne s'accorde jamais</h3><p>Le participe passé d'être est toujours invariable : on n'écrit jamais « étée » ou « étés ». Seul le participe qui suit porte l'accord : <em class=\"ex\">la lettre a été envoy<mark>ée</mark></em>.</p><h3>À tous les temps</h3><p>La règle vaut aussi avec <em class=\"ex\">avaient été</em>, <em class=\"ex\">auront été</em>, <em class=\"ex\">auraient été</em> ou <em class=\"ex\">après avoir été</em> : <em class=\"ex\">les filles avaient été prévenues</em>, <em class=\"ex\">après avoir été soignée, elle est rentrée</em>.</p><h3>Avec un adjectif</h3><p>« Avoir été » peut aussi être suivi d'un adjectif, qui s'accorde de la même façon : <em class=\"ex\">elles ont été malades</em>, <em class=\"ex\">ils ont été très gentils</em>.</p>"
     }
   ],
   "pieges": [
@@ -108,6 +112,10 @@
     {
       "q": "Comment savoir si un verbe se conjugue avec « être » ou « avoir » ?",
       "r": "Mets-le au passé composé avec « il » : « il est tombé », « il a mangé ». Pour sortir, monter, descendre ou rentrer, regarde s'il y a un COD : avec un COD, c'est avoir."
+    },
+    {
+      "q": "On écrit « elles ont été invité » ou « elles ont été invitées » ?",
+      "r": "« Elles ont été invitées » : après « été », le participe s'accorde avec le sujet. « Été », lui, reste invariable."
     }
   ],
   "liees": [

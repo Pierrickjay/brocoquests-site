@@ -1,7 +1,7 @@
 {
   "id": 49,
   "slug": "il-faut-que-subjonctif",
-  "miseAJour": "2026-11-15",
+  "miseAJour": "2026-11-24",
   "h1": "« Il faut que » + subjonctif : comment conjuguer le verbe ?",
   "title": "Il faut que + subjonctif : la règle et les pièges",
   "description": "Après « il faut que », toujours le subjonctif : il faut que tu viennes, qu'il soit. L'astuce pour trouver la forme, les pièges (aie, ait) et un quiz.",
@@ -11,7 +11,15 @@
   "sections": [
     {
       "titre": "Les cas qui font hésiter",
-      "html": "<h3>Trouver la forme : l'astuce de « ils »</h3><p>Pour la plupart des verbes, pars de « ils » au présent et enlève -ent : <em class=\"ex\">ils prennent</em> → <strong>prenn-</strong>. Ajoute ensuite -e, -es, -e : <em class=\"ex\">que je prenne</em>, <em class=\"ex\">que tu prennes</em>, <em class=\"ex\">qu'il prenne</em>. Attention, cela ne marche pas pour les irréguliers vus plus haut.</p><h3>Les terminaisons -ions et -iez</h3><p>Au présent, on écrit <em class=\"ex\">nous chantons</em> ; au subjonctif, <em class=\"ex\">que nous chantions</em>. Les verbes en -ier et -yer ont alors deux i, ou un y suivi d'un i : <em class=\"ex\">que nous criions</em>, <em class=\"ex\">que vous voyiez</em>.</p><h3>« Que j'aie » et « qu'il ait »</h3><p>Le subjonctif d'avoir est un piège classique : <em class=\"ex\">il faut que j'aie</em>, <em class=\"ex\">il faut qu'il ait</em>. « Que j'ai » est fautif. Et <em class=\"ex\">que nous ayons</em>, <em class=\"ex\">que nous soyons</em> s'écrivent sans i après le y.</p><h3>Avec « il fallait », « il faudra »…</h3><p>La règle ne change pas avec les autres temps de falloir : <em class=\"ex\">il fallait que tu viennes</em>, <em class=\"ex\">il faudra qu'elle sache</em>, <em class=\"ex\">il faudrait qu'on parte</em>.</p>"
+      "html": "<h3>Trouver la forme : l'astuce de « ils »</h3><p>Pour la plupart des verbes, on part de « ils » au présent et on enlève -ent : <em class=\"ex\">ils prennent</em> → <strong>prenn-</strong>. On ajoute ensuite -e, -es, -e : <em class=\"ex\">que je prenne</em>, <em class=\"ex\">que tu prennes</em>, <em class=\"ex\">qu'il prenne</em>. Attention, cela ne marche pas pour les irréguliers vus plus haut.</p><h3>Les terminaisons -ions et -iez</h3><p>Au présent, on écrit <em class=\"ex\">nous chantons</em> ; au subjonctif, <em class=\"ex\">que nous chantions</em>. Les verbes en -ier et -yer ont alors deux i, ou un y suivi d'un i : <em class=\"ex\">que nous criions</em>, <em class=\"ex\">que vous voyiez</em>.</p><h3>Avec « il fallait », « il faudra »…</h3><p>La règle ne change pas avec les autres temps de falloir : <em class=\"ex\">il fallait que tu viennes</em>, <em class=\"ex\">il faudra qu'elle sache</em>, <em class=\"ex\">il faudrait qu'on parte</em>.</p>"
+    },
+    {
+      "titre": "Que j'aie, que tu aies : aie, aies, ait ou ais ?",
+      "html": "<p>Au subjonctif, le verbe avoir se conjugue ainsi :</p><ul><li><em class=\"ex\">que j'aie</em></li><li><em class=\"ex\">que tu aies</em></li><li><em class=\"ex\">qu'il, qu'elle, qu'on ait</em></li><li><em class=\"ex\">que nous ayons</em></li><li><em class=\"ex\">que vous ayez</em></li><li><em class=\"ex\">qu'ils, qu'elles aient</em></li></ul><p>La forme <strong>« ais » n'existe pas</strong> pour le verbe avoir : « que tu ais » est toujours une faute. « Que j'ai » est fautif aussi. Et <em class=\"ex\">que nous ayons</em>, <em class=\"ex\">que nous soyons</em> s'écrivent sans i après le y.</p><h3>« Tu as » ou « que tu aies » ?</h3><div class=\"compare\"><div><p class=\"big\">tu as</p><p><strong>Sans « que »</strong> devant : indicatif.</p><p><em class=\"ex\">tu as pu venir</em> <em class=\"ex\">tu n'as pas fini</em></p></div><div><p class=\"big\">que tu aies</p><p>Après <strong>il faut que, pour que, bien que…</strong> : subjonctif.</p><p><em class=\"ex\">bien que tu aies pu venir</em> <em class=\"ex\">pourvu que tu n'aies pas oublié</em></p></div></div><p>« Tu ais » n'existe pas, avec ou sans « que » :</p><ul class=\"traps\"><li><p class=\"trap-pair\"><span class=\"wrong\" aria-label=\"Incorrect\">tu ais pu</span><span class=\"right\" aria-label=\"Correct\">tu as pu</span></p></li><li><p class=\"trap-pair\"><span class=\"wrong\" aria-label=\"Incorrect\">tu n'ais pas</span><span class=\"right\" aria-label=\"Correct\">tu n'as pas</span></p></li></ul><h3>L'astuce : remplacer par « faire »</h3><p>On met le verbe faire à la même place. Si l'on obtient <em class=\"ex\">tu fais</em>, on écrit <strong>as</strong>. Si l'on obtient <em class=\"ex\">que tu fasses</em>, on écrit <strong>aies</strong>.</p><h3>« Aie » sans « que » : l'impératif</h3><p>À l'impératif, avoir donne <em class=\"ex\">aie</em>, <em class=\"ex\">ayons</em>, <em class=\"ex\">ayez</em>, sans s : <em class=\"ex\">aie confiance</em>, <em class=\"ex\">n'aie pas peur</em>.</p>"
+    },
+    {
+      "titre": "Pour que, bien que, avant que : eux aussi demandent le subjonctif",
+      "html": "<p>« Il faut que » n'est pas le seul à imposer le subjonctif. Ces conjonctions l'exigent aussi :</p><ul><li><strong>le but</strong> : <em class=\"ex\">pour que tu comprennes</em>, <em class=\"ex\">afin qu'il puisse venir</em></li><li><strong>l'opposition</strong> : <em class=\"ex\">bien qu'il soit tard</em>, <em class=\"ex\">quoiqu'elle ait raison</em></li><li><strong>le temps</strong> : <em class=\"ex\">avant que tu partes</em>, <em class=\"ex\">jusqu'à ce qu'il revienne</em>, <em class=\"ex\">en attendant qu'elle sache</em></li><li><strong>la condition</strong> : <em class=\"ex\">à condition que vous soyez là</em>, <em class=\"ex\">pourvu qu'il fasse beau</em></li><li><strong>la crainte, l'absence</strong> : <em class=\"ex\">de peur qu'il ait froid</em>, <em class=\"ex\">sans que tu le saches</em></li></ul><p>C'est aussi le cas après les verbes de volonté, d'obligation ou de sentiment : <em class=\"ex\">je veux que tu viennes</em>, <em class=\"ex\">il est important qu'il sache</em>, <em class=\"ex\">je suis content que tu sois là</em>.</p><h3>Attention : « après que » prend l'indicatif</h3><p>Contrairement à « avant que », on écrit <em class=\"ex\">après qu'il est parti</em> : l'action a eu lieu, c'est un fait. De même, « espérer que » est suivi de l'indicatif : <em class=\"ex\">j'espère que tu viendras</em>.</p><h3>« Qu'on puisse » ou « qu'on puissent » ?</h3><p>« On » se conjugue toujours comme « il », au singulier, même quand il veut dire « nous » : <em class=\"ex\">pour qu'on puisse partir</em>, <em class=\"ex\">il faut qu'on puisse se voir</em>. La terminaison -ent est réservée à « ils » et « elles » : <em class=\"ex\">pour qu'ils puissent partir</em>. Les deux se prononcent pareil, d'où l'erreur.</p>"
     }
   ],
   "pieges": [
@@ -99,6 +107,18 @@
     {
       "q": "Y a-t-il des exceptions ?",
       "r": "Non : après « il faut que », le subjonctif est obligatoire, quel que soit le temps de falloir."
+    },
+    {
+      "q": "« Que tu aies » ou « que tu ais » ?",
+      "r": "« Que tu aies », avec -es. « Ais » n'existe pas pour le verbe avoir. Sans « que », c'est l'indicatif : tu as pu, tu n'as pas."
+    },
+    {
+      "q": "« Pour que » est-il suivi du subjonctif ?",
+      "r": "Oui, toujours : pour que tu viennes, pour qu'il soit là. Comme afin que, bien que, avant que ou sans que."
+    },
+    {
+      "q": "« Qu'on puisse » ou « qu'on puissent » ?",
+      "r": "« Qu'on puisse » : on se conjugue comme il, au singulier. « Puissent » s'emploie avec ils ou elles."
     }
   ],
   "liees": [

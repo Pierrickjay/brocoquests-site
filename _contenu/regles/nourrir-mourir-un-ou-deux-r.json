@@ -1,0 +1,107 @@
+{
+  "id": 54,
+  "slug": "nourrir-mourir-un-ou-deux-r",
+  "miseAJour": "2026-11-23",
+  "h1": "Nourrir, mourir : un ou deux r ?",
+  "title": "nourrir, mourir : un ou deux r ? La règle simple",
+  "description": "Nourrir prend toujours deux r. Mourir n'en prend qu'un, sauf au futur et au conditionnel (il mourra). La règle, les pièges et un quiz express.",
+  "reponseCourte": "<p><strong>Nourrir</strong> s'écrit toujours avec deux r, à tous les temps (<em class=\"ex\">je nourris</em>, <em class=\"ex\">il nourrira</em>). <strong>Mourir</strong> n'en prend qu'un (<em class=\"ex\">il meurt</em>, <em class=\"ex\">il mourait</em>), sauf au futur et au conditionnel : <em class=\"ex\">il mourra</em>, <em class=\"ex\">il mourrait</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">nourrir</p><p><strong>Deux r</strong>, toujours.</p><p><em class=\"ex\">je nou<mark>rr</mark>is</em> <em class=\"ex\">la nou<mark>rr</mark>iture</em> <em class=\"ex\">il nou<mark>rr</mark>ira</em></p></div><div><p class=\"big\">mourir</p><p><strong>Un r</strong>, sauf au futur et au conditionnel.</p><p><em class=\"ex\">il mou<mark>r</mark>ait</em> <em class=\"ex\">il mou<mark>rr</mark>a</em> <em class=\"ex\">il mou<mark>rr</mark>ait</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Pourquoi deux r au futur de mourir ?</h3><p>Le futur se forme sur le radical <strong>mour-</strong>, auquel on ajoute le r du futur : mour + ra = <em class=\"ex\">il mourra</em>. Le i de l'infinitif disparaît, donc les deux r se touchent. À l'oral, on peut d'ailleurs appuyer sur le r pour distinguer <em class=\"ex\">il mourra</em> de <em class=\"ex\">il mourait</em>.</p><h3>Courir fonctionne pareil</h3><p>Un seul r au présent et au passé : <em class=\"ex\">je cours</em>, <em class=\"ex\">il a couru</em>. Deux r au futur et au conditionnel : <em class=\"ex\">je courrai</em>, <em class=\"ex\">tu courrais</em>. Ses dérivés aussi : <em class=\"ex\">tu parcourras</em>, <em class=\"ex\">ils accourront</em>.</p><h3>Le piège inverse : « il mourira »</h3><p>On n'écrit pas « il mourira » ni « il courira ». Le i ne reste pas au futur : <em class=\"ex\">il mourra</em>, <em class=\"ex\">il courra</em>.</p><h3>Nourrir garde son i</h3><p>Nourrir est un verbe du 2e groupe, comme finir. Au futur et au conditionnel, il garde le i de l'infinitif : <em class=\"ex\">il nourrira</em>, <em class=\"ex\">il nourrirait</em>. Jamais « il nourra ».</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Sans eau, la plante moura.",
+      "correct": "Sans eau, la plante mourra.",
+      "explication": "Au futur, mourir prend deux r : mour + ra."
+    },
+    {
+      "faux": "Je nourirai le chat ce soir.",
+      "correct": "Je nourrirai le chat ce soir.",
+      "explication": "Nourrir prend deux r à toutes les formes."
+    },
+    {
+      "faux": "Il mourrut en 1850.",
+      "correct": "Il mourut en 1850.",
+      "explication": "Au passé simple, un seul r : les deux r sont réservés au futur et au conditionnel."
+    },
+    {
+      "faux": "La nouriture est prête.",
+      "correct": "La nourriture est prête.",
+      "explication": "Le nom garde les deux r du verbe nourrir."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Je ___ correctement mes animaux cet hiver.",
+      "options": [
+        "nourrirai",
+        "nourirais",
+        "nourrirait",
+        "nourrirez"
+      ],
+      "reponse": "nourrirai",
+      "explication": "Nourrir garde toujours ses deux r, et au futur je se termine par -ai."
+    },
+    {
+      "phrase": "Elle ___ de curiosité si on ne lui dit rien.",
+      "options": [
+        "mourra",
+        "moura",
+        "mourira",
+        "mourrait"
+      ],
+      "reponse": "mourra",
+      "explication": "Après « si » + présent, on met le futur : mour + ra, donc deux r."
+    },
+    {
+      "phrase": "Nous ___ nos plantes avec de l'eau filtrée.",
+      "options": [
+        "nourrirons",
+        "nourirons",
+        "nourrons",
+        "nourriront"
+      ],
+      "reponse": "nourrirons",
+      "explication": "Deux r et le i qui reste ; avec nous, la terminaison est -ons."
+    },
+    {
+      "phrase": "Tu ___ plus vite qu'eux au prochain tour.",
+      "options": [
+        "courras",
+        "couriras",
+        "couras"
+      ],
+      "reponse": "courras",
+      "explication": "Courir fait comme mourir : un r au présent, deux r au futur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Mourir prend-il un ou deux r ?",
+      "r": "Un seul r, sauf au futur et au conditionnel : il meurt, il est mort, mais il mourra, il mourrait."
+    },
+    {
+      "q": "Nourrir s'écrit avec combien de r ?",
+      "r": "Toujours deux : nourrir, je nourris, la nourriture, il nourrira."
+    },
+    {
+      "q": "On écrit « il mourra » ou « il mourira » ?",
+      "r": "« Il mourra ». Le i de l'infinitif disparaît au futur, comme pour courir (il courra)."
+    },
+    {
+      "q": "D'autres verbes prennent-ils deux r au futur ?",
+      "r": "Oui : courir (je courrai), pouvoir (je pourrai), voir (je verrai), envoyer (j'enverrai) ou acquérir (j'acquerrai)."
+    }
+  ],
+  "liees": [
+    "futur-ou-conditionnel-ai-ais",
+    "passe-simple-3e-personne",
+    "ils-croient",
+    "verbes-en-eler-eter"
+  ]
+}

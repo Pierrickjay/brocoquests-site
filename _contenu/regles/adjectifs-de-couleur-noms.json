@@ -1,0 +1,96 @@
+{
+  "id": 33,
+  "slug": "adjectifs-de-couleur-noms",
+  "miseAJour": "2026-11-23",
+  "h1": "« Des yeux marron » ou « marrons » : quand accorder une couleur ?",
+  "title": "Des yeux marron ou marrons ? La règle des couleurs",
+  "description": "Marron, orange, saumon : une couleur tirée d'un nom reste invariable, sauf rose, mauve, fauve, pourpre ou écarlate. Règle, pièges et quiz express.",
+  "reponseCourte": "<p>Une couleur qui vient d'un <strong>nom</strong> (fruit, fleur, matière, objet) reste <strong>invariable</strong> : <em class=\"ex\">des yeux marron</em>, <em class=\"ex\">des murs saumon</em>, <em class=\"ex\">des tee-shirts orange</em>. Quelques exceptions s'accordent : <strong>rose, mauve, fauve, pourpre, écarlate</strong> et <strong>incarnat</strong> (<em class=\"ex\">des joues roses</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">marron</p><p>Couleur tirée d'un <strong>nom</strong> : invariable.</p><p><em class=\"ex\">des chaussures marron</em></p></div><div><p class=\"big\">roses</p><p><strong>Exception</strong> : rose, mauve, fauve, pourpre, écarlate et incarnat s'accordent.</p><p><em class=\"ex\">des joues ros<mark>es</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Les six exceptions à retenir</h3><p>Rose, mauve, fauve, pourpre, écarlate et incarnat sont devenus de vrais adjectifs : ils s'accordent. <em class=\"ex\">Des robes mauves</em>, <em class=\"ex\">des joues écarlates</em>.</p><h3>Avec une nuance, tout redevient invariable</h3><p>Dès qu'un deuxième mot précise la couleur, c'est la règle des couleurs composées qui s'applique, même pour les exceptions : <em class=\"ex\">des robes rose pâle</em>, <em class=\"ex\">des chemises orange vif</em>.</p><h3>« Châtain » s'accorde</h3><p>« Châtain » est un vrai adjectif, pas un nom : <em class=\"ex\">des cheveux châtains</em>. À l'inverse : <em class=\"ex\">des cheveux marron</em>.</p><h3>Le saviez-vous ?</h3><p>Avant d'être une couleur, « marron » est le nom d'un fruit, proche de la châtaigne. Des yeux marron sont des yeux « couleur de marron » : voilà pourquoi le mot ne prend pas de -s.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Des chemises oranges.",
+      "correct": "Des chemises orange.",
+      "explication": "« Orange » vient du nom du fruit : il reste invariable."
+    },
+    {
+      "faux": "Des pantalons kakis.",
+      "correct": "Des pantalons kaki.",
+      "explication": "« Kaki » fait partie des couleurs invariables."
+    },
+    {
+      "faux": "Des murs crèmes.",
+      "correct": "Des murs crème.",
+      "explication": "La couleur vient du nom « crème » : pas de -s."
+    },
+    {
+      "faux": "Des robes mauve.",
+      "correct": "Des robes mauves.",
+      "explication": "« Mauve » fait partie des exceptions : il s'accorde comme un adjectif ordinaire."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle a acheté des chaussures ___.",
+      "options": [
+        "marron",
+        "marrons",
+        "marronnes"
+      ],
+      "reponse": "marron",
+      "explication": "« Marron » est le nom d'un fruit employé comme couleur : invariable."
+    },
+    {
+      "phrase": "Les murs de la cuisine sont ___.",
+      "options": [
+        "saumon",
+        "saumons"
+      ],
+      "reponse": "saumon",
+      "explication": "La couleur vient du nom d'un poisson : pas de -s."
+    },
+    {
+      "phrase": "Il portait des gants ___ pour la soirée.",
+      "options": [
+        "ivoire",
+        "ivoires"
+      ],
+      "reponse": "ivoire",
+      "explication": "L'ivoire est une matière : la couleur reste invariable."
+    },
+    {
+      "phrase": "Elle avait les lèvres ___ après le froid.",
+      "options": [
+        "rose",
+        "roses"
+      ],
+      "reponse": "roses",
+      "explication": "« Rose » fait partie des exceptions : il s'accorde."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « des yeux marron » ou « des yeux marrons » ?",
+      "r": "« Des yeux marron », sans -s : « marron » est le nom d'un fruit employé comme couleur, il reste invariable."
+    },
+    {
+      "q": "« Orange » s'accorde-t-il au pluriel ?",
+      "r": "Selon la règle, non : « des pulls orange ». Comme « marron », c'est le nom d'un fruit employé comme couleur."
+    },
+    {
+      "q": "Pourquoi « rose » s'accorde et pas « orange » ?",
+      "r": "« Rose » fait partie des quelques couleurs devenues de vrais adjectifs, avec mauve, fauve, pourpre, écarlate et incarnat. C'est une exception à apprendre par cœur."
+    }
+  ],
+  "liees": [
+    "adjectifs-de-couleur-composes",
+    "accord-adjectif-qualificatif",
+    "inclus-ou-inclue"
+  ]
+}

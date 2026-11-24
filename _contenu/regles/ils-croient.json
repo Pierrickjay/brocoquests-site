@@ -1,0 +1,117 @@
+{
+  "id": 53,
+  "slug": "ils-croient",
+  "miseAJour": "2026-11-23",
+  "h1": "« Ils croient » ou « ils croivent » : la bonne conjugaison",
+  "title": "ils croient ou ils croivent ? La conjugaison de croire",
+  "description": "Ils croient ou ils croivent ? Croire se conjugue comme voir : ils croient. La conjugaison complète, les pièges du y et un quiz express.",
+  "reponseCourte": "<p>On écrit <strong>ils croient</strong>, jamais « ils croivent » ni « ils croyent ». Croire se conjugue comme voir : <em class=\"ex\">ils voient</em>, <em class=\"ex\">ils croient</em>. Le y n'apparaît qu'avec nous et vous : <em class=\"ex\">nous croyons</em>, <em class=\"ex\">vous croyez</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">i</p><p>Avec <strong>je, tu, il, ils</strong>.</p><p><em class=\"ex\">je cro<mark>i</mark>s</em> <em class=\"ex\">il cro<mark>i</mark>t</em> <em class=\"ex\">ils cro<mark>i</mark>ent</em></p></div><div><p class=\"big\">y</p><p>Avec <strong>nous</strong> et <strong>vous</strong>.</p><p><em class=\"ex\">nous cro<mark>y</mark>ons</em> <em class=\"ex\">vous cro<mark>y</mark>ez</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Pourquoi on a envie d'écrire « croivent »</h3><p>Par imitation d'autres verbes qui prennent un v : <em class=\"ex\">ils boivent</em>, <em class=\"ex\">ils doivent</em>, <em class=\"ex\">ils reçoivent</em>. Mais croire n'a pas de v. Pense plutôt à voir : <em class=\"ex\">ils voient</em>.</p><h3>« Croyent » : le y en trop</h3><p>Le y ne se met que devant une terminaison qu'on entend : <em class=\"ex\">nous croyons</em>, <em class=\"ex\">vous croyez</em>. Devant un e muet, il devient i : <em class=\"ex\">ils croient</em>.</p><h3>Nous croyions, que vous croyiez</h3><p>À l'imparfait et au subjonctif, nous et vous prennent <strong>yi</strong> : <em class=\"ex\">nous croyions</em>, <em class=\"ex\">il faut que vous me croyiez</em>. Au subjonctif, on écrit aussi <em class=\"ex\">que je croie</em>, avec un e final.</p><h3>Le saviez-vous ?</h3><p>Le verbe croître (grandir) prend un accent circonflexe pour ne pas être confondu avec croire : <em class=\"ex\">je crois</em> (croire), <em class=\"ex\">je croîs</em> (croître). Même chose au participe passé : <em class=\"ex\">j'ai cru</em>, mais <em class=\"ex\">la rivière a crû</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Ils croivent tout ce qu'on leur dit.",
+      "correct": "Ils croient tout ce qu'on leur dit.",
+      "explication": "Croire se conjugue comme voir : ils voient, ils croient."
+    },
+    {
+      "faux": "Ils croyent avoir raison.",
+      "correct": "Ils croient avoir raison.",
+      "explication": "Le y ne s'utilise qu'avec nous et vous : avec ils, c'est un i."
+    },
+    {
+      "faux": "Je te croie.",
+      "correct": "Je te crois.",
+      "explication": "Au présent, je et tu se terminent par -s : je crois, tu crois."
+    },
+    {
+      "faux": "Il faut que nous y croyons.",
+      "correct": "Il faut que nous y croyions.",
+      "explication": "Au subjonctif, nous prend -yi- : que nous croyions."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Ils ___ que le match sera annulé.",
+      "options": [
+        "croient",
+        "croivent",
+        "croyent",
+        "croit"
+      ],
+      "reponse": "croient",
+      "explication": "Comme ils voient : ils croient, sans v ni y."
+    },
+    {
+      "phrase": "Ils ne ___ plus à ces promesses.",
+      "options": [
+        "croient",
+        "croivent",
+        "croyent",
+        "croie"
+      ],
+      "reponse": "croient",
+      "explication": "Avec ils, croire s'écrit croient, même à la forme négative."
+    },
+    {
+      "phrase": "Tu ___ vraiment ce qu'il t'a dit ?",
+      "options": [
+        "crois",
+        "croies",
+        "croit",
+        "croi"
+      ],
+      "reponse": "crois",
+      "explication": "Au présent, tu prend un s : tu crois. « Croies » est un subjonctif."
+    },
+    {
+      "phrase": "Nous ___ qu'une solution existe.",
+      "options": [
+        "croyons",
+        "croiyons",
+        "croient"
+      ],
+      "reponse": "croyons",
+      "explication": "Avec nous, le i devient y : nous croyons."
+    },
+    {
+      "phrase": "Il faut que vous me ___.",
+      "options": [
+        "croyiez",
+        "croyez",
+        "croiez"
+      ],
+      "reponse": "croyiez",
+      "explication": "Après « il faut que », c'est le subjonctif : que vous croyiez, avec yi."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On dit « ils croient » ou « ils croivent » ?",
+      "r": "« Ils croient ». « Croivent » n'existe pas : croire se conjugue comme voir (ils voient)."
+    },
+    {
+      "q": "Faut-il écrire « ils croyent » ?",
+      "r": "Non. Le y n'apparaît qu'avec nous et vous : nous croyons, vous croyez. Avec ils, c'est un i : ils croient."
+    },
+    {
+      "q": "Comment écrire « que je croie » ?",
+      "r": "Au subjonctif, on écrit que je croie, que tu croies, qu'il croie, avec un e final. Au présent de l'indicatif : je crois, il croit."
+    },
+    {
+      "q": "Quelle différence entre « cru » et « crû » ?",
+      "r": "« Cru » est le participe passé de croire (j'ai cru). « Crû », avec accent, est celui de croître (la rivière a crû)."
+    }
+  ],
+  "liees": [
+    "vous-faites-vous-dites",
+    "verbes-en-yer",
+    "il-faut-que-subjonctif",
+    "passe-simple-3e-personne"
+  ]
+}

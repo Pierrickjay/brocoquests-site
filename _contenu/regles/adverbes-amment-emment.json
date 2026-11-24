@@ -1,0 +1,108 @@
+{
+  "id": 63,
+  "slug": "adverbes-amment-emment",
+  "miseAJour": "2026-11-23",
+  "h1": "Adverbes en -amment ou -emment : comment choisir ?",
+  "title": "-amment ou -emment : la règle des adverbes en -ment",
+  "description": "Adverbe en -amment ou -emment ? Pars de l'adjectif : -ant donne -amment, -ent donne -emment. La règle, les exceptions, les pièges et un quiz.",
+  "reponseCourte": "<p>Retrouve l'adjectif d'où vient l'adverbe. S'il finit par <strong>-ant</strong>, l'adverbe s'écrit <strong>-amment</strong> (<em class=\"ex\">courant</em> → <em class=\"ex\">couramment</em>). S'il finit par <strong>-ent</strong>, l'adverbe s'écrit <strong>-emment</strong> (<em class=\"ex\">évident</em> → <em class=\"ex\">évidemment</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-amment</p><p>Adjectif en <strong>-ant</strong>.</p><p><em class=\"ex\">brillant → brill<mark>amment</mark></em> <em class=\"ex\">suffisant → suffis<mark>amment</mark></em></p></div><div><p class=\"big\">-emment</p><p>Adjectif en <strong>-ent</strong>.</p><p><em class=\"ex\">prudent → prud<mark>emment</mark></em> <em class=\"ex\">récent → réc<mark>emment</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>On les prononce pareil</h3><p>-amment et -emment se prononcent tous les deux « amment ». L'oreille ne t'aide pas : seul l'adjectif te donne la réponse. <em class=\"ex\">Fréquemment</em> vient de fréquent, <em class=\"ex\">bruyamment</em> vient de bruyant.</p><h3>Toujours deux m</h3><p>Que ce soit -amment ou -emment, il y a deux m. « Suffisament » ou « prudement » sont des fautes.</p><h3>Les exceptions : lentement, présentement</h3><p>Lent et présent finissent par -ent, mais leurs adverbes se forment autrement, avec le féminin + -ment : <em class=\"ex\">lente → lentement</em>, <em class=\"ex\">présente → présentement</em>.</p><h3>Les autres adverbes : féminin + -ment</h3><p>Quand l'adjectif ne finit pas par -ant ou -ent, on part en général du féminin : <em class=\"ex\">claire → clairement</em>, <em class=\"ex\">douce → doucement</em>. Un seul m, donc : pas de « clairemment ».</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Il parle courremment l'espagnol.",
+      "correct": "Il parle couramment l'espagnol.",
+      "explication": "Courant finit par -ant : l'adverbe s'écrit -amment."
+    },
+    {
+      "faux": "Évidamment, tu as raison.",
+      "correct": "Évidemment, tu as raison.",
+      "explication": "Évident finit par -ent : l'adverbe s'écrit -emment."
+    },
+    {
+      "faux": "Il travaille intelligement.",
+      "correct": "Il travaille intelligemment.",
+      "explication": "Intelligent finit par -ent : on écrit -emment, avec deux m."
+    },
+    {
+      "faux": "Il parle lentemment.",
+      "correct": "Il parle lentement.",
+      "explication": "Lent est une exception : son adverbe se forme sur le féminin, lente + ment."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Il répond ___ à toutes les questions du jury.",
+      "options": [
+        "brillament",
+        "brillemment",
+        "brillamment",
+        "brilement"
+      ],
+      "reponse": "brillamment",
+      "explication": "Brillant finit par -ant : brillamment, avec deux m."
+    },
+    {
+      "phrase": "Il a ___ expliqué les consignes à son équipe.",
+      "options": [
+        "clairemment",
+        "clairement",
+        "clairament",
+        "clairemant"
+      ],
+      "reponse": "clairement",
+      "explication": "Clair ne finit pas par -ant ou -ent : on part du féminin, claire + ment."
+    },
+    {
+      "phrase": "Elle s'est ___ préparée avant la compétition nationale.",
+      "options": [
+        "suffisammant",
+        "suffisament",
+        "suffisemment",
+        "suffisamment"
+      ],
+      "reponse": "suffisamment",
+      "explication": "Suffisant finit par -ant : suffisamment, avec deux m."
+    },
+    {
+      "phrase": "Elle parle ___ de ce sujet délicat en public.",
+      "options": [
+        "prudemment",
+        "prudemement",
+        "prudament",
+        "prudement"
+      ],
+      "reponse": "prudemment",
+      "explication": "Prudent finit par -ent : prudemment."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « évidemment » ou « évidamment » ?",
+      "r": "« Évidemment », car il vient d'évident, qui finit par -ent."
+    },
+    {
+      "q": "Suffisamment prend-il un ou deux m ?",
+      "r": "Deux m : suffisamment, de suffisant. Tous les adverbes en -amment et -emment ont deux m."
+    },
+    {
+      "q": "Pourquoi « évidemment » se prononce comme s'il y avait un a ?",
+      "r": "Dans -emment, le e se prononce « a ». C'est pour ça que les deux terminaisons sonnent pareil et qu'il faut passer par l'adjectif."
+    },
+    {
+      "q": "Pourquoi écrit-on « lentement » et pas « lentemment » ?",
+      "r": "Lent est une exception, comme présent : l'adverbe se forme sur le féminin + -ment (lentement, présentement)."
+    }
+  ],
+  "liees": [
+    "bien-sur",
+    "connexion",
+    "agressif",
+    "langage"
+  ]
+}

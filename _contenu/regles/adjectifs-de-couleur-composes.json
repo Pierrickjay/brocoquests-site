@@ -1,0 +1,110 @@
+{
+  "id": 32,
+  "slug": "adjectifs-de-couleur-composes",
+  "miseAJour": "2026-11-23",
+  "h1": "Adjectifs de couleur composés : faut-il les accorder ?",
+  "title": "Adjectifs de couleur composés : la règle d'accord",
+  "description": "Bleu marine, gris clair, vert pomme : une couleur en plusieurs mots ne s'accorde pas. La règle, le trait d'union, les pièges et un quiz express.",
+  "reponseCourte": "<p>Quand une couleur s'écrit en <strong>plusieurs mots</strong>, elle reste <strong>invariable</strong> : ni -e, ni -s. On écrit <em class=\"ex\">des robes bleu marine</em>, <em class=\"ex\">des murs gris clair</em>, <em class=\"ex\">une jupe vert pomme</em>. Une couleur en un seul mot s'accorde normalement : <em class=\"ex\">des robes bleues</em>.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">bleues</p><p>Couleur en <strong>un mot</strong> : elle s'accorde.</p><p><em class=\"ex\">des chemises bleu<mark>es</mark></em></p></div><div><p class=\"big\">bleu clair</p><p>Couleur en <strong>plusieurs mots</strong> : tout reste invariable.</p><p><em class=\"ex\">des chemises bleu clair</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Couleur + nuance, ou couleur + nom</h3><p>Les deux cas restent invariables. Avec une nuance : <em class=\"ex\">des yeux vert foncé</em>, <em class=\"ex\">des cheveux châtain clair</em>. Avec un nom : <em class=\"ex\">des chaussettes rouge sang</em>, <em class=\"ex\">des voitures gris métal</em>.</p><h3>Deux couleurs mélangées : le trait d'union</h3><p>Quand deux couleurs forment une seule teinte, on les relie par un trait d'union, et elles restent invariables : <em class=\"ex\">des yeux bleu-vert</em>, <em class=\"ex\">des reflets gris-bleu</em>. Pas de trait d'union entre une couleur et sa nuance : <em class=\"ex\">bleu clair</em>, <em class=\"ex\">bleu marine</em>.</p><h3>Plusieurs couleurs sur chaque objet</h3><p>Si chaque objet porte toutes les couleurs, on n'accorde pas : <em class=\"ex\">des drapeaux bleu, blanc, rouge</em>. Si certains objets ont une couleur et d'autres une autre, on accorde : <em class=\"ex\">des fleurs blanches et jaunes</em> (les unes blanches, les autres jaunes).</p><h3>Même au féminin singulier</h3><p>La règle vaut aussi pour le genre : <em class=\"ex\">une veste bleu clair</em>, et non « bleue claire ».</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Des robes bleu marines.",
+      "correct": "Des robes bleu marine.",
+      "explication": "Deux mots pour une seule couleur : rien ne s'accorde."
+    },
+    {
+      "faux": "Une veste bleue claire.",
+      "correct": "Une veste bleu clair.",
+      "explication": "Même au singulier, une couleur composée ne prend pas de -e."
+    },
+    {
+      "faux": "Des chaussettes vertes foncées.",
+      "correct": "Des chaussettes vert foncé.",
+      "explication": "« Vert foncé » est une couleur composée : invariable."
+    },
+    {
+      "faux": "Des yeux bleus-verts.",
+      "correct": "Des yeux bleu-vert.",
+      "explication": "Deux couleurs mélangées en une teinte : trait d'union et aucun accord."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle aime les robes ___.",
+      "options": [
+        "bleu nuit",
+        "bleue nuit",
+        "bleus nuits"
+      ],
+      "reponse": "bleu nuit",
+      "explication": "« Bleu nuit » est une couleur en deux mots : invariable."
+    },
+    {
+      "phrase": "Il porte des chaussettes ___.",
+      "options": [
+        "rouge sang",
+        "rouges sang",
+        "rouges sangs"
+      ],
+      "reponse": "rouge sang",
+      "explication": "Couleur + nom : la couleur composée reste invariable."
+    },
+    {
+      "phrase": "Nous avons repeint les volets ___.",
+      "options": [
+        "gris clair",
+        "gris clairs"
+      ],
+      "reponse": "gris clair",
+      "explication": "« Gris clair » est une couleur avec sa nuance : pas d'accord."
+    },
+    {
+      "phrase": "Elle porte des bottines ___ pour l'hiver.",
+      "options": [
+        "brun foncé",
+        "brunes foncées"
+      ],
+      "reponse": "brun foncé",
+      "explication": "« Brun foncé » est une couleur composée : ni -e ni -s."
+    },
+    {
+      "phrase": "Les rideaux ___ donnent de la chaleur au salon.",
+      "options": [
+        "jaune doré",
+        "jaunes dorés"
+      ],
+      "reponse": "jaune doré",
+      "explication": "Deux mots pour une seule teinte : invariable."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « des yeux bleu clair » ou « des yeux bleus clairs » ?",
+      "r": "« Des yeux bleu clair » : une couleur en deux mots reste invariable."
+    },
+    {
+      "q": "Faut-il un trait d'union dans « bleu marine » ?",
+      "r": "Non. Le trait d'union relie seulement deux couleurs qui se mélangent, comme « bleu-vert » ou « gris-bleu »."
+    },
+    {
+      "q": "Pourquoi les couleurs composées ne s'accordent-elles pas ?",
+      "r": "On considère qu'on sous-entend « d'un » : des robes (d'un) bleu marine. « Bleu » désigne alors la teinte, comme un nom, et ne s'accorde pas avec « robes »."
+    },
+    {
+      "q": "On écrit « des drapeaux bleus, blancs, rouges » ?",
+      "r": "Non, si chaque drapeau porte les trois couleurs : « des drapeaux bleu, blanc, rouge », sans accord."
+    }
+  ],
+  "liees": [
+    "adjectifs-de-couleur-noms",
+    "accord-adjectif-qualificatif",
+    "demi-ou-demie"
+  ]
+}

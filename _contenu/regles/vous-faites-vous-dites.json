@@ -1,0 +1,115 @@
+{
+  "id": 52,
+  "slug": "vous-faites-vous-dites",
+  "miseAJour": "2026-11-23",
+  "h1": "« Vous faites » ou « vous faisez » : quelle est la bonne forme ?",
+  "title": "vous faites ou vous faisez ? La règle pour faire et dire",
+  "description": "Vous faites ou vous faisez ? Faire et dire sont irréguliers : vous faites, vous dites. La règle, les dérivés qui piègent et un quiz express.",
+  "reponseCourte": "<p>On écrit toujours <strong>vous faites</strong> et <strong>vous dites</strong>, jamais « vous faisez » ni « vous disez ». C'est vrai au présent (<em class=\"ex\">vous faites du sport</em>) comme à l'impératif (<em class=\"ex\">dites-moi</em>). Ces deux verbes sont des exceptions à retenir par cœur.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">vous faites</p><p>Verbe <strong>faire</strong> au présent et à l'impératif.</p><p><em class=\"ex\">Que fai<mark>tes</mark>-vous ?</em> (et non « faisez »)</p></div><div><p class=\"big\">vous dites</p><p>Verbe <strong>dire</strong> au présent et à l'impératif.</p><p><em class=\"ex\">Vous di<mark>tes</mark> vrai</em> (et non « disez »)</p></div><div><p class=\"big\">vous êtes</p><p>Verbe <strong>être</strong> : la même finale en -tes.</p><p><em class=\"ex\">Vous ê<mark>tes</mark> prêts ?</em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Les dérivés de faire suivent faire</h3><p>Refaire, défaire et satisfaire gardent la même forme : <em class=\"ex\">vous refaites</em>, <em class=\"ex\">vous défaites</em>, <em class=\"ex\">vous satisfaites</em>.</p><h3>Les dérivés de dire, eux, sont réguliers</h3><p>Seul <strong>redire</strong> fait <em class=\"ex\">vous redites</em>. Les autres prennent -disez : <em class=\"ex\">vous contredisez</em>, <em class=\"ex\">vous interdisez</em>, <em class=\"ex\">vous prédisez</em>, <em class=\"ex\">vous médisez</em>.</p><h3>« Vous faisiez » existe bien</h3><p>Ne corrige pas tout ! À l'imparfait, on écrit <em class=\"ex\">vous faisiez</em> et <em class=\"ex\">vous disiez</em>. Au subjonctif : <em class=\"ex\">que vous fassiez</em>, <em class=\"ex\">que vous disiez</em>. L'exception ne concerne que le présent et l'impératif.</p><h3>Le saviez-vous ?</h3><p>Au présent, presque toutes les formes avec vous finissent par -ez. Il n'y a que trois exceptions, avec leurs dérivés : <em class=\"ex\">vous êtes</em>, <em class=\"ex\">vous faites</em> et <em class=\"ex\">vous dites</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Comment faisez-vous pour tout retenir ?",
+      "correct": "Comment faites-vous pour tout retenir ?",
+      "explication": "Faire est irrégulier : on dit vous faites, jamais « vous faisez »."
+    },
+    {
+      "faux": "Disez-moi la vérité.",
+      "correct": "Dites-moi la vérité.",
+      "explication": "À l'impératif aussi, dire fait dites."
+    },
+    {
+      "faux": "Vous vous contredites sans arrêt.",
+      "correct": "Vous vous contredisez sans arrêt.",
+      "explication": "Parmi les dérivés de dire, seul redire garde -dites : contredire fait vous contredisez."
+    },
+    {
+      "faux": "Vous satisfaisez tous vos clients.",
+      "correct": "Vous satisfaites tous vos clients.",
+      "explication": "Satisfaire se conjugue comme faire : vous satisfaites."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Qu'est-ce que vous ___ dans la vie ?",
+      "options": [
+        "faites",
+        "faisez",
+        "fesez",
+        "fairez"
+      ],
+      "reponse": "faites",
+      "explication": "Faire est irrégulier au présent : vous faites."
+    },
+    {
+      "phrase": "Vous ___ n'importe quoi en ce moment.",
+      "options": [
+        "dites",
+        "disez",
+        "disent"
+      ],
+      "reponse": "dites",
+      "explication": "Dire est irrégulier : vous dites. « Disent » va avec ils."
+    },
+    {
+      "phrase": "Vous ___ toujours du bon travail ici.",
+      "options": [
+        "faites",
+        "faisez",
+        "fesiez",
+        "fassiez"
+      ],
+      "reponse": "faites",
+      "explication": "Au présent, c'est vous faites ; « fassiez » est un subjonctif, qui demande « que »."
+    },
+    {
+      "phrase": "Vous ne ___ pas ce que vous pensez vraiment.",
+      "options": [
+        "dites",
+        "disez",
+        "dite"
+      ],
+      "reponse": "dites",
+      "explication": "Même à la forme négative, dire fait vous dites."
+    },
+    {
+      "phrase": "Vous ___ toujours la même histoire !",
+      "options": [
+        "redites",
+        "redisez"
+      ],
+      "reponse": "redites",
+      "explication": "Redire est le seul dérivé de dire qui garde la forme vous redites."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On dit « vous faites » ou « vous faisez » ?",
+      "r": "Toujours « vous faites ». « Vous faisez » est une faute, au présent comme à l'impératif."
+    },
+    {
+      "q": "On écrit « vous dites » ou « vous disez » ?",
+      "r": "« Vous dites ». Attention aux dérivés : contredire, interdire ou prédire font « vous contredisez », « vous interdisez », « vous prédisez »."
+    },
+    {
+      "q": "Pourquoi dit-on « vous faites » et pas « vous faisez » ?",
+      "r": "Ce sont des formes très anciennes, héritées du latin, qui ne suivent pas la règle générale en -ez. Il faut simplement les retenir."
+    },
+    {
+      "q": "Doit-on dire « vous prédites » ?",
+      "r": "Non, on dit « vous prédisez ». Parmi les dérivés de dire, seul redire garde « vous redites »."
+    }
+  ],
+  "liees": [
+    "ils-croient",
+    "passe-simple-3e-personne",
+    "er-ou-ez",
+    "imperatif-sans-s"
+  ]
+}

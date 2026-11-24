@@ -1,0 +1,118 @@
+{
+  "id": 51,
+  "slug": "passe-simple-3e-personne",
+  "miseAJour": "2026-11-23",
+  "h1": "Passé simple à la 3e personne : -a, -it, -ut ou -int ?",
+  "title": "Passé simple 3e personne : -a, -it, -ut ou -int ?",
+  "description": "Passé simple à la 3e personne : -a pour les verbes en -er, -it, -ut ou -int pour les autres. La règle simple, les pièges fréquents et un quiz express.",
+  "reponseCourte": "<p>À la 3e personne du singulier, le passé simple se termine par <strong>-a</strong> pour les verbes en -er (<em class=\"ex\">il parla</em>), par <strong>-it</strong> pour la plupart des autres verbes (<em class=\"ex\">il finit</em>, <em class=\"ex\">il prit</em>), par <strong>-ut</strong> pour certains verbes irréguliers (<em class=\"ex\">il voulut</em>) et par <strong>-int</strong> pour venir et tenir (<em class=\"ex\">il vint</em>). Au pluriel, cela donne -èrent, -irent, -urent ou -inrent.</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-a</p><p>Tous les verbes en <strong>-er</strong>, et aussi aller.</p><p><em class=\"ex\">il parl<mark>a</mark></em> <em class=\"ex\">ils parl<mark>èrent</mark></em></p></div><div><p class=\"big\">-it</p><p>Le <strong>2e groupe</strong> et beaucoup de verbes du 3e.</p><p><em class=\"ex\">il fin<mark>it</mark></em> <em class=\"ex\">il pr<mark>it</mark></em> <em class=\"ex\">ils pr<mark>irent</mark></em></p></div><div><p class=\"big\">-ut</p><p><strong>Être</strong>, <strong>avoir</strong> et d'autres verbes irréguliers.</p><p><em class=\"ex\">il f<mark>ut</mark></em> <em class=\"ex\">il voul<mark>ut</mark></em> <em class=\"ex\">ils voul<mark>urent</mark></em></p></div><div><p class=\"big\">-int</p><p><strong>Venir</strong>, <strong>tenir</strong> et leurs dérivés.</p><p><em class=\"ex\">il v<mark>int</mark></em> <em class=\"ex\">elle dev<mark>int</mark></em> <em class=\"ex\">ils t<mark>inrent</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Un t à la fin, pas un s</h3><p>Avec -it, -ut et -int, la 3e personne se termine toujours par un <strong>t</strong> : <em class=\"ex\">il prit</em>, <em class=\"ex\">il fut</em>. Le s est réservé à je et tu : <em class=\"ex\">je pris</em>, <em class=\"ex\">tu pris</em>.</p><h3>Quand le passé simple ressemble au présent</h3><p>Pour les verbes du 2e groupe et quelques autres, les deux temps s'écrivent pareil : <em class=\"ex\">il finit</em>, <em class=\"ex\">il dit</em>. C'est la phrase qui indique le temps. Mais d'autres verbes changent : <em class=\"ex\">il lit</em> devient <em class=\"ex\">il lut</em>, <em class=\"ex\">il court</em> devient <em class=\"ex\">il courut</em>.</p><h3>« Il fut » ou « qu'il fût » ?</h3><p>Au passé simple, la 3e personne du singulier ne prend jamais d'accent circonflexe : <em class=\"ex\">il fut</em>, <em class=\"ex\">il eut</em>, <em class=\"ex\">il fit</em>. Avec l'accent, c'est un autre temps, l'imparfait du subjonctif : <em class=\"ex\">qu'il fût</em>, <em class=\"ex\">qu'il fît</em>.</p><h3>Les verbes qui piègent</h3><p>Conclure fait <em class=\"ex\">il conclut</em>, vivre fait <em class=\"ex\">il vécut</em>, naître fait <em class=\"ex\">il naquit</em>, mourir fait <em class=\"ex\">il mourut</em>. Et les verbes en -eler gardent un seul l : <em class=\"ex\">elle appela</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elle finissa son travail tard.",
+      "correct": "Elle finit son travail tard.",
+      "explication": "Finir est du 2e groupe : la terminaison est -it, pas -a."
+    },
+    {
+      "faux": "Il conclua la réunion à midi.",
+      "correct": "Il conclut la réunion à midi.",
+      "explication": "Conclure fait partie des verbes en -ut : il conclut, comme il voulut."
+    },
+    {
+      "faux": "Elle tenit parole.",
+      "correct": "Elle tint parole.",
+      "explication": "Tenir, comme venir, se termine en -int au passé simple."
+    },
+    {
+      "faux": "Il pris son manteau et sortit.",
+      "correct": "Il prit son manteau et sortit.",
+      "explication": "Avec il, la terminaison -it finit par un t : le s est pour je et tu."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Il ___ la situation rapidement.",
+      "options": [
+        "comprit",
+        "comprida",
+        "comprendit",
+        "comprenda"
+      ],
+      "reponse": "comprit",
+      "explication": "Comprendre se conjugue comme prendre : il comprit, en -it."
+    },
+    {
+      "phrase": "Elle ___ vers la fenêtre pour regarder.",
+      "options": [
+        "alla",
+        "allat",
+        "allèrent",
+        "allé"
+      ],
+      "reponse": "alla",
+      "explication": "Aller prend la terminaison -a des verbes en -er, sans t."
+    },
+    {
+      "phrase": "Il ___ au bon moment pour éviter les problèmes.",
+      "options": [
+        "vint",
+        "venai",
+        "vinrent",
+        "venu"
+      ],
+      "reponse": "vint",
+      "explication": "Venir se termine en -int ; « vinrent » serait le pluriel."
+    },
+    {
+      "phrase": "Il ___ ses clés et referma la porte.",
+      "options": [
+        "prit",
+        "prendit",
+        "prena",
+        "prendait"
+      ],
+      "reponse": "prit",
+      "explication": "Prendre fait il prit, en -it : « prendit » n'existe pas."
+    },
+    {
+      "phrase": "Elle ___ un taxi pour rentrer chez elle.",
+      "options": [
+        "appela",
+        "appella",
+        "appelèrent"
+      ],
+      "reponse": "appela",
+      "explication": "Verbe en -er, donc -a, avec un seul l comme dans « appeler »."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la terminaison du passé simple à la 3e personne du singulier ?",
+      "r": "-a pour les verbes en -er, -it pour le 2e groupe et une partie du 3e, -ut pour certains verbes irréguliers (il fut, il voulut) et -int pour venir et tenir (il vint)."
+    },
+    {
+      "q": "On écrit « il prit » ou « il pris » ?",
+      "r": "« Il prit », avec un t. « Pris » avec un s correspond à je ou tu : je pris, tu pris."
+    },
+    {
+      "q": "On écrit « il fut » ou « il fût » ?",
+      "r": "« Il fut », sans accent, au passé simple. « Qu'il fût », avec l'accent, est un imparfait du subjonctif."
+    },
+    {
+      "q": "Quel est le passé simple de conclure ?",
+      "r": "Il conclut, ils conclurent. La forme « il conclua » n'existe pas."
+    }
+  ],
+  "liees": [
+    "vous-faites-vous-dites",
+    "ils-croient",
+    "nourrir-mourir-un-ou-deux-r",
+    "futur-ou-conditionnel-ai-ais"
+  ]
+}

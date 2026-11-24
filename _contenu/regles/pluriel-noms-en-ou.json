@@ -1,0 +1,99 @@
+{
+  "id": 37,
+  "slug": "pluriel-noms-en-ou",
+  "miseAJour": "2026-11-23",
+  "h1": "Pluriel des noms en -ou : -s ou -x ?",
+  "title": "Pluriel des noms en -ou : la règle et les 7 exceptions",
+  "description": "Les noms en -ou prennent un -s au pluriel, sauf sept qui prennent un -x : bijou, caillou, chou, genou, hibou, joujou, pou. Pièges et quiz.",
+  "reponseCourte": "<p>Les noms en <strong>-ou</strong> prennent un <strong>-s</strong> au pluriel : <em class=\"ex\">des trous</em>, <em class=\"ex\">des clous</em>, <em class=\"ex\">des bisous</em>. Seuls sept noms prennent un <strong>-x</strong> : <strong>bijou, caillou, chou, genou, hibou, joujou, pou</strong> (<em class=\"ex\">des bijoux</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-ous</p><p>La <strong>règle générale</strong> : on ajoute un -s.</p><p><em class=\"ex\">des trou<mark>s</mark>, des clou<mark>s</mark>, des bisou<mark>s</mark></em></p></div><div><p class=\"big\">-oux</p><p>Les <strong>sept exceptions</strong> : on ajoute un -x.</p><p><em class=\"ex\">des bijou<mark>x</mark>, des genou<mark>x</mark>, des pou<mark>x</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Une phrase pour retenir les sept exceptions</h3><p>« Venez, mes chou<mark>x</mark>, mes bijou<mark>x</mark>, mes joujou<mark>x</mark>, sur mes genou<mark>x</mark>, et jetez des caillou<mark>x</mark> à ces hibou<mark>x</mark> pleins de pou<mark>x</mark> ! » Tous les autres noms en -ou prennent un -s.</p><h3>« Bisous », pas « bisoux »</h3><p>C'est l'erreur la plus fréquente : « bisou » ne fait pas partie de la liste. On écrit <em class=\"ex\">gros bisous</em>. Même chose pour <em class=\"ex\">des coucous</em>, <em class=\"ex\">des kangourous</em>, <em class=\"ex\">des sous</em>.</p><h3>Les noms composés avec « chou »</h3><p>Dans « chou-fleur », les deux mots se mettent au pluriel : <em class=\"ex\">des choux-fleurs</em>.</p><h3>Les mots qui finissent déjà par -oux</h3><p>Certains mots ont déjà un -x au singulier : <em class=\"ex\">un époux</em>, <em class=\"ex\">un redoux</em>. Ils ne changent pas au pluriel : <em class=\"ex\">des époux</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Elle a des pous dans les cheveux.",
+      "correct": "Elle a des poux dans les cheveux.",
+      "explication": "« Pou » fait partie des sept exceptions : il prend un -x."
+    },
+    {
+      "faux": "Des caillous sur le chemin.",
+      "correct": "Des cailloux sur le chemin.",
+      "explication": "« Caillou » est dans la liste des sept : -x."
+    },
+    {
+      "faux": "Gros bisoux !",
+      "correct": "Gros bisous !",
+      "explication": "« Bisou » n'est pas dans la liste : il prend un -s."
+    },
+    {
+      "faux": "Des troux dans le mur.",
+      "correct": "Des trous dans le mur.",
+      "explication": "« Trou » suit la règle générale : -s."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Elle s'est blessée aux deux ___.",
+      "options": [
+        "genoux",
+        "genous",
+        "genou"
+      ],
+      "reponse": "genoux",
+      "explication": "« Genou » fait partie des sept exceptions : -x."
+    },
+    {
+      "phrase": "Le jardin est plein de ___ colorés.",
+      "options": [
+        "choux",
+        "chous",
+        "chou"
+      ],
+      "reponse": "choux",
+      "explication": "« Chou » est dans la liste des sept : il prend un -x."
+    },
+    {
+      "phrase": "Des ___ s'étaient nichés dans le grenier.",
+      "options": [
+        "hiboux",
+        "hibous",
+        "hibou"
+      ],
+      "reponse": "hiboux",
+      "explication": "« Hibou » fait partie des exceptions : -x."
+    },
+    {
+      "phrase": "Elle range ses ___ dans une boîte en velours.",
+      "options": [
+        "bijoux",
+        "bijous",
+        "bijou"
+      ],
+      "reponse": "bijoux",
+      "explication": "« Bijou » est la première exception de la liste : -x."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels sont les 7 noms en -ou qui prennent un x au pluriel ?",
+      "r": "Bijou, caillou, chou, genou, hibou, joujou et pou. Tous les autres noms en -ou prennent un -s."
+    },
+    {
+      "q": "On écrit « bisous » ou « bisoux » ?",
+      "r": "« Bisous », avec un -s : « bisou » ne fait pas partie des sept exceptions."
+    },
+    {
+      "q": "Quel est le pluriel de « chou-fleur » ?",
+      "r": "« Des choux-fleurs » : les deux noms se mettent au pluriel, et « chou » prend son -x."
+    }
+  ],
+  "liees": [
+    "pluriel-noms-en-al",
+    "pluriel-noms-en-ail",
+    "pluriel-vingt-cent"
+  ]
+}

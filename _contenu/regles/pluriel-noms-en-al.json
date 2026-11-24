@@ -1,0 +1,95 @@
+{
+  "id": 38,
+  "slug": "pluriel-noms-en-al",
+  "miseAJour": "2026-11-23",
+  "h1": "Pluriel des noms en -al : -aux ou -als ?",
+  "title": "Pluriel des noms en -al : -aux ou -als ? La règle",
+  "description": "Les noms en -al font leur pluriel en -aux, sauf bal, carnaval, chacal, festival, récital, régal et cal, qui prennent un -s. Pièges et quiz.",
+  "reponseCourte": "<p>Les noms en <strong>-al</strong> font leur pluriel en <strong>-aux</strong> : <em class=\"ex\">un cheval, des chevaux</em>, <em class=\"ex\">un journal, des journaux</em>. Quelques-uns prennent simplement un <strong>-s</strong> : <strong>bal, carnaval, chacal, festival, récital, régal</strong> et <strong>cal</strong> (<em class=\"ex\">des festivals</em>).</p>",
+  "complementRegle": "<div class=\"compare\"><div><p class=\"big\">-aux</p><p>La <strong>règle générale</strong>.</p><p><em class=\"ex\">des chev<mark>aux</mark>, des journ<mark>aux</mark>, des anim<mark>aux</mark></em></p></div><div><p class=\"big\">-als</p><p>Les <strong>exceptions</strong> : on ajoute un -s.</p><p><em class=\"ex\">des bal<mark>s</mark>, des festival<mark>s</mark>, des chacal<mark>s</mark></em></p></div></div>",
+  "sections": [
+    {
+      "titre": "Les cas qui font hésiter",
+      "html": "<h3>Une phrase pour retenir les exceptions</h3><p>« Au festival, après le récital et le carnaval, le chacal s'est offert un régal au bal. » Ajoute « cal » (la peau durcie), plus rare. Ces mots prennent un -s au pluriel.</p><h3>« Idéal » et « val » : deux pluriels</h3><p>« Idéal » accepte <em class=\"ex\">des idéaux</em> et <em class=\"ex\">des idéals</em>. « Val » fait <em class=\"ex\">des vals</em>, mais l'ancien pluriel reste dans l'expression <em class=\"ex\">par monts et par vaux</em>.</p><h3>Les adjectifs en -al</h3><p>La plupart suivent la même règle : <em class=\"ex\">des festivals musicaux</em>, <em class=\"ex\">des journaux régionaux</em>. Quelques-uns prennent -als : <em class=\"ex\">banals</em>, <em class=\"ex\">bancals</em>, <em class=\"ex\">fatals</em>, <em class=\"ex\">natals</em>, <em class=\"ex\">navals</em>. « Final » accepte les deux : <em class=\"ex\">finals</em> ou <em class=\"ex\">finaux</em>.</p>"
+    }
+  ],
+  "pieges": [
+    {
+      "faux": "Des carnavaux colorés.",
+      "correct": "Des carnavals colorés.",
+      "explication": "« Carnaval » fait partie des exceptions : il prend un -s."
+    },
+    {
+      "faux": "Deux récitaux de piano.",
+      "correct": "Deux récitals de piano.",
+      "explication": "« Récital » est dans la liste des exceptions : -als."
+    },
+    {
+      "faux": "Des métals précieux.",
+      "correct": "Des métaux précieux.",
+      "explication": "« Métal » n'est pas une exception : il suit la règle en -aux."
+    },
+    {
+      "faux": "Des chacaux dans la savane.",
+      "correct": "Des chacals dans la savane.",
+      "explication": "« Chacal » fait partie des exceptions : -als."
+    }
+  ],
+  "quiz": [
+    {
+      "phrase": "Les ___ paissaient dans la prairie.",
+      "options": [
+        "chevaux",
+        "chevals"
+      ],
+      "reponse": "chevaux",
+      "explication": "« Cheval » suit la règle générale : -aux."
+    },
+    {
+      "phrase": "Il participe à plusieurs ___ de musique.",
+      "options": [
+        "festivals",
+        "festivaux"
+      ],
+      "reponse": "festivals",
+      "explication": "« Festival » fait partie des exceptions : il prend un -s."
+    },
+    {
+      "phrase": "Ces ___ traitent de politique internationale.",
+      "options": [
+        "journaux",
+        "journals"
+      ],
+      "reponse": "journaux",
+      "explication": "« Journal » n'est pas une exception : -aux."
+    },
+    {
+      "phrase": "Le vétérinaire soigne tous les ___ de la ferme.",
+      "options": [
+        "animaux",
+        "animals"
+      ],
+      "reponse": "animaux",
+      "explication": "« Animal » suit la règle générale : -aux."
+    }
+  ],
+  "faq": [
+    {
+      "q": "On écrit « des festivals » ou « des festivaux » ?",
+      "r": "« Des festivals » : « festival » fait partie des exceptions qui prennent un simple -s."
+    },
+    {
+      "q": "Quels noms en -al prennent un s au pluriel ?",
+      "r": "Les plus courants sont bal, carnaval, chacal, festival, récital, régal et cal. Les autres noms en -al font -aux."
+    },
+    {
+      "q": "Le pluriel d'« idéal », c'est « idéals » ou « idéaux » ?",
+      "r": "Les deux sont admis. « Idéaux » est aujourd'hui le plus employé."
+    }
+  ],
+  "liees": [
+    "pluriel-noms-en-ail",
+    "pluriel-noms-en-ou",
+    "accord-adjectif-qualificatif"
+  ]
+}

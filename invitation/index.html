@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Invitation BrocoQuests</title>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="180x180" href="/apple-touch-icon.png">
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Nunito',-apple-system,system-ui,sans-serif;color:#1a2417;background:#efe9dd;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:6vh 16px;text-align:center}
+main{max-width:420px;width:100%}
+.logo{width:80px;height:80px;border-radius:18px;margin:0 auto 16px;display:block}
+h1{font-size:1.4rem;font-weight:900;margin-bottom:16px}
+.message{background:#fff;border-radius:14px;padding:16px;text-align:left;white-space:pre-line;line-height:1.5;color:#4a5646;margin-bottom:20px;overflow-wrap:anywhere}
+.actions{display:flex;flex-direction:column;gap:12px}
+.button{display:block;padding:14px 20px;border-radius:14px;border:0;background:#1a2417;color:#fff;text-decoration:none;font:inherit;font-weight:800;font-size:1.05rem;cursor:pointer}
+.button:hover{background:#3d8b2f}
+.button.secondary{background:#fff;color:#1a2417}
+</style>
+</head>
+<body>
+<main>
+<img src="/apple-touch-icon.png" alt="BrocoQuests" class="logo" width="80" height="80">
+<h1>Message prêt à envoyer</h1>
+<p id="message" class="message"></p>
+<div class="actions">
+<a id="sms-link" class="button" href="#">Ouvrir dans Messages</a>
+<button id="copy-button" class="button secondary" type="button">Copier le message</button>
+</div>
+</main>
+
+<script>
+(function () {
+  const APP_LINK = 'https://brocoquests.fr/app/?src=orthophoniste';
+  const params = new URLSearchParams(location.search);
+  const recipient = params.get('d') === 'child' ? 'child' : 'parent';
+  const code = params.get('c') || '';
+  const orthoName = params.get('n') || '';
+
+  function buildMessage() {
+    if (recipient === 'parent')
+      return [
+        'Bonjour, voici le lien pour installer BrocoQuests sur le téléphone de votre enfant, pour ses exercices entre nos séances : ' + APP_LINK,
+        "Puis dans l'application, cliquez sur Commencer, puis J'ai un code et entrez : " + code + ". Autorisez les notifications et laissez l'application vous guider.",
+        'Merci',
+        orthoName,
+      ].join('\n');
+
+    return [
+      'Bonjour, voici le lien pour installer BrocoQuests sur ton téléphone, pour tes exercices entre nos séances : ' + APP_LINK,
+      "Puis dans l'application, clique sur Commencer, puis J'ai un code et entre : " + code + ". Autorise les notifications et laisse l'application te guider.",
+      'Merci',
+      orthoName,
+    ].join('\n');
+  }
+
+  function detectPlatform() {
+    const ua = navigator.userAgent;
+    // iPadOS presents itself as a desktop Mac; only touch support gives it away
+    const isIPadOS = /Macintosh/.test(ua) && navigator.maxTouchPoints > 1;
+    if (/iPhone|iPad|iPod/.test(ua) || isIPadOS)
+      return 'ios';
+    if (/Android/.test(ua))
+      return 'android';
+    return 'desktop';
+  }
+
+  // iOS only accepts `sms:&body=`, Android only `sms:?body=`
+  function buildSmsUri(platform, message) {
+    const body = encodeURIComponent(message);
+    return platform === 'ios' ? 'sms:&body=' + body : 'sms:?body=' + body;
+  }
+
+  const message = buildMessage();
+  const platform = detectPlatform();
+  const smsUri = buildSmsUri(platform, message);
+
+  document.getElementById('message').textContent = message;
+  document.getElementById('sms-link').href = smsUri;
+  document.getElementById('copy-button').addEventListener('click', function () {
+    const button = this;
+    navigator.clipboard.writeText(message).then(function () {
+      button.textContent = 'Message copié ✓';
+    });
+  });
+
+  if (platform === 'desktop')
+    document.getElementById('sms-link').hidden = true;
+  else
+    location.href = smsUri;
+})();
+</script>
+</body>
+</html>
